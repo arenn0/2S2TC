@@ -1,0 +1,2132 @@
+GloVe model loaded
+Pretrained Embedding: GloVe
+Italian: False
+Loading data...
+11566
+Max Document length: 36
+Dimension of the training set:  300
+Vocabulary Size: 1
+Train/Unlabeled/Dev split: 3000/7500/750
+Writing to /home/ubuntu/Project/runs/1554144418
+
+2019-04-01T18:47:02.199950: step 1, loss 0.701736, accuracy 0.5, precision 0.5260416666666666, recall 0.63125
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:04.109704: step 2, loss 0.669271, accuracy 0.603333, precision 0.78125, recall 0.6607929515418502
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:04.474276: step 3, loss 0.633302, accuracy 0.65, precision 0.9322916666666666, recall 0.6605166051660517
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:04.832754: step 4, loss 0.598369, accuracy 0.696667, precision 1.0, recall 0.6784452296819788
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:05.195270: step 5, loss 0.569521, accuracy 0.686667, precision 0.9947916666666666, recall 0.6725352112676056
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:05.539874: step 6, loss 0.52697, accuracy 0.683333, precision 1.0, recall 0.6689895470383276
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:05.891214: step 7, loss 0.498026, accuracy 0.696667, precision 1.0, recall 0.6784452296819788
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:06.238663: step 8, loss 0.461723, accuracy 0.753333, precision 1.0, recall 0.7218045112781954
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:06.592920: step 9, loss 0.422963, accuracy 0.776667, precision 1.0, recall 0.7413127413127413
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:06.951422: step 10, loss 0.384747, accuracy 0.843333, precision 1.0, recall 0.803347280334728
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:07.304060: step 11, loss 0.345789, accuracy 0.893333, precision 1.0, recall 0.8571428571428571
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:07.669161: step 12, loss 0.301917, accuracy 0.94, precision 1.0, recall 0.9142857142857143
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:08.034964: step 13, loss 0.257971, accuracy 0.976667, precision 1.0, recall 0.964824120603015
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:08.401270: step 14, loss 0.223409, accuracy 0.99, precision 1.0, recall 0.9846153846153847
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:47:08.748208: step 15, loss 0.195187, accuracy 0.996667, precision 1.0, recall 0.9948186528497409
+Number of tweets above confidence threshold:  15
+[[15  0]
+ [ 0  0]]
+2019-04-01T18:47:09.105219: step 16, loss 0.164828, accuracy 0.993333, precision 0.9947916666666666, recall 0.9947916666666666
+Number of tweets above confidence threshold:  71
+[[70  0]
+ [ 1  0]]
+2019-04-01T18:47:10.730815: step 17, loss 0.136782, accuracy 0.993651, precision 0.9951690821256038, recall 0.9951690821256038
+Number of tweets above confidence threshold:  120
+[[118   1]
+ [  0   1]]
+2019-04-01T18:47:12.363560: step 18, loss 0.120154, accuracy 0.992228, precision 0.9964028776978417, recall 0.992831541218638
+Number of tweets above confidence threshold:  155
+[[152   0]
+ [  1   2]]
+2019-04-01T18:47:14.128690: step 19, loss 0.098564, accuracy 0.996047, precision 0.9974747474747475, recall 0.9974747474747475
+Number of tweets above confidence threshold:  193
+[[179   0]
+ [ 11   3]]
+2019-04-01T18:47:16.023291: step 20, loss 0.0830812, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  178
+[[158   2]
+ [  4  14]]
+2019-04-01T18:47:18.037900: step 21, loss 0.0649511, accuracy 0.998829, precision 0.9986468200270636, recall 1.0
+Number of tweets above confidence threshold:  206
+[[177   4]
+ [ 11  14]]
+2019-04-01T18:47:20.092105: step 22, loss 0.0530628, accuracy 0.998062, precision 0.9988901220865705, recall 0.9988901220865705
+Number of tweets above confidence threshold:  260
+[[232   5]
+ [ 10  13]]
+2019-04-01T18:47:22.364452: step 23, loss 0.0440484, accuracy 0.999192, precision 0.9990817263544536, recall 1.0
+Number of tweets above confidence threshold:  227
+[[189   5]
+ [ 15  18]]
+2019-04-01T18:47:24.792915: step 24, loss 0.0373727, accuracy 0.999332, precision 0.9992486851990984, recall 1.0
+Number of tweets above confidence threshold:  214
+[[179   6]
+ [ 14  15]]
+2019-04-01T18:47:27.409471: step 25, loss 0.0303605, accuracy 0.99942, precision 0.9993485342019544, recall 1.0
+
+Evaluation:
+[[402  79]
+ [117 152]]
+2019-04-01T18:47:27.727982: step 25, loss 0.574587, accuracy 0.738667, precision 0.8357588357588358, recall 0.7745664739884393
+
+Number of tweets above confidence threshold:  219
+[[172   8]
+ [ 20  19]]
+2019-04-01T18:47:30.499026: step 26, loss 0.0246368, accuracy 0.999484, precision 0.9994212962962963, recall 1.0
+Number of tweets above confidence threshold:  199
+[[159   7]
+ [ 10  23]]
+2019-04-01T18:47:33.407158: step 27, loss 0.0191436, accuracy 0.999537, precision 0.9994791666666667, recall 1.0
+Number of tweets above confidence threshold:  164
+[[119   5]
+ [ 21  19]]
+2019-04-01T18:47:36.446357: step 28, loss 0.0177081, accuracy 0.999576, precision 1.0, recall 0.9995215311004785
+Number of tweets above confidence threshold:  164
+[[114   5]
+ [ 25  20]]
+2019-04-01T18:47:39.624618: step 29, loss 0.0158103, accuracy 0.999603, precision 0.9995513683266039, recall 1.0
+Number of tweets above confidence threshold:  169
+[[110   7]
+ [ 25  27]]
+2019-04-01T18:47:42.884461: step 30, loss 0.0135142, accuracy 0.999628, precision 0.9995777027027027, recall 1.0
+Number of tweets above confidence threshold:  124
+[[79  7]
+ [17 21]]
+2019-04-01T18:47:46.288762: step 31, loss 0.0120914, accuracy 0.99965, precision 0.9996004794246903, recall 1.0
+Number of tweets above confidence threshold:  126
+[[78  4]
+ [20 24]]
+2019-04-01T18:47:49.783502: step 32, loss 0.0110968, accuracy 0.999664, precision 0.9996152366294728, recall 1.0
+Number of tweets above confidence threshold:  112
+[[69  5]
+ [15 23]]
+2019-04-01T18:47:53.313365: step 33, loss 0.0101256, accuracy 0.999678, precision 0.9996292176492398, recall 1.0
+Number of tweets above confidence threshold:  95
+[[64  4]
+ [11 16]]
+2019-04-01T18:47:56.956406: step 34, loss 0.0087338, accuracy 0.999689, precision 0.9996404171161453, recall 1.0
+Number of tweets above confidence threshold:  99
+[[61  5]
+ [17 16]]
+2019-04-01T18:48:00.652729: step 35, loss 0.0080551, accuracy 0.999698, precision 0.9996498599439776, recall 1.0
+Number of tweets above confidence threshold:  63
+[[29  5]
+ [10 19]]
+2019-04-01T18:48:04.500996: step 36, loss 0.00836078, accuracy 0.999707, precision 0.9996591683708248, recall 1.0
+Number of tweets above confidence threshold:  70
+[[35  8]
+ [ 8 19]]
+2019-04-01T18:48:08.361158: step 37, loss 0.00738912, accuracy 0.999712, precision 0.9996636394214599, recall 1.0
+Number of tweets above confidence threshold:  82
+[[39  6]
+ [16 21]]
+2019-04-01T18:48:12.263282: step 38, loss 0.0072078, accuracy 0.999718, precision 1.0, recall 0.9996685449121644
+Number of tweets above confidence threshold:  69
+[[36  8]
+ [ 7 18]]
+2019-04-01T18:48:16.239618: step 39, loss 0.006956, accuracy 0.999724, precision 1.0, recall 0.9996744791666666
+Number of tweets above confidence threshold:  48
+[[24  7]
+ [ 6 11]]
+2019-04-01T18:48:20.227825: step 40, loss 0.00650276, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  45
+[[19  8]
+ [ 5 13]]
+2019-04-01T18:48:24.266862: step 41, loss 0.0063968, accuracy 0.999733, precision 0.9996819338422391, recall 1.0
+Number of tweets above confidence threshold:  49
+[[24  6]
+ [ 5 14]]
+2019-04-01T18:48:28.357865: step 42, loss 0.00626736, accuracy 0.999736, precision 0.9996843434343434, recall 1.0
+Number of tweets above confidence threshold:  28
+[[12  2]
+ [ 3 11]]
+2019-04-01T18:48:32.490786: step 43, loss 0.00612357, accuracy 0.999739, precision 1.0, recall 0.9996873045653534
+Number of tweets above confidence threshold:  44
+[[19  8]
+ [ 5 12]]
+2019-04-01T18:48:36.617583: step 44, loss 0.00606362, accuracy 0.999482, precision 0.9996886674968867, recall 0.9996886674968867
+Number of tweets above confidence threshold:  28
+[[ 7  9]
+ [ 1 11]]
+2019-04-01T18:48:40.781358: step 45, loss 0.00566227, accuracy 0.999744, precision 0.9996909765142151, recall 1.0
+Number of tweets above confidence threshold:  38
+[[15  7]
+ [ 3 13]]
+2019-04-01T18:48:44.970355: step 46, loss 0.00568755, accuracy 0.999746, precision 0.999691738594328, recall 1.0
+Number of tweets above confidence threshold:  38
+[[ 9  2]
+ [11 16]]
+2019-04-01T18:48:49.238882: step 47, loss 0.005691, accuracy 0.999748, precision 0.9996934396076027, recall 1.0
+Number of tweets above confidence threshold:  23
+[[10  2]
+ [ 2  9]]
+2019-04-01T18:48:52.465367: step 48, loss 0.0055329, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  17
+[[8 3]
+ [0 6]]
+2019-04-01T18:48:56.764455: step 49, loss 0.00553734, accuracy 0.999752, precision 0.9996964177292046, recall 1.0
+Number of tweets above confidence threshold:  21
+[[8 6]
+ [0 7]]
+2019-04-01T18:49:01.059173: step 50, loss 0.00527326, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[389  92]
+ [115 154]]
+2019-04-01T18:49:01.087497: step 50, loss 0.807272, accuracy 0.724, precision 0.8087318087318087, recall 0.7718253968253969
+
+Number of tweets above confidence threshold:  24
+[[ 6  4]
+ [ 4 10]]
+2019-04-01T18:49:05.405764: step 51, loss 0.0053055, accuracy 0.999754, precision 0.9996978851963746, recall 1.0
+Number of tweets above confidence threshold:  29
+[[ 8 10]
+ [ 3  8]]
+2019-04-01T18:49:09.726798: step 52, loss 0.005271, accuracy 0.999756, precision 0.9996987951807229, recall 1.0
+Number of tweets above confidence threshold:  16
+[[6 0]
+ [3 7]]
+2019-04-01T18:49:14.078495: step 53, loss 0.0053144, accuracy 0.999758, precision 0.999699789852897, recall 1.0
+Number of tweets above confidence threshold:  21
+[[ 2  4]
+ [ 1 14]]
+2019-04-01T18:49:18.445028: step 54, loss 0.00543713, accuracy 0.999759, precision 0.9997005988023953, recall 1.0
+Number of tweets above confidence threshold:  14
+[[2 3]
+ [3 6]]
+2019-04-01T18:49:22.820578: step 55, loss 0.00531849, accuracy 0.99976, precision 0.9997008674842955, recall 1.0
+Number of tweets above confidence threshold:  19
+[[7 3]
+ [4 5]]
+2019-04-01T18:49:27.253024: step 56, loss 0.00530197, accuracy 0.999761, precision 0.9997013142174432, recall 1.0
+Number of tweets above confidence threshold:  19
+[[ 6  2]
+ [ 1 10]]
+2019-04-01T18:49:31.682876: step 57, loss 0.00523855, accuracy 0.999762, precision 0.9997022923489134, recall 1.0
+Number of tweets above confidence threshold:  12
+[[4 4]
+ [1 3]]
+2019-04-01T18:49:36.103348: step 58, loss 0.00525204, accuracy 0.999763, precision 0.9997029114676174, recall 1.0
+Number of tweets above confidence threshold:  14
+[[6 1]
+ [2 5]]
+2019-04-01T18:49:40.545784: step 59, loss 0.00510495, accuracy 0.999763, precision 0.9997033521210323, recall 1.0
+Number of tweets above confidence threshold:  7
+[[1 3]
+ [0 3]]
+2019-04-01T18:49:45.000626: step 60, loss 0.00514638, accuracy 0.999764, precision 0.9997040544539805, recall 1.0
+Number of tweets above confidence threshold:  13
+[[5 6]
+ [0 2]]
+2019-04-01T18:49:49.463361: step 61, loss 0.00513905, accuracy 0.999765, precision 0.9997041420118343, recall 1.0
+Number of tweets above confidence threshold:  11
+[[3 3]
+ [1 4]]
+2019-04-01T18:49:53.910272: step 62, loss 0.00513409, accuracy 0.999765, precision 0.9997045790251108, recall 1.0
+Number of tweets above confidence threshold:  10
+[[4 2]
+ [2 2]]
+2019-04-01T18:49:58.366087: step 63, loss 0.00519547, accuracy 0.999766, precision 0.9997049277072882, recall 1.0
+Number of tweets above confidence threshold:  11
+[[2 5]
+ [2 2]]
+2019-04-01T18:50:02.863288: step 64, loss 0.00510722, accuracy 0.999766, precision 0.9997054491899853, recall 1.0
+Number of tweets above confidence threshold:  11
+[[3 4]
+ [0 4]]
+2019-04-01T18:50:07.359816: step 65, loss 0.00506127, accuracy 0.999767, precision 0.9997057958223007, recall 1.0
+Number of tweets above confidence threshold:  5
+[[3 1]
+ [1 0]]
+2019-04-01T18:50:11.816566: step 66, loss 0.00517242, accuracy 0.999535, precision 0.9997060552616108, recall 0.9997060552616108
+Number of tweets above confidence threshold:  14
+[[3 3]
+ [3 5]]
+2019-04-01T18:50:16.305664: step 67, loss 0.00506836, accuracy 0.999768, precision 0.9997064004697592, recall 1.0
+Number of tweets above confidence threshold:  8
+[[4 1]
+ [3 0]]
+2019-04-01T18:50:20.796482: step 68, loss 0.00511337, accuracy 0.999769, precision 0.9997069167643611, recall 1.0
+Number of tweets above confidence threshold:  6
+[[3 0]
+ [0 3]]
+2019-04-01T18:50:25.305527: step 69, loss 0.00499081, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T18:50:29.849202: step 70, loss 0.00514492, accuracy 0.999769, precision 1.0, recall 0.9997078586035641
+Number of tweets above confidence threshold:  4
+[[0 0]
+ [2 2]]
+2019-04-01T18:50:34.383177: step 71, loss 0.00489327, accuracy 0.99977, precision 0.9997078586035641, recall 1.0
+Number of tweets above confidence threshold:  6
+[[3 0]
+ [2 1]]
+2019-04-01T18:50:38.910660: step 72, loss 0.00491364, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  5
+[[2 2]
+ [0 1]]
+2019-04-01T18:50:43.453369: step 73, loss 0.00491167, accuracy 0.99977, precision 0.9997084548104956, recall 1.0
+Number of tweets above confidence threshold:  5
+[[3 0]
+ [0 2]]
+2019-04-01T18:50:47.990049: step 74, loss 0.00492013, accuracy 0.99977, precision 1.0, recall 0.9997087095834547
+Number of tweets above confidence threshold:  7
+[[3 1]
+ [1 2]]
+2019-04-01T18:50:52.509168: step 75, loss 0.00496764, accuracy 0.999771, precision 0.9997088791848617, recall 1.0
+
+Evaluation:
+[[386  95]
+ [111 158]]
+2019-04-01T18:50:52.536350: step 75, loss 0.861714, accuracy 0.725333, precision 0.8024948024948025, recall 0.7766599597585513
+
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:50:57.087786: step 76, loss 0.00499075, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  5
+[[3 0]
+ [1 1]]
+2019-04-01T18:51:01.629122: step 77, loss 0.00494795, accuracy 0.999771, precision 0.9997093023255814, recall 1.0
+Number of tweets above confidence threshold:  5
+[[1 2]
+ [0 2]]
+2019-04-01T18:51:06.186680: step 78, loss 0.00494584, accuracy 0.999771, precision 0.9997096399535423, recall 1.0
+Number of tweets above confidence threshold:  7
+[[4 0]
+ [0 3]]
+2019-04-01T18:51:10.771328: step 79, loss 0.00490304, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[0 1]
+ [0 2]]
+2019-04-01T18:51:15.377835: step 80, loss 0.00496164, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  8
+[[3 3]
+ [0 2]]
+2019-04-01T18:51:19.965556: step 81, loss 0.00493812, accuracy 0.999772, precision 0.9997100608872137, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T18:51:24.556700: step 82, loss 0.00506945, accuracy 0.999545, precision 0.9997103128621089, recall 0.9997103128621089
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T18:51:29.181346: step 83, loss 0.00505409, accuracy 0.999318, precision 0.9991314418066011, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:51:33.791791: step 84, loss 0.0048367, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  4
+[[3 0]
+ [0 1]]
+2019-04-01T18:51:34.620611: step 85, loss 0.00495922, accuracy 0.999773, precision 0.9997104806022004, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:51:39.208069: step 86, loss 0.00497199, accuracy 0.999773, precision 1.0, recall 0.9997108155002892
+Number of tweets above confidence threshold:  4
+[[2 0]
+ [0 2]]
+2019-04-01T18:51:43.822895: step 87, loss 0.00495332, accuracy 0.999773, precision 0.9997108155002892, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:51:48.453111: step 88, loss 0.00497549, accuracy 0.999773, precision 0.9997109826589595, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [2 0]]
+2019-04-01T18:51:53.082516: step 89, loss 0.00492649, accuracy 0.999773, precision 0.999711066165848, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T18:51:57.713155: step 90, loss 0.00490977, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:52:02.316602: step 91, loss 0.00504063, accuracy 0.999547, precision 0.9997113997113997, recall 0.9997113997113997
+Number of tweets above confidence threshold:  5
+[[0 0]
+ [0 5]]
+2019-04-01T18:52:06.934408: step 92, loss 0.00494651, accuracy 0.999774, precision 0.9997114829774957, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [0 2]]
+2019-04-01T18:52:11.553885: step 93, loss 0.00482568, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  5
+[[0 2]
+ [0 3]]
+2019-04-01T18:52:16.181131: step 94, loss 0.00515818, accuracy 0.999322, precision 0.9994231323911162, recall 0.9997114829774957
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T18:52:20.801453: step 95, loss 0.00487425, accuracy 0.999774, precision 0.9997115661955581, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T18:52:25.436324: step 96, loss 0.00513615, accuracy 0.999549, precision 0.9997115661955581, recall 0.9997115661955581
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [1 0]]
+2019-04-01T18:52:30.076310: step 97, loss 0.0049565, accuracy 0.999774, precision 0.9997115661955581, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T18:52:34.725795: step 98, loss 0.00496356, accuracy 0.999775, precision 0.9997116493656286, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:52:39.365626: step 99, loss 0.00484656, accuracy 0.999775, precision 0.9997116493656286, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T18:52:44.018365: step 100, loss 0.00492995, accuracy 0.999775, precision 1.0, recall 0.9997118155619596
+
+Evaluation:
+[[384  97]
+ [110 159]]
+2019-04-01T18:52:44.046197: step 100, loss 0.881836, accuracy 0.724, precision 0.7983367983367984, recall 0.7773279352226721
+
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [0 3]]
+2019-04-01T18:52:48.705122: step 101, loss 0.00504574, accuracy 0.99955, precision 0.9997118155619596, recall 0.9997118155619596
+Number of tweets above confidence threshold:  5
+[[1 2]
+ [0 2]]
+2019-04-01T18:52:53.331391: step 102, loss 0.00473295, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T18:52:58.005964: step 103, loss 0.0048113, accuracy 0.999775, precision 0.9997118985883031, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [1 0]]
+2019-04-01T18:53:02.666887: step 104, loss 0.00494027, accuracy 0.999551, precision 0.9997118985883031, recall 0.9997118985883031
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:53:07.315007: step 105, loss 0.00498028, accuracy 0.999775, precision 0.9997119815668203, recall 1.0
+Number of tweets above confidence threshold:  5
+[[0 1]
+ [1 3]]
+2019-04-01T18:53:11.975013: step 106, loss 0.00484614, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:53:16.650628: step 107, loss 0.00489456, accuracy 0.999776, precision 0.9997120644975526, recall 1.0
+Number of tweets above confidence threshold:  6
+[[4 0]
+ [2 0]]
+2019-04-01T18:53:21.306570: step 108, loss 0.00491612, accuracy 0.999552, precision 0.9994242947610823, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:53:25.955816: step 109, loss 0.00462803, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T18:53:30.608872: step 110, loss 0.00482709, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  4
+[[3 0]
+ [0 1]]
+2019-04-01T18:53:35.248625: step 111, loss 0.00492292, accuracy 0.999553, precision 0.9994256174612292, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T18:53:39.903950: step 112, loss 0.00524106, accuracy 0.999777, precision 0.999713055954089, recall 1.0
+Number of tweets above confidence threshold:  5
+[[2 1]
+ [0 2]]
+2019-04-01T18:53:44.544071: step 113, loss 0.0050126, accuracy 0.999553, precision 0.9997131382673551, recall 0.9997131382673551
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T18:53:49.207235: step 114, loss 0.00462026, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [0 2]]
+2019-04-01T18:53:53.886004: step 115, loss 0.00506208, accuracy 0.999554, precision 0.9997133027522935, recall 0.9997133027522935
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:53:57.510582: step 116, loss 0.00502085, accuracy 0.999554, precision 0.999713384924047, recall 0.999713384924047
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:54:02.176731: step 117, loss 0.00497674, accuracy 0.999777, precision 0.9997134670487106, recall 1.0
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [2 1]]
+2019-04-01T18:54:06.842516: step 118, loss 0.00506064, accuracy 0.999555, precision 0.9997135491263248, recall 0.9997135491263248
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T18:54:11.514963: step 119, loss 0.00512333, accuracy 0.999555, precision 0.9997137131405669, recall 0.9997137131405669
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:54:16.180044: step 120, loss 0.00497476, accuracy 0.999778, precision 0.9997138769670959, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T18:54:20.860833: step 121, loss 0.00503994, accuracy 0.999555, precision 0.9997138769670959, recall 0.9997138769670959
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:54:25.522879: step 122, loss 0.00505965, accuracy 0.999556, precision 0.9997141223556318, recall 0.9997141223556318
+Number of tweets above confidence threshold:  4
+[[1 0]
+ [1 2]]
+2019-04-01T18:54:30.196719: step 123, loss 0.00469065, accuracy 0.999778, precision 0.9997141223556318, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:54:34.844567: step 124, loss 0.00490776, accuracy 0.999556, precision 0.9997142857142857, recall 0.9997142857142857
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T18:54:39.519670: step 125, loss 0.0051099, accuracy 0.999335, precision 0.9994287346472437, recall 0.9997142857142857
+
+Evaluation:
+[[388  93]
+ [113 156]]
+2019-04-01T18:54:39.548040: step 125, loss 0.898997, accuracy 0.725333, precision 0.8066528066528067, recall 0.7744510978043913
+
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:54:44.219312: step 126, loss 0.00498723, accuracy 0.999557, precision 0.9997146118721462, recall 0.9997146118721462
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T18:54:48.891495: step 127, loss 0.00479292, accuracy 0.999778, precision 0.9997146932952924, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:54:53.554442: step 128, loss 0.00463481, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T18:54:54.426420: step 129, loss 0.00489711, accuracy 0.999779, precision 1.0, recall 0.999714937286203
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:54:59.111541: step 130, loss 0.00488939, accuracy 0.999779, precision 1.0, recall 0.9997151808601538
+Number of tweets above confidence threshold:  3
+[[1 2]
+ [0 0]]
+2019-04-01T18:54:59.961977: step 131, loss 0.00488825, accuracy 0.999779, precision 1.0, recall 0.9997151808601538
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:55:04.651630: step 132, loss 0.00503868, accuracy 0.999558, precision 0.9997151808601538, recall 0.9997151808601538
+Number of tweets above confidence threshold:  4
+[[1 0]
+ [0 3]]
+2019-04-01T18:55:09.342887: step 133, loss 0.00495698, accuracy 0.999558, precision 0.9997151808601538, recall 0.9997151808601538
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T18:55:14.029327: step 134, loss 0.00468774, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T18:55:18.729945: step 135, loss 0.00480624, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:55:23.424361: step 136, loss 0.00489216, accuracy 0.999779, precision 1.0, recall 0.999715343011671
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T18:55:28.125494: step 137, loss 0.00485849, accuracy 0.999779, precision 1.0, recall 0.9997154240182129
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:55:32.821278: step 138, loss 0.00484903, accuracy 0.99978, precision 0.999715343011671, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T18:55:37.561771: step 139, loss 0.00483073, accuracy 0.99978, precision 1.0, recall 0.9997154240182129
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:55:42.281789: step 140, loss 0.00474421, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [1 0]]
+2019-04-01T18:55:47.012570: step 141, loss 0.00495291, accuracy 0.999559, precision 0.9997155049786629, recall 0.9997155049786629
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:55:51.753029: step 142, loss 0.00498141, accuracy 0.99956, precision 0.9997155858930603, recall 0.9997155858930603
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T18:55:52.601218: step 143, loss 0.00479699, accuracy 0.99956, precision 0.9997155858930603, recall 0.9997155858930603
+Number of tweets above confidence threshold:  6
+[[1 2]
+ [1 2]]
+2019-04-01T18:55:57.338553: step 144, loss 0.00494239, accuracy 0.99956, precision 0.9997156667614444, recall 0.9997156667614444
+Number of tweets above confidence threshold:  6
+[[0 1]
+ [0 5]]
+2019-04-01T18:56:02.077254: step 145, loss 0.00492192, accuracy 0.999561, precision 0.9997158283603297, recall 0.9997158283603297
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T18:56:06.835760: step 146, loss 0.00483272, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  4
+[[0 2]
+ [0 2]]
+2019-04-01T18:56:11.561060: step 147, loss 0.00483538, accuracy 0.999781, precision 0.9997158283603297, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:56:16.309534: step 148, loss 0.0047257, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:56:21.058019: step 149, loss 0.00473003, accuracy 0.999781, precision 0.9997158283603297, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:56:25.818877: step 150, loss 0.00495292, accuracy 0.999562, precision 0.9997158283603297, recall 0.9997158283603297
+
+Evaluation:
+[[383  98]
+ [111 158]]
+2019-04-01T18:56:25.846821: step 150, loss 0.914412, accuracy 0.721333, precision 0.7962577962577962, recall 0.7753036437246964
+
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:56:30.622787: step 151, loss 0.00470409, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:56:35.381550: step 152, loss 0.00478297, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  4
+[[0 3]
+ [0 1]]
+2019-04-01T18:56:40.143787: step 153, loss 0.00490667, accuracy 0.999781, precision 0.9997159897756319, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:56:44.946648: step 154, loss 0.00480649, accuracy 0.999781, precision 0.9997159897756319, recall 1.0
+Number of tweets above confidence threshold:  4
+[[0 2]
+ [0 2]]
+2019-04-01T18:56:49.715922: step 155, loss 0.00493402, accuracy 0.999563, precision 0.9997159897756319, recall 0.9997159897756319
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T18:56:54.505815: step 156, loss 0.00482703, accuracy 0.999781, precision 1.0, recall 0.9997160704145373
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:56:59.301355: step 157, loss 0.00471369, accuracy 0.999782, precision 0.9997160704145373, recall 1.0
+Number of tweets above confidence threshold:  4
+[[2 0]
+ [0 2]]
+2019-04-01T18:57:00.168157: step 158, loss 0.0047853, accuracy 0.999782, precision 0.9997160704145373, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:57:03.932803: step 159, loss 0.00486854, accuracy 0.999782, precision 0.9997162315550511, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T18:57:08.693186: step 160, loss 0.00486404, accuracy 0.999564, precision 0.9997162315550511, recall 0.9997162315550511
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T18:57:13.483523: step 161, loss 0.00492364, accuracy 0.999564, precision 0.9997163120567376, recall 0.9997163120567376
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:57:18.261219: step 162, loss 0.00493497, accuracy 0.999564, precision 0.9997163925127623, recall 0.9997163925127623
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T18:57:23.069844: step 163, loss 0.00466721, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T18:57:27.845436: step 164, loss 0.00477314, accuracy 0.999782, precision 1.0, recall 0.9997166336072542
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [0 2]]
+2019-04-01T18:57:32.623055: step 165, loss 0.00469421, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:57:37.421183: step 166, loss 0.00476362, accuracy 0.999782, precision 0.9997166336072542, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T18:57:42.210029: step 167, loss 0.00477663, accuracy 0.999783, precision 1.0, recall 0.9997167138810198
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:57:46.996975: step 168, loss 0.00484885, accuracy 0.999783, precision 0.9997167941093175, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T18:57:51.760317: step 169, loss 0.00473528, accuracy 0.999783, precision 0.9997167941093175, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:57:56.528300: step 170, loss 0.00480322, accuracy 0.999566, precision 0.9997169544296631, recall 0.9997169544296631
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [1 2]]
+2019-04-01T18:58:01.322690: step 171, loss 0.00462583, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:58:06.112698: step 172, loss 0.00473727, accuracy 0.999783, precision 0.9997171145685997, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:58:06.967773: step 173, loss 0.0048376, accuracy 0.999566, precision 0.9997171145685997, recall 0.9997171145685997
+Number of tweets above confidence threshold:  5
+[[0 1]
+ [0 4]]
+2019-04-01T18:58:07.829092: step 174, loss 0.00473271, accuracy 0.999783, precision 0.9997171145685997, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:58:12.628476: step 175, loss 0.00480643, accuracy 0.999783, precision 0.9997171145685997, recall 1.0
+
+Evaluation:
+[[380 101]
+ [108 161]]
+2019-04-01T18:58:12.656634: step 175, loss 0.928651, accuracy 0.721333, precision 0.7900207900207901, recall 0.7786885245901639
+
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:58:17.464307: step 176, loss 0.00479711, accuracy 0.999783, precision 0.9997171145685997, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T18:58:18.332336: step 177, loss 0.00479334, accuracy 0.999783, precision 0.9997171145685997, recall 1.0
+Number of tweets above confidence threshold:  4
+[[1 1]
+ [0 2]]
+2019-04-01T18:58:23.136453: step 178, loss 0.00478595, accuracy 0.999783, precision 1.0, recall 0.9997172745264349
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:58:27.938197: step 179, loss 0.00481543, accuracy 0.999784, precision 0.9997172745264349, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:58:32.750933: step 180, loss 0.00477589, accuracy 0.999784, precision 0.9997173544375353, recall 1.0
+Number of tweets above confidence threshold:  4
+[[1 2]
+ [0 1]]
+2019-04-01T18:58:37.579957: step 181, loss 0.00482578, accuracy 0.999567, precision 0.9997174343034756, recall 0.9997174343034756
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:58:42.413669: step 182, loss 0.00480888, accuracy 0.999784, precision 0.9997175141242938, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:58:47.233122: step 183, loss 0.00454651, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  4
+[[0 3]
+ [0 1]]
+2019-04-01T18:58:48.083439: step 184, loss 0.00488131, accuracy 0.999568, precision 0.9997175141242938, recall 0.9997175141242938
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:58:52.884655: step 185, loss 0.00489869, accuracy 0.999568, precision 0.9994350282485875, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T18:58:53.757678: step 186, loss 0.00469914, accuracy 0.999784, precision 0.9997175141242938, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T18:58:58.591295: step 187, loss 0.00476799, accuracy 0.999784, precision 0.9997176736307171, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T18:59:03.393901: step 188, loss 0.00487772, accuracy 0.999784, precision 0.9997177533163986, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:59:08.228796: step 189, loss 0.00472707, accuracy 0.999784, precision 0.9997177533163986, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [1 1]]
+2019-04-01T18:59:13.039676: step 190, loss 0.00495482, accuracy 0.999569, precision 0.9997178329571106, recall 0.9997178329571106
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T18:59:17.856326: step 191, loss 0.00468045, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:59:18.730690: step 192, loss 0.00471232, accuracy 0.999784, precision 0.9997179921037789, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T18:59:23.576159: step 193, loss 0.00457719, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [1 0]]
+2019-04-01T18:59:28.384043: step 194, loss 0.00485739, accuracy 0.999785, precision 0.9997180716098111, recall 1.0
+Number of tweets above confidence threshold:  4
+[[1 0]
+ [1 2]]
+2019-04-01T18:59:33.219585: step 195, loss 0.00469727, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T18:59:38.070622: step 196, loss 0.00475717, accuracy 0.999785, precision 1.0, recall 0.9997183891861448
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T18:59:42.886626: step 197, loss 0.0049132, accuracy 0.99957, precision 0.9997184684684685, recall 0.9997184684684685
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [1 1]]
+2019-04-01T18:59:47.728739: step 198, loss 0.00481571, accuracy 0.999785, precision 0.99971870604782, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T18:59:52.565919: step 199, loss 0.00478476, accuracy 0.99957, precision 0.9997188642114141, recall 0.9997188642114141
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T18:59:57.395543: step 200, loss 0.0047599, accuracy 0.999785, precision 0.9997189432265318, recall 1.0
+
+Evaluation:
+[[384  97]
+ [115 154]]
+2019-04-01T18:59:57.424284: step 200, loss 0.943276, accuracy 0.717333, precision 0.7983367983367984, recall 0.7695390781563126
+
+Number of tweets above confidence threshold:  4
+[[1 1]
+ [0 2]]
+2019-04-01T19:00:02.257705: step 201, loss 0.00486905, accuracy 0.999571, precision 0.9997189432265318, recall 0.9997189432265318
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:00:07.103181: step 202, loss 0.00466424, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [2 0]]
+2019-04-01T19:00:07.996149: step 203, loss 0.0048031, accuracy 0.999785, precision 0.9997190221972464, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T19:00:12.813913: step 204, loss 0.00475362, accuracy 0.999786, precision 1.0, recall 0.9997192588433464
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:00:17.628555: step 205, loss 0.00474588, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:00:18.477053: step 206, loss 0.00469141, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 2]
+ [0 0]]
+2019-04-01T19:00:23.308060: step 207, loss 0.00473487, accuracy 0.999786, precision 1.0, recall 0.9997194950911641
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:00:28.122671: step 208, loss 0.00461259, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:00:32.934477: step 209, loss 0.00464852, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T19:00:37.761769: step 210, loss 0.0047452, accuracy 0.999786, precision 0.9997196523689375, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:00:42.619570: step 211, loss 0.0049013, accuracy 0.999572, precision 0.9997198094704399, recall 0.9997198094704399
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:00:43.498110: step 212, loss 0.0047175, accuracy 0.999786, precision 0.9997198094704399, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:00:48.353237: step 213, loss 0.00457731, accuracy 0.999786, precision 1.0, recall 0.9997198879551821
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T19:00:53.158453: step 214, loss 0.00463706, accuracy 0.999786, precision 1.0, recall 0.9997199663959675
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T19:00:57.994679: step 215, loss 0.00478667, accuracy 0.999786, precision 1.0, recall 0.9997199663959675
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:01:02.839212: step 216, loss 0.00483901, accuracy 0.999573, precision 0.9997199663959675, recall 0.9997199663959675
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:01:07.672805: step 217, loss 0.0047748, accuracy 0.999787, precision 1.0, recall 0.9997201231458158
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:01:12.498442: step 218, loss 0.00485852, accuracy 0.999573, precision 0.9997200447928332, recall 0.9997200447928332
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:01:17.358530: step 219, loss 0.00471173, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:01:22.223368: step 220, loss 0.00472583, accuracy 0.999787, precision 1.0, recall 0.9997203579418344
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:01:27.060266: step 221, loss 0.00472002, accuracy 0.999787, precision 1.0, recall 0.9997203579418344
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [3 0]]
+2019-04-01T19:01:31.909367: step 222, loss 0.00472484, accuracy 0.999787, precision 1.0, recall 0.9997203579418344
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:01:36.732739: step 223, loss 0.00476208, accuracy 0.999787, precision 1.0, recall 0.9997205923442303
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T19:01:37.581756: step 224, loss 0.00454028, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:01:42.425396: step 225, loss 0.00458093, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[385  96]
+ [116 153]]
+2019-04-01T19:01:42.454833: step 225, loss 0.955622, accuracy 0.717333, precision 0.8004158004158004, recall 0.7684630738522954
+
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:01:47.288085: step 226, loss 0.0047254, accuracy 0.999787, precision 1.0, recall 0.9997209042701647
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:01:52.133134: step 227, loss 0.00465083, accuracy 0.999787, precision 1.0, recall 0.9997209042701647
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [2 0]]
+2019-04-01T19:01:53.020788: step 228, loss 0.00462458, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:01:57.858632: step 229, loss 0.00465259, accuracy 0.999787, precision 1.0, recall 0.999721059972106
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:02:02.684847: step 230, loss 0.00459831, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [0 2]]
+2019-04-01T19:02:07.517565: step 231, loss 0.00489626, accuracy 0.999575, precision 0.999721059972106, recall 0.999721059972106
+Number of tweets above confidence threshold:  5
+[[0 2]
+ [0 3]]
+2019-04-01T19:02:12.348626: step 232, loss 0.00481875, accuracy 0.999788, precision 1.0, recall 0.9997212155004181
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:02:17.165679: step 233, loss 0.00476317, accuracy 0.999788, precision 1.0, recall 0.9997212155004181
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:02:18.060068: step 234, loss 0.00489767, accuracy 0.999788, precision 1.0, recall 0.9997212155004181
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:02:22.870819: step 235, loss 0.004706, accuracy 0.999788, precision 1.0, recall 0.9997212155004181
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [2 1]]
+2019-04-01T19:02:27.718263: step 236, loss 0.0047697, accuracy 0.999788, precision 1.0, recall 0.9997212155004181
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:02:32.545117: step 237, loss 0.00461963, accuracy 0.999788, precision 0.999721293199554, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T19:02:37.365944: step 238, loss 0.00481238, accuracy 0.999788, precision 0.9997213708553915, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:02:42.221268: step 239, loss 0.0046139, accuracy 0.999788, precision 1.0, recall 0.9997215260373155
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:02:47.044284: step 240, loss 0.00478434, accuracy 0.999577, precision 0.9997214484679666, recall 0.9997214484679666
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [0 3]]
+2019-04-01T19:02:51.852510: step 241, loss 0.00498133, accuracy 0.999577, precision 0.9997214484679666, recall 0.9997214484679666
+Number of tweets above confidence threshold:  5
+[[0 3]
+ [0 2]]
+2019-04-01T19:02:56.699788: step 242, loss 0.00484129, accuracy 0.999789, precision 1.0, recall 0.9997215260373155
+Number of tweets above confidence threshold:  3
+[[1 2]
+ [0 0]]
+2019-04-01T19:03:01.522020: step 243, loss 0.00476466, accuracy 0.999789, precision 0.9997214484679666, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:03:06.365898: step 244, loss 0.00453967, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:03:11.192317: step 245, loss 0.00472777, accuracy 0.999789, precision 0.9997215260373155, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:03:16.047998: step 246, loss 0.00449521, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  6
+[[0 2]
+ [1 3]]
+2019-04-01T19:03:20.884215: step 247, loss 0.00466585, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:03:25.746270: step 248, loss 0.00453987, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:03:26.619276: step 249, loss 0.00472321, accuracy 0.999789, precision 0.9997216035634744, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:03:31.472746: step 250, loss 0.00463861, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[384  97]
+ [116 153]]
+2019-04-01T19:03:31.501648: step 250, loss 0.967575, accuracy 0.716, precision 0.7983367983367984, recall 0.768
+
+Saved model checkpoint to /home/ubuntu/Project/runs/1554144418/checkpoints/model-250
+
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:03:36.567079: step 251, loss 0.00476165, accuracy 0.999579, precision 0.9994432071269488, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:03:41.435524: step 252, loss 0.00462495, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:03:46.295441: step 253, loss 0.00453117, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T19:03:47.150966: step 254, loss 0.00497981, accuracy 0.999579, precision 0.9997217584863661, recall 0.9997217584863661
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:03:52.027612: step 255, loss 0.00484171, accuracy 0.99958, precision 0.9997218358831711, recall 0.9997218358831711
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T19:03:52.916046: step 256, loss 0.00453342, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:03:57.788791: step 257, loss 0.00484731, accuracy 0.99979, precision 0.9997219132369299, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:04:02.667851: step 258, loss 0.00462867, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:04:03.566500: step 259, loss 0.00462428, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T19:04:08.470585: step 260, loss 0.00464013, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:04:13.385964: step 261, loss 0.00478559, accuracy 0.99958, precision 0.999722067815453, recall 0.999722067815453
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:04:18.286819: step 262, loss 0.00471031, accuracy 0.99979, precision 0.999722145040289, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:04:19.167610: step 263, loss 0.00476114, accuracy 0.99958, precision 0.999722145040289, recall 0.999722145040289
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:04:24.079031: step 264, loss 0.00449324, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:04:28.979505: step 265, loss 0.00464859, accuracy 0.99979, precision 0.9997223764575236, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T19:04:33.913542: step 266, loss 0.00488217, accuracy 0.999371, precision 0.9994450610432852, recall 0.9997224535109631
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:04:38.859998: step 267, loss 0.00467748, accuracy 0.999791, precision 0.9997226074895977, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:04:39.736063: step 268, loss 0.00473835, accuracy 0.999791, precision 0.9997226074895977, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:04:44.633186: step 269, loss 0.0046766, accuracy 0.999791, precision 0.9997226844148641, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:04:49.556423: step 270, loss 0.00459352, accuracy 0.999581, precision 0.9994455225949542, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:04:54.436308: step 271, loss 0.00496025, accuracy 0.999582, precision 0.9997228381374723, recall 0.9997228381374723
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:04:59.323189: step 272, loss 0.00503612, accuracy 0.999582, precision 0.9997229916897507, recall 0.9997229916897507
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:05:04.211623: step 273, loss 0.00456417, accuracy 0.999791, precision 1.0, recall 0.9997230684021047
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T19:05:09.130994: step 274, loss 0.00463823, accuracy 0.999791, precision 1.0, recall 0.9997230684021047
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:05:14.035190: step 275, loss 0.00482996, accuracy 0.999582, precision 0.9997231450719822, recall 0.9997231450719822
+
+Evaluation:
+[[384  97]
+ [115 154]]
+2019-04-01T19:05:14.063539: step 275, loss 0.979585, accuracy 0.717333, precision 0.7983367983367984, recall 0.7695390781563126
+
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:05:18.964629: step 276, loss 0.00466855, accuracy 0.999791, precision 1.0, recall 0.9997232216994187
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:05:23.846412: step 277, loss 0.00488598, accuracy 0.999791, precision 1.0, recall 0.9997232216994187
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:05:28.793079: step 278, loss 0.00467138, accuracy 0.999791, precision 1.0, recall 0.9997232216994187
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:05:29.669038: step 279, loss 0.00455483, accuracy 0.999791, precision 1.0, recall 0.9997232216994187
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T19:05:30.536286: step 280, loss 0.00463434, accuracy 0.999791, precision 1.0, recall 0.9997232216994187
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:05:35.453597: step 281, loss 0.00466598, accuracy 0.999792, precision 0.9997232216994187, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T19:05:36.326923: step 282, loss 0.00473303, accuracy 0.999792, precision 1.0, recall 0.9997232982844494
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:05:41.254488: step 283, loss 0.00472854, accuracy 0.999792, precision 1.0, recall 0.9997233748271093
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:05:46.135558: step 284, loss 0.00461263, accuracy 0.999792, precision 1.0, recall 0.9997234513274337
+Number of tweets above confidence threshold:  3
+[[1 1]
+ [0 1]]
+2019-04-01T19:05:51.056255: step 285, loss 0.00482505, accuracy 0.999792, precision 1.0, recall 0.9997234513274337
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T19:05:55.978108: step 286, loss 0.00484385, accuracy 0.999584, precision 0.9997234513274337, recall 0.9997234513274337
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [0 3]]
+2019-04-01T19:06:00.905306: step 287, loss 0.00465586, accuracy 0.999792, precision 1.0, recall 0.9997237569060774
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:06:05.829108: step 288, loss 0.0047001, accuracy 0.999792, precision 1.0, recall 0.9997237569060774
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:06:10.747314: step 289, loss 0.00432827, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:06:15.690019: step 290, loss 0.00452314, accuracy 0.999792, precision 1.0, recall 0.9997238331952499
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:06:16.571576: step 291, loss 0.00483569, accuracy 0.999584, precision 0.9997237569060774, recall 0.9997237569060774
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:06:21.502549: step 292, loss 0.00483011, accuracy 0.999792, precision 0.9997237569060774, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:06:26.446479: step 293, loss 0.00468557, accuracy 0.999792, precision 0.9997237569060774, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:06:31.372941: step 294, loss 0.00477573, accuracy 0.999585, precision 0.9997237569060774, recall 0.9997237569060774
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:06:32.243775: step 295, loss 0.0047082, accuracy 0.999585, precision 0.9994475138121547, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:06:37.181900: step 296, loss 0.00458635, accuracy 0.999792, precision 0.9997237569060774, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:06:38.062493: step 297, loss 0.0049401, accuracy 0.999585, precision 0.9997237569060774, recall 0.9997237569060774
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [1 0]]
+2019-04-01T19:06:42.989893: step 298, loss 0.00450695, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:06:46.878645: step 299, loss 0.00457361, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:06:51.800340: step 300, loss 0.0044867, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[383  98]
+ [109 160]]
+2019-04-01T19:06:51.828983: step 300, loss 0.989584, accuracy 0.724, precision 0.7962577962577962, recall 0.7784552845528455
+
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T19:06:56.747269: step 301, loss 0.00455072, accuracy 0.999793, precision 0.999723909442297, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:07:01.682561: step 302, loss 0.00457055, accuracy 0.999793, precision 0.9997239856472536, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:07:06.640573: step 303, loss 0.00473058, accuracy 0.999793, precision 0.9997241379310344, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:07:11.570344: step 304, loss 0.00465025, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:07:16.488993: step 305, loss 0.00463157, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:07:21.453377: step 306, loss 0.00456577, accuracy 0.999793, precision 1.0, recall 0.99972444199504
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:07:26.415886: step 307, loss 0.00453552, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:07:27.315524: step 308, loss 0.00458747, accuracy 0.999793, precision 0.99972444199504, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:07:32.282360: step 309, loss 0.00490088, accuracy 0.999586, precision 0.9997245179063361, recall 0.9997245179063361
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:07:33.181914: step 310, loss 0.0049188, accuracy 0.999586, precision 0.9997245179063361, recall 0.9997245179063361
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:07:34.071685: step 311, loss 0.00473779, accuracy 0.999793, precision 0.9997245179063361, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:07:34.942740: step 312, loss 0.00461231, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [1 0]]
+2019-04-01T19:07:39.928188: step 313, loss 0.00444451, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [2 0]]
+2019-04-01T19:07:44.882085: step 314, loss 0.00474433, accuracy 0.999793, precision 0.999724821133737, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [2 0]]
+2019-04-01T19:07:49.847905: step 315, loss 0.00473754, accuracy 0.999793, precision 0.9997250481165796, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:07:54.799207: step 316, loss 0.0045206, accuracy 0.999794, precision 1.0, recall 0.9997253501785224
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:07:59.746011: step 317, loss 0.00433227, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:08:04.717381: step 318, loss 0.00477152, accuracy 0.999794, precision 0.999725425590335, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:08:09.678113: step 319, loss 0.00423521, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:08:14.645227: step 320, loss 0.00479557, accuracy 0.999794, precision 1.0, recall 0.999725802029065
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:08:19.601075: step 321, loss 0.00464128, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T19:08:24.576740: step 322, loss 0.00483077, accuracy 0.999588, precision 0.9997258771929824, recall 0.9997258771929824
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:08:29.527423: step 323, loss 0.0048161, accuracy 0.999588, precision 0.9997260273972602, recall 0.9997260273972602
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:08:34.507062: step 324, loss 0.00486282, accuracy 0.999588, precision 0.9997261774370209, recall 0.9997261774370209
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:08:35.376331: step 325, loss 0.00476091, accuracy 0.999794, precision 1.0, recall 0.9997262523952916
+
+Evaluation:
+[[383  98]
+ [115 154]]
+2019-04-01T19:08:35.404577: step 325, loss 1.00049, accuracy 0.716, precision 0.7962577962577962, recall 0.7690763052208835
+
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:08:36.299273: step 326, loss 0.0048137, accuracy 0.999794, precision 1.0, recall 0.9997262523952916
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:08:41.224292: step 327, loss 0.00439097, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:08:46.154342: step 328, loss 0.00473586, accuracy 0.999588, precision 0.9994523548740416, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:08:51.125381: step 329, loss 0.00463821, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:08:52.010536: step 330, loss 0.00457744, accuracy 0.999794, precision 1.0, recall 0.9997262523952916
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:08:56.941908: step 331, loss 0.00475453, accuracy 0.999589, precision 0.9997261774370209, recall 0.9997261774370209
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:09:01.913295: step 332, loss 0.00451862, accuracy 0.999794, precision 1.0, recall 0.9997262523952916
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:09:02.813930: step 333, loss 0.00521275, accuracy 0.999589, precision 0.9997261774370209, recall 0.9997261774370209
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:09:07.789426: step 334, loss 0.00484589, accuracy 0.999589, precision 0.9997261774370209, recall 0.9997261774370209
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:09:08.682643: step 335, loss 0.00463956, accuracy 0.999589, precision 1.0, recall 0.9994526546250684
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:09:13.633734: step 336, loss 0.00470509, accuracy 0.999795, precision 1.0, recall 0.9997263273125342
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:09:18.624392: step 337, loss 0.00484995, accuracy 0.999795, precision 1.0, recall 0.9997263273125342
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:09:23.636854: step 338, loss 0.0045795, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:09:28.609084: step 339, loss 0.00460745, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:09:29.506699: step 340, loss 0.00460187, accuracy 0.999795, precision 1.0, recall 0.9997264021887825
+Number of tweets above confidence threshold:  5
+[[1 2]
+ [0 2]]
+2019-04-01T19:09:30.389933: step 341, loss 0.00479887, accuracy 0.999589, precision 0.9997263273125342, recall 0.9997263273125342
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:09:35.404540: step 342, loss 0.00478477, accuracy 0.99959, precision 0.9997264021887825, recall 0.9997264021887825
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T19:09:40.423415: step 343, loss 0.00449323, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T19:09:45.416040: step 344, loss 0.00505731, accuracy 0.99959, precision 0.99972647702407, recall 0.99972647702407
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [0 1]]
+2019-04-01T19:09:50.406636: step 345, loss 0.00452723, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:09:55.390631: step 346, loss 0.00467694, accuracy 0.999795, precision 1.0, recall 0.9997267759562841
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:10:00.386507: step 347, loss 0.0044453, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:10:05.374885: step 348, loss 0.00467165, accuracy 0.999795, precision 1.0, recall 0.9997269251774986
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:10:10.361893: step 349, loss 0.00465514, accuracy 0.999795, precision 1.0, recall 0.9997269251774986
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:10:15.364370: step 350, loss 0.00456469, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[383  98]
+ [116 153]]
+2019-04-01T19:10:15.393073: step 350, loss 1.01091, accuracy 0.714667, precision 0.7962577962577962, recall 0.7675350701402806
+
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:10:20.380254: step 351, loss 0.00457388, accuracy 0.999795, precision 0.9997269251774986, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:10:25.352561: step 352, loss 0.00466467, accuracy 0.999795, precision 1.0, recall 0.9997270742358079
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:10:30.330751: step 353, loss 0.00487635, accuracy 0.999591, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:10:35.342986: step 354, loss 0.00446612, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:10:36.227032: step 355, loss 0.00484462, accuracy 0.999591, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:10:37.132041: step 356, loss 0.00468227, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:10:42.084218: step 357, loss 0.0046284, accuracy 0.999796, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:10:42.968516: step 358, loss 0.00444071, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  3
+[[0 1]
+ [0 2]]
+2019-04-01T19:10:43.848415: step 359, loss 0.00441699, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:10:48.828728: step 360, loss 0.00449599, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:10:53.806634: step 361, loss 0.00444601, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:10:58.781756: step 362, loss 0.00444684, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:11:03.755851: step 363, loss 0.00496555, accuracy 0.999592, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:11:08.732311: step 364, loss 0.00438558, accuracy 0.999796, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:11:13.711098: step 365, loss 0.00495217, accuracy 0.999592, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:11:18.680672: step 366, loss 0.00458314, accuracy 0.999796, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:11:23.662875: step 367, loss 0.00451575, accuracy 0.999796, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:11:28.688507: step 368, loss 0.00508083, accuracy 0.999593, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:11:33.674481: step 369, loss 0.00442105, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:11:38.658996: step 370, loss 0.00489508, accuracy 0.999796, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:11:43.663939: step 371, loss 0.00465115, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:11:44.548761: step 372, loss 0.00474412, accuracy 0.999797, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:11:45.464299: step 373, loss 0.00497937, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:11:50.450859: step 374, loss 0.00467876, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:11:51.332459: step 375, loss 0.0049717, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+
+Evaluation:
+[[380 101]
+ [113 156]]
+2019-04-01T19:11:51.362064: step 375, loss 1.01957, accuracy 0.714667, precision 0.7900207900207901, recall 0.77079107505071
+
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:11:52.236909: step 376, loss 0.00462151, accuracy 0.999797, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:11:53.154842: step 377, loss 0.0049445, accuracy 0.999593, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:11:58.134307: step 378, loss 0.00444932, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:03.127005: step 379, loss 0.00437922, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 2]
+ [0 0]]
+2019-04-01T19:12:04.021404: step 380, loss 0.00464292, accuracy 0.999593, precision 0.9994542974079127, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:12:09.008863: step 381, loss 0.00508492, accuracy 0.999593, precision 0.9997271487039563, recall 0.9997271487039563
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:13.998128: step 382, loss 0.00459094, accuracy 0.999593, precision 0.9994542974079127, recall 1.0
+Number of tweets above confidence threshold:  3
+[[0 1]
+ [0 2]]
+2019-04-01T19:12:14.888447: step 383, loss 0.00437746, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:19.866543: step 384, loss 0.00455554, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:12:20.795533: step 385, loss 0.00489414, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:12:25.825863: step 386, loss 0.0046615, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:30.834052: step 387, loss 0.00476248, accuracy 0.999594, precision 1.0, recall 0.9994545950368149
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:31.741549: step 388, loss 0.00444035, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:32.645669: step 389, loss 0.00460372, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:12:33.550325: step 390, loss 0.00438158, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:12:38.549338: step 391, loss 0.00446623, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:43.544216: step 392, loss 0.00449393, accuracy 0.999797, precision 0.9997271487039563, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:12:44.493784: step 393, loss 0.00450246, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:49.503321: step 394, loss 0.00451603, accuracy 0.999797, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:50.410820: step 395, loss 0.00439453, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:12:51.320343: step 396, loss 0.00478713, accuracy 0.999797, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T19:12:52.234886: step 397, loss 0.00469323, accuracy 0.999797, precision 1.0, recall 0.9997272231314784
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:12:57.228149: step 398, loss 0.00471176, accuracy 0.999594, precision 0.9997272975184074, recall 0.9997272975184074
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:13:02.243245: step 399, loss 0.00451549, accuracy 0.999797, precision 0.9997272975184074, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:13:07.268896: step 400, loss 0.00445046, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[380 101]
+ [107 162]]
+2019-04-01T19:13:07.298654: step 400, loss 1.02771, accuracy 0.722667, precision 0.7900207900207901, recall 0.7802874743326489
+
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:13:08.198361: step 401, loss 0.00446951, accuracy 0.999797, precision 0.9997272975184074, recall 1.0
+Number of tweets above confidence threshold:  3
+[[0 1]
+ [0 2]]
+2019-04-01T19:13:13.227355: step 402, loss 0.00502849, accuracy 0.999392, precision 0.9994545950368149, recall 0.9997272231314784
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T19:13:18.280623: step 403, loss 0.00483075, accuracy 0.999797, precision 1.0, recall 0.9997273718647764
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:13:23.326637: step 404, loss 0.00451014, accuracy 0.999595, precision 0.9997272975184074, recall 0.9997272975184074
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T19:13:28.372294: step 405, loss 0.00465219, accuracy 0.999798, precision 0.9997273718647764, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:13:33.401810: step 406, loss 0.00494981, accuracy 0.999595, precision 0.9997273718647764, recall 0.9997273718647764
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:13:37.387958: step 407, loss 0.00491069, accuracy 0.999798, precision 0.9997273718647764, recall 1.0
+Number of tweets above confidence threshold:  3
+[[1 0]
+ [0 2]]
+2019-04-01T19:13:42.422167: step 408, loss 0.00476593, accuracy 0.999798, precision 1.0, recall 0.9997274461706187
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:13:47.434845: step 409, loss 0.00511903, accuracy 0.999596, precision 0.9997274461706187, recall 0.9997274461706187
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [0 2]]
+2019-04-01T19:13:52.424615: step 410, loss 0.00420392, accuracy 0.999798, precision 0.9997274461706187, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:13:57.457555: step 411, loss 0.00486031, accuracy 0.999394, precision 0.9994548923412374, recall 0.9997273718647764
+Number of tweets above confidence threshold:  3
+[[0 2]
+ [0 1]]
+2019-04-01T19:14:02.480786: step 412, loss 0.00451574, accuracy 0.999798, precision 0.9997274461706187, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:14:07.516642: step 413, loss 0.00479183, accuracy 0.999798, precision 0.9997274461706187, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:14:12.576091: step 414, loss 0.00471496, accuracy 0.999798, precision 0.9997274461706187, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:17.629996: step 415, loss 0.00461022, accuracy 0.999597, precision 0.9994550408719346, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:18.523657: step 416, loss 0.00503261, accuracy 0.999597, precision 0.9997275204359674, recall 0.9997275204359674
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:19.421858: step 417, loss 0.00491261, accuracy 0.999597, precision 0.9997275204359674, recall 0.9997275204359674
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:14:20.333098: step 418, loss 0.00500097, accuracy 0.999597, precision 0.9997275204359674, recall 0.9997275204359674
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:25.364884: step 419, loss 0.00490952, accuracy 0.999798, precision 1.0, recall 0.9997275946608554
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:14:26.235657: step 420, loss 0.00467764, accuracy 0.999798, precision 0.9997275204359674, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:14:31.283205: step 421, loss 0.00485071, accuracy 0.999798, precision 1.0, recall 0.9997276688453159
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:14:36.313285: step 422, loss 0.00489348, accuracy 0.999597, precision 0.9997276688453159, recall 0.9997276688453159
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:14:41.332796: step 423, loss 0.00492442, accuracy 0.999396, precision 0.9994556341861731, recall 0.9997277429893819
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:14:46.353476: step 424, loss 0.00470897, accuracy 0.999799, precision 0.999727965179543, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:51.370692: step 425, loss 0.00453696, accuracy 0.999597, precision 1.0, recall 0.9994565217391305
+
+Evaluation:
+[[377 104]
+ [106 163]]
+2019-04-01T19:14:51.399641: step 425, loss 1.03615, accuracy 0.72, precision 0.7837837837837838, recall 0.7805383022774327
+
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:52.291656: step 426, loss 0.00447777, accuracy 0.999799, precision 0.9997281131049484, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 1]
+ [0 0]]
+2019-04-01T19:14:53.199614: step 427, loss 0.00497998, accuracy 0.999799, precision 0.9997281131049484, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:58.234162: step 428, loss 0.00510098, accuracy 0.999598, precision 0.9997282608695652, recall 0.9997282608695652
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:14:59.175192: step 429, loss 0.00449916, accuracy 0.999799, precision 1.0, recall 0.9997283346916599
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:00.087344: step 430, loss 0.00462063, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:00.985558: step 431, loss 0.00486619, accuracy 0.999397, precision 0.9997282608695652, recall 0.9994566693833198
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:01.896508: step 432, loss 0.00455864, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:02.770131: step 433, loss 0.00466091, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:03.700078: step 434, loss 0.00508578, accuracy 0.999598, precision 0.9997282608695652, recall 0.9997282608695652
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:15:04.595283: step 435, loss 0.00473435, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:09.635580: step 436, loss 0.00459386, accuracy 0.999799, precision 1.0, recall 0.9997283346916599
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:10.536013: step 437, loss 0.00459625, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 1]
+ [0 0]]
+2019-04-01T19:15:11.426411: step 438, loss 0.00459173, accuracy 0.999799, precision 0.9997282608695652, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:15:16.426994: step 439, loss 0.00472476, accuracy 0.999799, precision 0.9997283346916599, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:15:21.465124: step 440, loss 0.00452384, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:26.515673: step 441, loss 0.00452004, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:15:27.413462: step 442, loss 0.00481839, accuracy 0.999598, precision 0.9997284822155851, recall 0.9997284822155851
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:15:32.460673: step 443, loss 0.00447489, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:37.535434: step 444, loss 0.00477639, accuracy 0.999598, precision 0.999728555917481, recall 0.999728555917481
+Number of tweets above confidence threshold:  2
+[[0 0]
+ [1 1]]
+2019-04-01T19:15:38.446457: step 445, loss 0.00473299, accuracy 0.999397, precision 0.999728555917481, recall 0.9994572591587517
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:15:43.523605: step 446, loss 0.00466918, accuracy 0.999599, precision 0.9994572591587517, recall 1.0
+Number of tweets above confidence threshold:  2
+[[0 1]
+ [0 1]]
+2019-04-01T19:15:48.575944: step 447, loss 0.00444835, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:15:53.618254: step 448, loss 0.00461757, accuracy 0.999799, precision 0.9997287032013022, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:58.691947: step 449, loss 0.00477947, accuracy 0.999599, precision 0.9997287767832926, recall 0.9997287767832926
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:15:59.600412: step 450, loss 0.00444051, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[377 104]
+ [106 163]]
+2019-04-01T19:15:59.629244: step 450, loss 1.04434, accuracy 0.72, precision 0.7837837837837838, recall 0.7805383022774327
+
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:16:00.529283: step 451, loss 0.00458192, accuracy 0.999599, precision 0.9994575535665853, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:05.544512: step 452, loss 0.00456931, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:16:06.435079: step 453, loss 0.00441058, accuracy 0.999799, precision 1.0, recall 0.9997289238275956
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:11.463740: step 454, loss 0.00444228, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:12.351773: step 455, loss 0.00472425, accuracy 0.999599, precision 0.9997288503253796, recall 0.9997288503253796
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:13.259446: step 456, loss 0.00484624, accuracy 0.999398, precision 0.9997288503253796, recall 0.9994578476551911
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:14.155023: step 457, loss 0.00476492, accuracy 0.999398, precision 0.9994577006507592, recall 0.9997287767832926
+Number of tweets above confidence threshold:  1
+[[0 1]
+ [0 0]]
+2019-04-01T19:16:15.051493: step 458, loss 0.00451902, accuracy 0.999799, precision 0.9997288503253796, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:16:20.088623: step 459, loss 0.00467606, accuracy 0.999799, precision 0.9997288503253796, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [0 1]]
+2019-04-01T19:16:25.122067: step 460, loss 0.00485866, accuracy 0.9998, precision 0.9997288503253796, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:30.167620: step 461, loss 0.004824, accuracy 0.999399, precision 0.9991865509761388, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:31.064519: step 462, loss 0.00457293, accuracy 0.9998, precision 0.9997288503253796, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:31.960254: step 463, loss 0.00478644, accuracy 0.999599, precision 0.9997288503253796, recall 0.9997288503253796
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:32.874085: step 464, loss 0.00449232, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:33.772969: step 465, loss 0.00439626, accuracy 0.9998, precision 1.0, recall 0.9997289238275956
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:34.698511: step 466, loss 0.00493099, accuracy 0.999599, precision 0.9997288503253796, recall 0.9997288503253796
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:35.620043: step 467, loss 0.0047777, accuracy 0.999399, precision 0.9994577006507592, recall 0.9997287767832926
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:16:36.515054: step 468, loss 0.00426535, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[1 0]
+ [1 0]]
+2019-04-01T19:16:37.427793: step 469, loss 0.00452449, accuracy 0.999599, precision 0.9994577006507592, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:16:42.460510: step 470, loss 0.00507217, accuracy 0.999599, precision 0.9997289972899729, recall 0.9997289972899729
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:16:47.506485: step 471, loss 0.00446966, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[0 0]
+ [1 0]]
+2019-04-01T19:16:52.575034: step 472, loss 0.00459496, accuracy 0.9998, precision 0.9997291440953413, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:16:57.632671: step 473, loss 0.00457582, accuracy 0.9998, precision 1.0, recall 0.9997292907417433
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:17:02.710116: step 474, loss 0.004331, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:17:07.762376: step 475, loss 0.00483105, accuracy 0.9998, precision 0.999729510413849, recall 1.0
+
+Evaluation:
+[[378 103]
+ [106 163]]
+2019-04-01T19:17:07.790645: step 475, loss 1.05263, accuracy 0.721333, precision 0.7858627858627859, recall 0.78099173553719
+
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:12.867616: step 476, loss 0.0048737, accuracy 0.9996, precision 0.9997296566639632, recall 0.9997296566639632
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:13.766097: step 477, loss 0.00444276, accuracy 0.9998, precision 1.0, recall 0.9997297297297297
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:14.684347: step 478, loss 0.00469306, accuracy 0.9996, precision 0.9997296566639632, recall 0.9997296566639632
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:17:15.582864: step 479, loss 0.00503877, accuracy 0.9994, precision 0.9994593133279265, recall 0.9997295835586804
+Number of tweets above confidence threshold:  3
+[[3 0]
+ [0 0]]
+2019-04-01T19:17:20.648778: step 480, loss 0.00480286, accuracy 0.9994, precision 0.9994594594594595, recall 0.9997296566639632
+Number of tweets above confidence threshold:  4
+[[3 0]
+ [1 0]]
+2019-04-01T19:17:25.706450: step 481, loss 0.00432877, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:17:30.810328: step 482, loss 0.00446608, accuracy 0.9998, precision 1.0, recall 0.999730312837109
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:17:35.900476: step 483, loss 0.00447687, accuracy 0.999601, precision 0.999730312837109, recall 0.999730312837109
+Number of tweets above confidence threshold:  2
+[[2 0]
+ [0 0]]
+2019-04-01T19:17:40.973454: step 484, loss 0.00491868, accuracy 0.999801, precision 1.0, recall 0.9997305308542171
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [3 0]]
+2019-04-01T19:17:46.107896: step 485, loss 0.00459331, accuracy 0.999801, precision 1.0, recall 0.9997306760032318
+Number of tweets above confidence threshold:  3
+[[3 0]
+ [0 0]]
+2019-04-01T19:17:51.190046: step 486, loss 0.00453488, accuracy 0.999601, precision 0.9997308209959623, recall 0.9997308209959623
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:56.290679: step 487, loss 0.00416898, accuracy 1, precision 1.0, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:57.220366: step 488, loss 0.0048058, accuracy 0.999801, precision 1.0, recall 0.9997311105135789
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:58.119692: step 489, loss 0.00455983, accuracy 0.999801, precision 0.9997310381925767, recall 1.0
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:17:59.025286: step 490, loss 0.00460606, accuracy 0.999602, precision 1.0, recall 0.9994623655913979
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:17:59.935798: step 491, loss 0.00490762, accuracy 0.999602, precision 0.9997310381925767, recall 0.9997310381925767
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:18:05.038167: step 492, loss 0.00507753, accuracy 0.999203, precision 0.9997311105135789, recall 0.999193765116904
+Number of tweets above confidence threshold:  1
+[[1 0]
+ [0 0]]
+2019-04-01T19:18:10.136116: step 493, loss 0.00458057, accuracy 0.999602, precision 0.999731182795699, recall 0.999731182795699
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:18:15.199751: step 494, loss 0.00523408, accuracy 0.999602, precision 0.999731255038968, recall 0.999731255038968
+Number of tweets above confidence threshold:  3
+[[0 0]
+ [2 1]]
+2019-04-01T19:18:16.110830: step 495, loss 0.0047483, accuracy 0.999801, precision 0.999731255038968, recall 1.0
+Number of tweets above confidence threshold:  3
+[[2 0]
+ [0 1]]
+2019-04-01T19:18:21.194788: step 496, loss 0.0051022, accuracy 0.999602, precision 0.9997313994090787, recall 0.9997313994090787
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:18:26.273307: step 497, loss 0.00488687, accuracy 0.999602, precision 0.9997315436241611, recall 0.9997315436241611
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:18:27.188897: step 498, loss 0.00466857, accuracy 0.999602, precision 0.9997315436241611, recall 0.9997315436241611
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:18:28.073899: step 499, loss 0.00464303, accuracy 0.999801, precision 1.0, recall 0.9997316156736447
+Number of tweets above confidence threshold:  0
+[[0 0]
+ [0 0]]
+2019-04-01T19:18:28.993851: step 500, loss 0.00418913, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[381 100]
+ [115 154]]
+2019-04-01T19:18:29.023271: step 500, loss 1.06163, accuracy 0.713333, precision 0.7920997920997921, recall 0.7681451612903226
+
+Saved model checkpoint to /home/ubuntu/Project/runs/1554144418/checkpoints/model-500
+

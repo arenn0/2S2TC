@@ -1,0 +1,1 @@
+tensorboard --logdir /PATH_TO_CODE/runs/1449760558/summaries/

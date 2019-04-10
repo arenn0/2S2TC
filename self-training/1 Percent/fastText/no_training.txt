@@ -1,0 +1,654 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" "C:/Users/aless/Documents/University of Illinois at Chicago/Spring 2019/Project/train.py"
+Using TensorFlow backend.
+fastText model loaded
+Pretrained Embedding: fastText
+Italian: False
+Loading data...
+WARNING:tensorflow:From C:/Users/aless/Documents/University of Illinois at Chicago/Spring 2019/Project/train.py:88: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+WARNING:tensorflow:From C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+11566
+Max Document length: 36
+2019-04-03 11:59:17.092639: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+Dimension of the training set:  30
+Vocabulary Size: 1
+Train/Unlabeled/Dev split: 3000/7500/750
+WARNING:tensorflow:From C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\main_pre_trained_embeddings.py:511: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+Writing to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1554310761
+
+2019-04-03T11:59:25.918587: step 1, loss 2.33355, accuracy 0.633333, precision 0.9047619047619048, recall 0.6785714285714286
+2019-04-03T11:59:26.288598: step 2, loss 5.42005, accuracy 0.4, precision 0.19047619047619047, recall 0.8
+2019-04-03T11:59:26.619713: step 3, loss 2.49549, accuracy 0.4, precision 0.47619047619047616, recall 0.5882352941176471
+2019-04-03T11:59:27.041583: step 4, loss 2.87616, accuracy 0.633333, precision 0.9047619047619048, recall 0.6785714285714286
+2019-04-03T11:59:27.586128: step 5, loss 2.93341, accuracy 0.666667, precision 0.9523809523809523, recall 0.6896551724137931
+2019-04-03T11:59:28.117706: step 6, loss 1.27337, accuracy 0.8, precision 1.0, recall 0.7777777777777778
+2019-04-03T11:59:28.595429: step 7, loss 1.45156, accuracy 0.7, precision 0.8095238095238095, recall 0.7727272727272727
+2019-04-03T11:59:29.000346: step 8, loss 2.02002, accuracy 0.633333, precision 0.6666666666666666, recall 0.7777777777777778
+2019-04-03T11:59:29.510980: step 9, loss 0.914972, accuracy 0.733333, precision 0.8095238095238095, recall 0.8095238095238095
+2019-04-03T11:59:29.997679: step 10, loss 1.76914, accuracy 0.7, precision 0.7619047619047619, recall 0.8
+2019-04-03T11:59:30.665895: step 11, loss 2.80368, accuracy 0.533333, precision 0.38095238095238093, recall 0.8888888888888888
+2019-04-03T11:59:31.306181: step 12, loss 0.990355, accuracy 0.666667, precision 0.7142857142857143, recall 0.7894736842105263
+2019-04-03T11:59:32.000330: step 13, loss 0.992146, accuracy 0.733333, precision 0.9047619047619048, recall 0.76
+2019-04-03T11:59:32.627646: step 14, loss 1.31541, accuracy 0.8, precision 0.9523809523809523, recall 0.8
+2019-04-03T11:59:33.243997: step 15, loss 0.860044, accuracy 0.866667, precision 0.9523809523809523, recall 0.8695652173913043
+2019-04-03T11:59:33.838408: step 16, loss 0.66577, accuracy 0.866667, precision 0.9523809523809523, recall 0.8695652173913043
+2019-04-03T11:59:34.350039: step 17, loss 1.03343, accuracy 0.766667, precision 0.9523809523809523, recall 0.7692307692307693
+2019-04-03T11:59:34.868653: step 18, loss 0.455194, accuracy 0.9, precision 0.9523809523809523, recall 0.9090909090909091
+2019-04-03T11:59:35.370312: step 19, loss 0.921611, accuracy 0.666667, precision 0.6666666666666666, recall 0.8235294117647058
+2019-04-03T11:59:35.864988: step 20, loss 1.2505, accuracy 0.666667, precision 0.6190476190476191, recall 0.8666666666666667
+2019-04-03T11:59:36.387590: step 21, loss 0.785561, accuracy 0.8, precision 0.8095238095238095, recall 0.8947368421052632
+2019-04-03T11:59:37.031866: step 22, loss 0.658194, accuracy 0.833333, precision 0.9523809523809523, recall 0.8333333333333334
+2019-04-03T11:59:37.406867: step 23, loss 0.701447, accuracy 0.766667, precision 0.8095238095238095, recall 0.85
+2019-04-03T11:59:37.656197: step 24, loss 1.11503, accuracy 0.833333, precision 0.9523809523809523, recall 0.8333333333333334
+2019-04-03T11:59:38.105994: step 25, loss 0.445031, accuracy 0.8, precision 0.8571428571428571, recall 0.8571428571428571
+
+Evaluation:
+[[480  27]
+ [217  26]]
+2019-04-03T11:59:39.061439: step 25, loss 1.10886, accuracy 0.674667, precision 0.9467455621301775, recall 0.6886657101865137
+
+2019-04-03T11:59:39.572074: step 26, loss 0.840565, accuracy 0.866667, precision 1.0, recall 0.84
+2019-04-03T11:59:40.002921: step 27, loss 0.370783, accuracy 0.8, precision 0.9047619047619048, recall 0.8260869565217391
+2019-04-03T11:59:40.472664: step 28, loss 0.404702, accuracy 0.866667, precision 0.8571428571428571, recall 0.9473684210526315
+2019-04-03T11:59:40.955374: step 29, loss 0.445373, accuracy 0.8, precision 0.8571428571428571, recall 0.8571428571428571
+2019-04-03T11:59:41.428109: step 30, loss 0.537119, accuracy 0.733333, precision 0.6666666666666666, recall 0.9333333333333333
+2019-04-03T11:59:41.855967: step 31, loss 0.437076, accuracy 0.833333, precision 0.8095238095238095, recall 0.9444444444444444
+2019-04-03T11:59:42.320723: step 32, loss 0.543272, accuracy 0.8, precision 0.9047619047619048, recall 0.8260869565217391
+2019-04-03T11:59:42.706691: step 33, loss 0.316103, accuracy 0.9, precision 1.0, recall 0.875
+2019-04-03T11:59:43.176434: step 34, loss 0.281066, accuracy 0.9, precision 0.8571428571428571, recall 1.0
+2019-04-03T11:59:43.595314: step 35, loss 0.185624, accuracy 0.933333, precision 0.9523809523809523, recall 0.9523809523809523
+2019-04-03T11:59:43.984274: step 36, loss 0.242213, accuracy 0.933333, precision 1.0, recall 0.9130434782608695
+2019-04-03T11:59:44.395175: step 37, loss 0.435043, accuracy 0.9, precision 1.0, recall 0.875
+2019-04-03T11:59:44.805081: step 38, loss 0.0166838, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:45.202017: step 39, loss 0.0451928, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:45.628876: step 40, loss 0.0782176, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:46.063712: step 41, loss 0.0506896, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:46.525478: step 42, loss 0.0996198, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:46.929397: step 43, loss 0.108055, accuracy 0.933333, precision 0.9047619047619048, recall 1.0
+2019-04-03T11:59:47.146815: step 44, loss 0.30406, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:47.456986: step 45, loss 0.0448858, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:47.832981: step 46, loss 0.353913, accuracy 0.9, precision 0.9047619047619048, recall 0.95
+2019-04-03T11:59:48.230916: step 47, loss 0.166862, accuracy 0.933333, precision 0.9047619047619048, recall 1.0
+2019-04-03T11:59:48.603918: step 48, loss 0.0466723, accuracy 0.966667, precision 0.9523809523809523, recall 1.0
+2019-04-03T11:59:48.993876: step 49, loss 0.0780817, accuracy 0.933333, precision 0.9523809523809523, recall 0.9523809523809523
+2019-04-03T11:59:49.384831: step 50, loss 0.114403, accuracy 0.933333, precision 1.0, recall 0.9130434782608695
+
+Evaluation:
+[[472  35]
+ [202  41]]
+2019-04-03T11:59:49.863550: step 50, loss 1.03625, accuracy 0.684, precision 0.9309664694280079, recall 0.7002967359050445
+
+2019-04-03T11:59:50.312349: step 51, loss 0.0132338, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:50.678370: step 52, loss 0.171871, accuracy 0.933333, precision 1.0, recall 0.9130434782608695
+2019-04-03T11:59:51.065335: step 53, loss 0.148425, accuracy 0.933333, precision 1.0, recall 0.9130434782608695
+2019-04-03T11:59:51.426371: step 54, loss 0.00117921, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:51.820318: step 55, loss 0.0409971, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:52.215263: step 56, loss 0.0122645, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:52.641122: step 57, loss 0.090608, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T11:59:53.052023: step 58, loss 0.0112744, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:53.522765: step 59, loss 0.0579038, accuracy 0.966667, precision 0.9523809523809523, recall 1.0
+2019-04-03T11:59:53.864849: step 60, loss 0.069154, accuracy 0.966667, precision 0.9523809523809523, recall 1.0
+2019-04-03T11:59:54.234860: step 61, loss 0.0134918, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:54.641771: step 62, loss 0.0539222, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:55.042699: step 63, loss 0.0147713, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:55.524410: step 64, loss 0.00967538, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:55.770753: step 65, loss 0.02508, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:56.023077: step 66, loss 0.0173457, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:56.402064: step 67, loss 0.0959291, accuracy 0.933333, precision 0.9523809523809523, recall 0.9523809523809523
+2019-04-03T11:59:56.794016: step 68, loss 0.00822886, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:57.180982: step 69, loss 0.0276661, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:57.582906: step 70, loss 0.0109893, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:57.974858: step 71, loss 0.00393382, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:58.387753: step 72, loss 0.0777143, accuracy 0.933333, precision 0.9523809523809523, recall 0.9523809523809523
+2019-04-03T11:59:58.767738: step 73, loss 0.0184128, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:59.197587: step 74, loss 0.0190013, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T11:59:59.561615: step 75, loss 0.0503464, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+
+Evaluation:
+[[445  62]
+ [155  88]]
+2019-04-03T12:00:00.005427: step 75, loss 0.940403, accuracy 0.710667, precision 0.8777120315581854, recall 0.7416666666666667
+
+2019-04-03T12:00:00.449241: step 76, loss 0.00448007, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:00.894051: step 77, loss 0.0125174, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:01.350829: step 78, loss 0.00491046, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:01.751757: step 79, loss 0.0360933, accuracy 0.966667, precision 0.9523809523809523, recall 1.0
+2019-04-03T12:00:02.134733: step 80, loss 0.0063492, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:02.495767: step 81, loss 0.00369485, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:02.914647: step 82, loss 0.00209304, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:03.311585: step 83, loss 0.00737055, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:03.677606: step 84, loss 0.0200559, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:04.184251: step 85, loss 0.022129, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:04.448544: step 86, loss 0.00619161, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:04.647014: step 87, loss 0.019035, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:04.996081: step 88, loss 0.17773, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T12:00:05.400998: step 89, loss 0.0732467, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T12:00:05.855782: step 90, loss 0.0112615, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:06.293611: step 91, loss 0.0200166, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:06.703514: step 92, loss 0.139226, accuracy 0.9, precision 0.8571428571428571, recall 1.0
+2019-04-03T12:00:07.193205: step 93, loss 0.00447386, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:07.622057: step 94, loss 0.0194696, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:08.091802: step 95, loss 0.0272942, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:08.476774: step 96, loss 0.00603625, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:08.897647: step 97, loss 0.0170615, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:09.293588: step 98, loss 0.00817239, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:09.701497: step 99, loss 0.00398058, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:10.095445: step 100, loss 0.013401, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[474  33]
+ [203  40]]
+2019-04-03T12:00:10.609070: step 100, loss 1.08802, accuracy 0.685333, precision 0.9349112426035503, recall 0.7001477104874446
+
+2019-04-03T12:00:11.087790: step 101, loss 0.00686055, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:11.483731: step 102, loss 0.000717446, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:11.899617: step 103, loss 0.00714442, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:12.321490: step 104, loss 0.0201277, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:12.782258: step 105, loss 0.0235703, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:13.364702: step 106, loss 0.00755657, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:13.785574: step 107, loss 0.0024724, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:14.017952: step 108, loss 0.0360324, accuracy 0.966667, precision 0.9523809523809523, recall 1.0
+2019-04-03T12:00:14.356049: step 109, loss 0.00306922, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:14.728055: step 110, loss 0.00273814, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:15.155910: step 111, loss 0.00225828, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:15.565813: step 112, loss 0.0779515, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T12:00:16.078443: step 113, loss 0.00121808, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:16.514284: step 114, loss 0.00549256, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:16.982027: step 115, loss 0.00121853, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:17.407887: step 116, loss 0.00268119, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:17.858682: step 117, loss 0.00168137, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:18.255620: step 118, loss 0.0100269, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:18.674500: step 119, loss 0.00111938, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:19.076426: step 120, loss 0.0161622, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:19.528217: step 121, loss 0.000849574, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:19.869306: step 122, loss 0.0016156, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:20.372017: step 123, loss 0.0049357, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:20.817769: step 124, loss 0.00263548, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:21.185784: step 125, loss 0.00305874, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[431  76]
+ [141 102]]
+2019-04-03T12:00:21.697416: step 125, loss 0.906237, accuracy 0.710667, precision 0.8500986193293886, recall 0.7534965034965035
+
+2019-04-03T12:00:22.097347: step 126, loss 0.00200228, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:22.544151: step 127, loss 0.00481209, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:23.039826: step 128, loss 0.00164953, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:23.379915: step 129, loss 0.00151187, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:23.605313: step 130, loss 0.000974704, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:23.956374: step 131, loss 0.0152029, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:24.360294: step 132, loss 0.01582, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:24.741275: step 133, loss 0.0132106, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:25.137216: step 134, loss 0.00474108, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:25.544128: step 135, loss 0.00456821, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:25.939072: step 136, loss 0.0029323, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:26.383882: step 137, loss 0.00086517, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:26.869584: step 138, loss 0.00267255, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:27.203690: step 139, loss 0.00402524, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:27.540789: step 140, loss 0.00133645, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:27.877887: step 141, loss 0.00238724, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:28.342644: step 142, loss 0.00739046, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:28.752548: step 143, loss 0.00144362, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:29.116575: step 144, loss 0.0196037, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:29.507530: step 145, loss 0.000640436, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:29.894495: step 146, loss 0.0417722, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T12:00:30.321352: step 147, loss 0.00128405, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:30.695352: step 148, loss 0.00117757, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:31.070350: step 149, loss 0.00106265, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:31.442354: step 150, loss 0.00106712, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[433  74]
+ [146  97]]
+2019-04-03T12:00:31.876194: step 150, loss 0.929929, accuracy 0.706667, precision 0.854043392504931, recall 0.7478411053540587
+
+2019-04-03T12:00:32.182375: step 151, loss 0.000497456, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:32.390817: step 152, loss 0.00119947, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:32.725925: step 153, loss 0.00159059, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:33.103911: step 154, loss 0.00280294, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:33.460955: step 155, loss 0.00144466, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:33.835952: step 156, loss 0.00344805, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:34.212944: step 157, loss 0.0247517, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:34.608886: step 158, loss 0.0023937, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:35.001834: step 159, loss 0.00156544, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:35.441658: step 160, loss 0.0170106, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:35.818651: step 161, loss 0.00894123, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:36.148767: step 162, loss 0.00553507, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:36.485865: step 163, loss 0.000974098, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:36.877818: step 164, loss 0.00584647, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:37.280741: step 165, loss 0.000526262, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:37.677680: step 166, loss 0.00235595, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:38.099551: step 167, loss 0.00601947, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:38.541369: step 168, loss 0.00726488, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:38.947284: step 169, loss 0.0151665, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:39.334251: step 170, loss 0.00118888, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:39.733182: step 171, loss 0.00596982, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:40.079256: step 172, loss 0.000540715, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:40.518082: step 173, loss 0.00166137, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:40.971869: step 174, loss 0.000678673, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:41.250126: step 175, loss 0.00457946, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[449  58]
+ [158  85]]
+2019-04-03T12:00:41.595202: step 175, loss 1.0572, accuracy 0.712, precision 0.8856015779092702, recall 0.7397034596375618
+
+2019-04-03T12:00:41.991143: step 176, loss 0.00138737, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:42.377111: step 177, loss 0.000942018, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:42.745126: step 178, loss 0.00137442, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:43.110151: step 179, loss 0.00066289, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:43.492128: step 180, loss 0.0268205, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:43.869120: step 181, loss 0.000826069, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:44.264064: step 182, loss 0.00396044, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:44.654021: step 183, loss 0.000540845, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:45.051474: step 184, loss 0.0260917, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:45.405526: step 185, loss 0.00782167, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:45.819421: step 186, loss 0.00158712, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:46.244284: step 187, loss 0.000314701, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:46.661169: step 188, loss 0.000126542, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:47.102987: step 189, loss 0.000189144, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:47.510896: step 190, loss 0.00164692, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:47.947728: step 191, loss 0.000876392, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:48.410491: step 192, loss 0.00111677, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:48.843334: step 193, loss 0.000287016, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:49.328038: step 194, loss 0.000322551, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:49.806756: step 195, loss 0.00668952, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:50.165796: step 196, loss 0.000761809, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:50.407149: step 197, loss 0.000604279, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:50.771177: step 198, loss 0.000917586, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:51.171107: step 199, loss 0.00058395, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:51.595972: step 200, loss 0.00226406, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[438  69]
+ [155  88]]
+2019-04-03T12:00:52.071699: step 200, loss 0.979645, accuracy 0.701333, precision 0.863905325443787, recall 0.7386172006745363
+
+2019-04-03T12:00:52.499554: step 201, loss 0.00168262, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:52.909458: step 202, loss 0.00495235, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:53.329335: step 203, loss 0.000365305, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:53.743231: step 204, loss 0.00134079, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:54.073346: step 205, loss 0.00079671, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:54.495218: step 206, loss 0.00294384, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:54.881186: step 207, loss 0.00156297, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:55.334973: step 208, loss 0.00214307, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:55.730913: step 209, loss 0.00821874, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:56.091947: step 210, loss 0.00817057, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:56.466945: step 211, loss 0.000906511, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:56.848923: step 212, loss 0.000972881, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:57.230901: step 213, loss 0.000413225, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:57.616870: step 214, loss 0.00089542, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:58.120522: step 215, loss 0.00415468, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:58.604228: step 216, loss 0.00330588, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:58.872512: step 217, loss 0.000544745, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:59.085939: step 218, loss 0.00157956, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:59.398105: step 219, loss 0.000431212, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:00:59.806015: step 220, loss 0.00731433, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:00.205944: step 221, loss 0.00128609, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:00.625821: step 222, loss 0.00117476, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:01.036723: step 223, loss 0.00180526, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:01.464578: step 224, loss 0.00104937, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:01.859523: step 225, loss 0.00951026, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[442  65]
+ [154  89]]
+2019-04-03T12:01:02.426008: step 225, loss 0.996484, accuracy 0.708, precision 0.8717948717948718, recall 0.7416107382550335
+
+2019-04-03T12:01:02.804994: step 226, loss 0.000999947, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:03.158050: step 227, loss 0.000370181, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:03.555987: step 228, loss 0.00871529, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:03.973869: step 229, loss 0.0018675, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:04.373799: step 230, loss 0.00214782, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:04.785698: step 231, loss 0.00120801, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:05.199591: step 232, loss 0.00109628, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:05.605505: step 233, loss 0.00220875, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:06.016406: step 234, loss 0.000260005, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:06.404369: step 235, loss 0.00888296, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:06.812277: step 236, loss 0.00172037, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:07.273045: step 237, loss 0.000293885, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:07.679957: step 238, loss 0.000337533, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:07.930286: step 239, loss 0.00190116, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:08.190591: step 240, loss 0.00042425, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:08.558607: step 241, loss 0.000253285, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:08.930612: step 242, loss 0.00056753, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:09.315583: step 243, loss 0.000540099, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:09.739449: step 244, loss 0.000267109, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:10.107465: step 245, loss 0.000627809, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:10.480467: step 246, loss 0.000579436, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:10.920291: step 247, loss 0.000971891, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:11.348659: step 248, loss 0.000202013, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:11.747591: step 249, loss 0.000768808, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:12.170461: step 250, loss 0.00181023, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[432  75]
+ [148  95]]
+2019-04-03T12:01:12.659154: step 250, loss 0.928042, accuracy 0.702667, precision 0.8520710059171598, recall 0.7448275862068966
+
+Saved model checkpoint to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1554310761\checkpoints\model-250
+
+2019-04-03T12:01:14.832342: step 251, loss 0.000717738, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:15.335995: step 252, loss 0.000307144, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:15.919434: step 253, loss 0.000325304, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:16.404139: step 254, loss 0.000950487, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:16.680400: step 255, loss 0.00229174, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:17.132192: step 256, loss 0.00121795, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:17.680724: step 257, loss 0.000146662, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:18.077663: step 258, loss 0.000411269, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:18.496542: step 259, loss 0.00091256, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:18.931380: step 260, loss 0.000924882, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:19.321336: step 261, loss 0.00097824, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:19.712295: step 262, loss 0.000932969, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:20.102250: step 263, loss 0.000554161, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:20.631832: step 264, loss 0.00151058, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:21.065672: step 265, loss 0.000414976, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:21.529433: step 266, loss 0.000846373, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:21.956291: step 267, loss 0.000187781, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:22.363202: step 268, loss 0.000399153, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:22.756152: step 269, loss 0.000442797, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:23.188993: step 270, loss 0.000168541, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:23.682673: step 271, loss 0.000284761, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:24.130476: step 272, loss 0.000672232, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:24.620166: step 273, loss 0.0002148, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:25.149749: step 274, loss 0.000297994, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:25.676342: step 275, loss 0.000245673, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[444  63]
+ [156  87]]
+2019-04-03T12:01:25.996486: step 275, loss 0.964, accuracy 0.708, precision 0.8757396449704142, recall 0.74
+
+2019-04-03T12:01:26.450272: step 276, loss 0.00180043, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:26.857183: step 277, loss 0.00026258, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:27.305983: step 278, loss 0.00041291, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:27.715887: step 279, loss 0.00070577, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:28.156708: step 280, loss 0.00205763, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:28.549658: step 281, loss 0.000317064, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:28.955572: step 282, loss 0.000499975, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:29.363481: step 283, loss 0.0021888, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:29.765407: step 284, loss 0.000316216, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:30.112478: step 285, loss 0.000144196, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:30.490468: step 286, loss 0.000479155, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:30.874440: step 287, loss 0.000885429, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:31.248440: step 288, loss 0.000116058, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:31.662333: step 289, loss 0.000631233, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:32.055284: step 290, loss 0.000131467, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:32.447234: step 291, loss 0.000400386, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:32.788322: step 292, loss 0.00170468, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:33.189251: step 293, loss 0.000548591, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:33.603143: step 294, loss 0.000280869, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:34.112780: step 295, loss 0.000389007, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:34.584519: step 296, loss 0.000128627, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:34.861777: step 297, loss 0.000257728, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:35.192891: step 298, loss 0.00127649, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:35.599803: step 299, loss 0.000287276, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:36.029653: step 300, loss 0.000899728, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[447  60]
+ [160  83]]
+2019-04-03T12:01:36.522335: step 300, loss 0.995963, accuracy 0.706667, precision 0.8816568047337278, recall 0.7364085667215815
+
+2019-04-03T12:01:36.888358: step 301, loss 0.00615547, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:37.335161: step 302, loss 0.00101806, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:37.747060: step 303, loss 0.000535736, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:38.125049: step 304, loss 0.000131761, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:38.540940: step 305, loss 0.000605846, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:38.889006: step 306, loss 0.00146159, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:39.334814: step 307, loss 0.000170039, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:39.912270: step 308, loss 0.000279999, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:40.373037: step 309, loss 0.000201313, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:40.832808: step 310, loss 9.89621e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:41.223762: step 311, loss 0.000303309, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:41.668573: step 312, loss 0.00111384, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:42.152280: step 313, loss 0.000763065, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:42.549217: step 314, loss 0.000219166, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:43.086781: step 315, loss 0.000186047, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:43.865697: step 316, loss 0.000183272, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:44.277598: step 317, loss 0.0116344, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:44.613696: step 318, loss 0.000406752, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:44.989691: step 319, loss 0.000410214, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:45.376655: step 320, loss 0.000931896, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:45.786559: step 321, loss 0.000703603, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:46.180506: step 322, loss 0.00033833, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:46.591407: step 323, loss 0.000461504, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:47.019263: step 324, loss 0.00253462, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:47.473050: step 325, loss 0.000352707, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[453  54]
+ [164  79]]
+2019-04-03T12:01:48.051502: step 325, loss 1.05595, accuracy 0.709333, precision 0.893491124260355, recall 0.7341977309562399
+
+2019-04-03T12:01:48.594054: step 326, loss 0.0014977, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:48.970046: step 327, loss 0.000140665, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:49.395907: step 328, loss 9.33724e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:49.835731: step 329, loss 0.000756817, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:50.208734: step 330, loss 0.0010881, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:50.638583: step 331, loss 0.000655402, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:51.007597: step 332, loss 0.000161805, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:51.381597: step 333, loss 0.00097505, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:51.838377: step 334, loss 0.000229454, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:52.344023: step 335, loss 0.00100381, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:52.864632: step 336, loss 0.000340036, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:53.721340: step 337, loss 0.000556626, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:54.045472: step 338, loss 0.00023313, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:54.340683: step 339, loss 0.00161493, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:54.742608: step 340, loss 0.00175137, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:55.181435: step 341, loss 0.000737483, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:55.667136: step 342, loss 0.000311951, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:56.116933: step 343, loss 0.000352521, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:56.548778: step 344, loss 0.000260247, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:56.952697: step 345, loss 0.000532372, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:57.430420: step 346, loss 0.0009617, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:57.840327: step 347, loss 0.000801475, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:58.158473: step 348, loss 0.000308406, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:58.629213: step 349, loss 0.000285486, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:01:59.011192: step 350, loss 0.00143002, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[451  56]
+ [161  82]]
+2019-04-03T12:01:59.516840: step 350, loss 1.03927, accuracy 0.710667, precision 0.8895463510848126, recall 0.7369281045751634
+
+2019-04-03T12:01:59.925747: step 351, loss 0.000274152, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:00.341634: step 352, loss 0.000678363, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:00.753533: step 353, loss 0.000749307, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:01.199342: step 354, loss 0.000208733, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:01.600269: step 355, loss 0.00144263, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:02.025133: step 356, loss 0.000694902, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:02.437030: step 357, loss 9.66347e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:02.953648: step 358, loss 5.19347e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:03.219937: step 359, loss 0.000574775, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:03.512155: step 360, loss 9.37589e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:03.940011: step 361, loss 0.00063837, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:04.366870: step 362, loss 0.000658321, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:04.783755: step 363, loss 0.000802718, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:05.221584: step 364, loss 0.00118875, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:05.658416: step 365, loss 0.000403495, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:06.063333: step 366, loss 0.000322646, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:06.504153: step 367, loss 0.00161561, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:06.879152: step 368, loss 0.00101891, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:07.267115: step 369, loss 0.000971892, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:07.688985: step 370, loss 0.000541981, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:08.081936: step 371, loss 0.000914211, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:08.489843: step 372, loss 0.00020152, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:08.872819: step 373, loss 0.000498972, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:09.344558: step 374, loss 0.000808773, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:09.671684: step 375, loss 0.000225764, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[452  55]
+ [161  82]]
+2019-04-03T12:02:10.151401: step 375, loss 1.0484, accuracy 0.712, precision 0.8915187376725838, recall 0.7373572593800979
+
+2019-04-03T12:02:10.528392: step 376, loss 0.00126994, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:10.959240: step 377, loss 0.000303476, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:11.463891: step 378, loss 0.00028435, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:11.824925: step 379, loss 0.000316003, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:12.081239: step 380, loss 0.00031197, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:12.272726: step 381, loss 0.000119706, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:12.674652: step 382, loss 0.000764119, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:13.186283: step 383, loss 0.0425983, accuracy 0.966667, precision 1.0, recall 0.9545454545454546
+2019-04-03T12:02:13.625110: step 384, loss 0.00122472, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:14.142725: step 385, loss 0.00215985, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:14.611472: step 386, loss 0.00416672, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:15.049301: step 387, loss 0.000321975, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:15.493115: step 388, loss 0.000324091, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:15.894041: step 389, loss 0.000781948, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:16.297962: step 390, loss 0.00104134, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:16.653012: step 391, loss 0.000263714, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:17.081866: step 392, loss 0.00302372, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:17.486783: step 393, loss 0.000825057, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:17.886713: step 394, loss 0.00301402, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:18.288639: step 395, loss 0.000323775, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:18.721480: step 396, loss 0.00049553, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:19.320879: step 397, loss 0.00122712, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:19.778655: step 398, loss 0.0133531, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:20.222466: step 399, loss 0.000413465, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:20.636360: step 400, loss 0.000692923, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[422  85]
+ [138 105]]
+2019-04-03T12:02:21.264679: step 400, loss 0.862303, accuracy 0.702667, precision 0.8323471400394478, recall 0.7535714285714286
+
+2019-04-03T12:02:21.771326: step 401, loss 0.000206022, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:22.015671: step 402, loss 0.00151332, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:22.297915: step 403, loss 0.000522692, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:22.760678: step 404, loss 0.00142829, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:23.138668: step 405, loss 0.000399643, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:23.652294: step 406, loss 0.000240235, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:24.034272: step 407, loss 0.000938219, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:24.444176: step 408, loss 0.000283118, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:24.890981: step 409, loss 0.000164055, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:25.327812: step 410, loss 0.000256882, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:25.669898: step 411, loss 0.000577077, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:26.066836: step 412, loss 0.00181032, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:26.500677: step 413, loss 0.00145898, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:26.938506: step 414, loss 0.00234597, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:27.342425: step 415, loss 0.00290236, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:27.758314: step 416, loss 0.000171998, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:28.128323: step 417, loss 0.00131285, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:28.566153: step 418, loss 0.00023925, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:28.966083: step 419, loss 0.000283439, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:29.329112: step 420, loss 9.84825e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:29.746994: step 421, loss 0.000901656, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:30.372322: step 422, loss 0.00303335, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:30.711414: step 423, loss 0.00498116, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:30.924845: step 424, loss 0.000136905, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:31.233020: step 425, loss 0.000250096, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[458  49]
+ [169  74]]
+2019-04-03T12:02:32.097710: step 425, loss 1.03484, accuracy 0.709333, precision 0.903353057199211, recall 0.7304625199362041
+
+2019-04-03T12:02:33.144909: step 426, loss 9.7506e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:34.079409: step 427, loss 0.00020268, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:35.145558: step 428, loss 8.73957e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:36.090033: step 429, loss 0.00107235, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:36.915823: step 430, loss 0.000114685, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:37.694740: step 431, loss 0.000289164, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:38.544467: step 432, loss 8.8467e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:39.200712: step 433, loss 0.001107, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:39.796121: step 434, loss 0.000461087, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:40.440398: step 435, loss 0.00027617, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:41.103624: step 436, loss 0.000991462, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:41.785799: step 437, loss 0.000178003, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:42.446033: step 438, loss 0.000395105, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:43.144167: step 439, loss 0.000233027, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:43.866236: step 440, loss 0.000268043, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:44.512506: step 441, loss 0.000155697, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:45.188699: step 442, loss 0.000193899, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:45.926724: step 443, loss 0.000696521, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:46.304715: step 444, loss 0.000185641, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:46.600922: step 445, loss 0.000293216, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:47.069667: step 446, loss 0.000139312, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:47.596259: step 447, loss 0.000209015, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:48.093929: step 448, loss 0.00110829, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:48.580627: step 449, loss 0.000257409, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:49.088270: step 450, loss 0.000146755, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[442  65]
+ [153  90]]
+2019-04-03T12:02:49.712600: step 450, loss 0.939645, accuracy 0.709333, precision 0.8717948717948718, recall 0.7428571428571429
+
+2019-04-03T12:02:50.247170: step 451, loss 0.00124976, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:50.722897: step 452, loss 0.000394941, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:51.144771: step 453, loss 0.000272007, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:51.606534: step 454, loss 0.000184158, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:52.060322: step 455, loss 0.000113763, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:52.540038: step 456, loss 0.000703472, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:53.005794: step 457, loss 7.56572e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:53.436641: step 458, loss 0.000179418, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:53.910375: step 459, loss 0.000464908, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:54.376128: step 460, loss 0.000343999, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:54.805978: step 461, loss 0.000189993, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:55.242810: step 462, loss 0.000520773, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:55.882102: step 463, loss 8.36429e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:56.524382: step 464, loss 0.000320296, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:56.982158: step 465, loss 0.000146238, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:57.226503: step 466, loss 0.000155811, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:57.531688: step 467, loss 0.000185932, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:57.917656: step 468, loss 0.000254388, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:58.316589: step 469, loss 0.000210478, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:58.842184: step 470, loss 0.000208711, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:59.388723: step 471, loss 0.00032388, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:02:59.860460: step 472, loss 7.87168e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:00.328210: step 473, loss 4.62887e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:00.862780: step 474, loss 0.000557465, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:01.258721: step 475, loss 0.000468247, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[449  58]
+ [161  82]]
+2019-04-03T12:03:01.767362: step 475, loss 0.988912, accuracy 0.708, precision 0.8856015779092702, recall 0.7360655737704918
+
+2019-04-03T12:03:02.150337: step 476, loss 0.00017653, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:02.563233: step 477, loss 0.000361554, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:02.971141: step 478, loss 0.000240612, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:03.389025: step 479, loss 0.00616846, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:03.804913: step 480, loss 0.000125368, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:04.170934: step 481, loss 0.000222701, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:04.544933: step 482, loss 0.000130193, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:04.959824: step 483, loss 0.000215949, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:05.331828: step 484, loss 0.000209435, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:05.789604: step 485, loss 0.000163477, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:06.268324: step 486, loss 0.000425055, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:06.526632: step 487, loss 0.000515506, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:06.746046: step 488, loss 0.000372845, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:07.106084: step 489, loss 0.000138457, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:07.508008: step 490, loss 0.00021821, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:07.887992: step 491, loss 0.000204001, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:08.266979: step 492, loss 3.96058e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:08.662919: step 493, loss 6.11538e-05, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:09.038914: step 494, loss 0.00144207, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:09.418898: step 495, loss 0.00180456, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:09.751010: step 496, loss 0.000122757, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:10.075144: step 497, loss 0.000206206, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:10.455128: step 498, loss 0.000192313, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:10.853063: step 499, loss 0.000129655, accuracy 1, precision 1.0, recall 1.0
+2019-04-03T12:03:11.175201: step 500, loss 5.81982e-05, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[442  65]
+ [155  88]]
+2019-04-03T12:03:11.656913: step 500, loss 0.969881, accuracy 0.706667, precision 0.8717948717948718, recall 0.7403685092127303
+
+Saved model checkpoint to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1554310761\checkpoints\model-500
+
+
+Process finished with exit code 0

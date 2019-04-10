@@ -1,0 +1,4755 @@
+All the Correspondences found between Italian corpus and GloVe embeddings
+
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" "C:/Users/aless/Documents/University of Illinois at Chicago/Spring 2019/Project/train.py"
+Using TensorFlow backend.
+GloVe model loaded
+Pretrained Embedding: GloVe
+Italian: True
+Loading data...
+5571
+text 1057
+tornare 645791
+in 7
+camera 1351
+e 1939
+trovare 310488
+aperto 439756
+creepy 12779
+terremoto 369566
+altra 226394
+forte 47932
+dire 18055
+che 22693
+non 4312
+ci 42871
+a 6
+fare 10039
+la 1869
+notte 151939
+bianca 117262
+ha 5653
+sentito 673164
+il 10282
+si 11038
+trema 1005856
+ancora 138140
+cazzo 164604
+grazie 89482
+maya 45991
+per 404
+regalo 168925
+di 4685
+compleanno 344170
+annuncia 838364
+morto 254547
+nel 55631
+ben 20103
+due 701
+volte 182409
+nella 92894
+stessa 373930
+dal 43561
+questa 82402
+era 4412
+propio 299312
+piccola 309431
+perche 318145
+ho 14866
+niente 202475
+milano 93384
+bussa 1681062
+lucca 393760
+balla 240856
+danni 185181
+ferrara 418769
+come 248
+al 5015
+solito 369126
+ah 12708
+i 108
+tt 32285
+sono 52548
+chelsea 51870
+ma 9749
+guai 254983
+cleopatra 157062
+sardegna 355559
+morti 369817
+http 6566
+t 1161
+co 10153
+via 629
+ecco 132828
+ora 67906
+cavolo 487761
+cmq 278751
+spenta 2063180
+luce 183532
+alle 36448
+2 80
+40 881
+4 131
+03 2617
+nuova 150900
+mi 3754
+sembrava 1362139
+tutto 85107
+bologna 93701
+ravenna 452201
+io 41286
+l'ho 266695
+eh 10800
+no 96
+finita 496095
+! 36
+diretta 251230
+lugano 385422
+sostegno 1203833
+ai 5935
+cittadini 1097033
+it 21
+fanculo 928738
+avevo 427609
+quasi 74519
+deciso 741822
+dormire 585482
+altre 204004
+pare 67099
+morte 120047
+del 4673
+twitter 6199
+servizio 300280
+2007 318
+fra 52188
+gente 73063
+inventa 1377177
+notizie 291314
+numeri 449397
+dice 13981
+conoscere 592215
+le 4903
+vittime 1212784
+centro 84664
+nord 126521
+italia 70896
+ok 2781
+earthquake 10305
+17 469
+tim 28489
+perch 30664
+tutte 126932
+partite 494907
+agli 246397
+aiuti 1918134
+alla 41480
+ricostruzione 1882273
+verona 180198
+siamo 193569
+3 103
+su 16010
+sky 4027
+inizia 719082
+perde 452393
+neanche 689147
+un 6106
+bambino 165228
+mini 4562
+allora 245751
+gli 76766
+uccelli 1340162
+cantano 792736
+dalla 94543
+se 6949
+finisce 668886
+vorrei 333186
+faccia 326989
+ne 14427
+fatti 433104
+credevo 2176897
+5 146
+imola 834421
+faenza 1880013
+fortuna 146637
+basta 130456
+questo 50014
+momento 92150
+novara 1101055
+6 202
+piano 4692
+parlano 849890
+finale 11888
+modena 364465
+trovi 408684
+delle 54208
+persone 171840
+gruppi 527106
+discussione 543008
+sul 63777
+lieve 274015
+emilia 280304
+roma 72561
+segnalato 1835535
+sembra 249576
+proprio 138831
+una 15669
+leggera 1274602
+agenzie 942865
+hanno 151432
+battuto 1163080
+notizia 430534
+pi 29285
+veloce 346017
+televideo 1721687
+rai 76142
+parla 212932
+intitola 1002665
+tra 56178
+marche 134243
+romagna 723946
+l'aquila 1949805
+sentita 1544075
+sempre 66238
+settimo 1747742
+condominio 849160
+vi 18185
+grado 213915
+scala 121095
+nessun 506478
+danno 530942
+date 740
+anche 59958
+reggio 680906
+appena 317971
+botta 794843
+qui 24377
+dovuto 1061028
+sarebbe 391662
+morta 411661
+persona 21853
+dorme 856866
+uffa 2175536
+manco 483318
+ti 21136
+sveglia 1356167
+tanto 75782
+vale 63256
+lavorare 592044
+rumore 720701
+fondo 127253
+divano 1238602
+muove 627272
+da 4783
+solo 4627
+dai 78901
+fate 8328
+dovete 1155714
+sto 65047
+chiusa 809311
+casa 39507
+telefono 240845
+isolato 1791763
+strade 513618
+dei 31162
+ponti 700971
+provincia 213857
+stavo 793028
+giusto 373524
+pensando 287008
+padova 509965
+scorsa 1240598
+breve 155644
+stavolta 1503741
+chi 24684
+beati 815557
+miei 196389
+terra 48699
+cos 12996
+tenere 535635
+quelle 118795
+pile 8622
+riviste 1071415
+bottiglia 959930
+armagnac 528331
+salva 320317
+mamma 62788
+lacrime 761219
+tweet 12623
+informazioni 173812
+della 27042
+tv 3815
+nuovo 97372
+leggero 946068
+duomo 358355
+visto 67962
+gran 46026
+numero 85100
+chiese 967047
+matrice 680563
+lunga 404201
+vicenza 598131
+discoball 1278400
+mio 56016
+palle 484243
+p 3523
+romana 181735
+puttana 564591
+o 2476
+palazzo 133333
+oppure 443423
+ginocchio 2034438
+fa 28388
+14 380
+decine 872234
+stampa 236090
+debole 1942502
+adesso 261634
+dura 108077
+bush 11060
+bis 37158
+chiamato 810027
+famiglia 246654
+pula 177468
+posto 186742
+parte 25425
+paura 275043
+vento 229724
+piove 1380112
+pure 3617
+9 303
+utile 177104
+dare 9374
+aggiornamenti 810391
+nove 309419
+poliziotto 1704618
+pazzesco 1368011
+sotto 127564
+quando 66344
+partita 247993
+magari 309505
+chiamano 903607
+informazione 517000
+nessuno 335954
+sta 42876
+parlando 690532
+quel 108298
+succede 513178
+05 2687
+02 2508
+bene 86008
+prov 120407
+ve 7378
+trentino 967878
+riva 209009
+garda 171065
+abbiamo 345204
+vediamo 601318
+farsi 172833
+largo 89457
+paese 325059
+pezzi 432105
+ita 52191
+capito 290332
+dove 24642
+sia 49917
+reale 284104
+sapete 526900
+dirmi 800724
+terza 364036
+secondo 116020
+troppo 121485
+avete 289665
+qualche 204984
+brescia 580755
+ufff 427127
+motivo 354452
+sar 115006
+com 1521
+vr 32267
+quinto 277705
+qua 66972
+parma 134147
+mica 66767
+genova 392824
+immagini 157652
+fanno 282459
+male 2263
+cuore 185674
+sale 687
+aperta 485673
+forza 106734
+grande 33209
+giorno 138034
+fango 669037
+sulla 121626
+abbraccio 484973
+stretto 720190
+tutti 75540
+sardi 1140364
+loro 170708
+zona 100013
+industriale 743899
+s 269
+felice 301125
+sacco 382373
+misura 523383
+gradi 874529
+molti 420015
+comune 183900
+torp 488862
+alluvione 1965581
+ieri 326769
+migliaia 1459532
+animali 312963
+lo 11063
+chiede 813908
+u 1042
+continua 125216
+san 10378
+argh 73619
+andare 235737
+finalmente 255907
+qualcuno 279366
+primi 246649
+dopo 159310
+anni 88050
+guardando 669755
+oggetto 606525
+curioso 386748
+inutile 369455
+arranca 871047
+accidenti 2054842
+caso 100176
+venuto 506581
+gi 38158
+pezzo 279082
+operai 1554453
+fonte 247435
+3000 8129
+triste 132203
+bilancio 916551
+oggi 176633
+vulcano 466154
+giuro 1590010
+col 43067
+buono 321678
+c 1825
+domani 358262
+quella 149081
+culo 119095
+capisco 382608
+paranoia 31648
+piuttosto 932372
+ore 19500
+tg2 1452739
+municipio 360569
+uscite 860941
+muro 212126
+stato 118429
+annunciato 912957
+giuliani 346008
+tinyurl 211618
+media 763
+resto 81336
+mondo 72249
+www 8296
+abruzzese 1993806
+0406 264842
+html 4466
+22 519
+20 262
+0405 216392
+mia 44125
+settimana 297656
+mani 76337
+ferite 2012099
+vecchi 698999
+edifici 1780768
+industriali 1160179
+venezia 239317
+spezia 1281050
+04 2649
+nemmeno 425771
+pu 52799
+avere 210005
+pace 4867
+vita 50366
+ciao 73953
+eppure 2080282
+eri 253167
+passato 347777
+disastro 1178246
+ambiente 178279
+mt 30715
+sei 59614
+va 17403
+dintorni 504662
+fatto 105370
+provo 133940
+vero 113071
+sti 80658
+azz 59974
+ansa 569641
+leggo 448622
+prime 5297
+speriamo 674024
+fino 152684
+sentire 447278
+po 20480
+monza 339196
+50 538
+000 8122
+7 221
+corriere 1044656
+ovviamente 639417
+laterale 908433
+cristo 216684
+16 386
+video 268
+news 518
+insomma 1089596
+tratta 361727
+questi 153170
+lavoro 154257
+rimini 411974
+pensa 375747
+bimbi 961400
+abruzzo 591037
+luned 736128
+fronte 442648
+silenzio 502915
+segno 606352
+rispetto 368199
+mantova 1302689
+possibile 147772
+siano 625570
+ufficiali 828265
+carlo 93231
+conti 206909
+dava 602511
+l 4512
+281 17119
+400 3055
+euro 11128
+stata 174229
+uomo 160718
+causa 112084
+incendio 479662
+bosco 223079
+251 15258
+oltre 293182
+150 2868
+70 1796
+mila 142700
+maledizione 1934772
+arrivata 1058300
+piena 581060
+nott 300641
+272 18761
+8217 100045
+boom 10263
+sangue 246054
+terribile 887757
+incidente 319086
+mortale 835831
+precedenza 2182451
+grave 9785
+auto 2611
+ques 114015
+207 12859
+inchiesta 1726762
+n 1479
+260 11856
+terre 110705
+reato 1823881
+mentre 299562
+ag 38844
+salvati 1694250
+tre 62731
+studenti 422479
+certa 270597
+agito 827680
+con 7051
+pericolo 1085319
+turista 663808
+italiano 68003
+muore 710954
+stradale 669714
+messico 1722131
+pier 23397
+paolo 156129
+quattro 73260
+giovani 373641
+d 1674
+toscani 1975709
+ragazzi 202298
+ragazze 339784
+siete 163891
+costa 36274
+stati 251301
+l'ultima 469530
+forti 504910
+nelle 176407
+riesce 794511
+castello 301766
+merda 114437
+trovato 308938
+ad 2812
+esatta 541459
+buonanotte 2128903
+topnews 785217
+grossi 600194
+coraggio 886177
+voi 101221
+conferma 811547
+operaio 2166864
+fabbrica 922814
+tristezza 762013
+riflettere 1552364
+vittima 1801831
+gravi 518561
+perso 130477
+conto 325315
+piccolina 1795547
+realt 1075043
+facevano 1849414
+turno 406887
+sito 97938
+de 464
+sarda 847100
+sarebbero 1731495
+olbia 1496517
+prot 103496
+civile 237783
+12 250
+1 66
+cui 124802
+bimbo 71258
+paesi 763190
+isolati 1471027
+definitivo 760879
+giornali 1378052
+18 379
+pres 68657
+reg 22699
+alcuni 379069
+case 357
+forse 235996
+situazione 801546
+protezione 691479
+https 46657
+aumento 484508
+avevano 1581721
+previsto 751099
+pioggia 625568
+giorni 124008
+nulla 249510
+vergogna 574352
+update 1553
+19 512
+11 302
+08 2383
+00 7024
+cosa 83704
+peggiore 1796047
+fossero 1073021
+governo 314553
+accorto 1410341
+altro 140442
+fondi 989045
+people 99
+still 194
+alive 3762
+under 247
+dello 113226
+studente 720638
+rubble 32545
+monti 389826
+coccodrillo 2076048
+giro 152398
+nessuna 736954
+pensiero 425070
+segnale 1424678
+molto 83681
+'ll 206
+casco 348100
+ebay 11795
+aiutare 1167549
+vicino 174640
+troviamo 1621582
+maniera 537534
+foto 29820
+purtroppo 566865
+ponte 162475
+monte 62601
+pino 276570
+aveva 491515
+maurizio 509502
+lupi 743176
+ballare 704494
+canale 285965
+parli 625861
+meteo 275760
+agnelli 1483944
+nati 248090
+rifugio 928755
+tobia 1075774
+subito 274666
+domenica 244635
+dicembre 131390
+30 307
+giornata 281061
+dato 224417
+corta 349747
+meno 180657
+guardo 507780
+tg 122424
+esattamente 969821
+x 359
+bella 35782
+pesa 548016
+b 1504
+amp 7995
+10 167
+posti 369730
+letto 244671
+gratis 21021
+92 5098
+tel 22697
+331 20989
+offre 165686
+alloggi 574999
+onan 307567
+nu 28506
+multimediale 742930
+lago 157220
+poi 72460
+quello 128204
+hangover 33610
+bergamo 545913
+sente 262549
+fin 21146
+nonostante 959525
+pavia 819338
+precedente 381895
+evacuate 41304
+scuole 790773
+principale 285291
+famiglie 1024826
+chiesa 379211
+cazzi 724059
+ed 6063
+dalle 176251
+uh 13765
+prima 36936
+deve 139062
+averla 1290302
+l'auto 947939
+cile 492662
+quanto 107493
+tutta 248561
+strada 171615
+piazza 80993
+maggiore 404173
+mattina 428108
+torre 187012
+orologio 873259
+poggio 1662554
+guardia 257331
+medica 149255
+sede 266632
+avis 51310
+napoli 186087
+mappa 313448
+agi 169772
+23 579
+56 4284
+sette 303751
+agenzia 670595
+uno 48101
+prova 171947
+poco 86842
+07 2559
+macchina 343649
+giardino 411065
+caduto 1694162
+campanile 276504
+mo 13157
+italy 26746
+minuto 148869
+mediaset 1233333
+aggiornato 797527
+veramente 206889
+tristi 2117180
+tetto 794781
+lavoratori 1156825
+finito 290943
+meglio 172418
+culla 2143147
+intensa 938810
+firenze 266668
+consiglio 277585
+pochi 336111
+cellulari 390046
+cortina 297895
+torno 556151
+rock 1654
+roll 2984
+zio 353821
+ki 28165
+cazz 936207
+family 284
+nuove 303009
+soluzioni 619795
+carpi 429392
+regionale 551997
+fuori 249315
+facendo 393531
+l'ultimo 563421
+concerto 47997
+corsa 136515
+senza 100528
+aver 107132
+pagato 1472739
+biglietto 1044920
+46 3605
+richter 191140
+confine 51329
+trieste 538586
+este 26738
+abito 502517
+caduti 2118522
+libri 191699
+km 2039
+seri 165620
+dicono 603595
+sorry 1950
+cento 384131
+cima 250674
+rocca 506359
+voglio 236269
+btw 10314
+nei 109933
+parmigiano 241294
+reggiano 319604
+ol 19943
+tranquilla 792480
+massa 103126
+veder 1683240
+flash 3157
+vostri 524807
+degli 69610
+amici 125806
+controllato 1875556
+tl 65172
+amiche 846440
+troppi 1237985
+strage 415897
+cercano 699586
+super 2257
+cal 26256
+cravatta 1776622
+ridere 309785
+ovvio 1268316
+preghiera 1139309
+bello 72150
+hai 26737
+rotto 538241
+citt 880526
+monumenti 2146171
+rompere 1184783
+bo 26197
+impressione 2057642
+nostradamus 305156
+caos 367616
+piccolo 92611
+enrico 355930
+braccia 912691
+pap 58832
+atleta 1012583
+fois 69007
+serve 1804
+risposta 290456
+seria 135675
+queste 220301
+regalato 1447717
+cucina 210032
+piacenza 1541992
+centinaia 1672725
+altri 126465
+aiuto 489142
+parole 25366
+fiorano 1506285
+piace 150542
+chiamare 1506995
+parenti 1082352
+appuntamento 801397
+ormai 476803
+minchia 606767
+cosi 181773
+l'avevo 1330527
+mai 16581
+testa 172715
+rumori 453077
+1300 16402
+quale 235627
+relazione 830485
+vedere 168840
+adana 603935
+twins 11716
+ancona 765333
+abbia 518670
+parti 116120
+115 6226
+arriva 220975
+mezza 472812
+leggi 387316
+cdm 155531
+guarda 184044
+1749 64010
+giornale 1002661
+calo 555667
+tempi 162029
+ohh 40801
+seriamente 1407362
+vigile 2098277
+fuoco 299899
+durante 121494
+samba 47587
+genovese 577898
+aperte 918842
+vicina 614683
+stamattina 1779790
+ottimo 288084
+risveglio 1210360
+trento 841177
+brioches 659927
+nostri 204174
+fratelli 440106
+breaking 4296
+dobbiamo 1047284
+restare 1363862
+direi 636770
+movimento 249671
+oooo 97357
+apposta 1659461
+streaming 6818
+decente 787254
+l'unico 617405
+alcuna 1853705
+freddo 452061
+sonno 891726
+sento 319797
+leggermente 1607103
+continuamente 1829013
+almeno 388601
+riesco 430199
+farlo 626790
+fammi 1262511
+armadio 1751791
+vetri 998379
+again 273
+minuti 231899
+leggere 254331
+boh 270013
+80 1563
+trovati 881683
+corpi 1510825
+profondo 658436
+stanno 445886
+musica 33990
+regione 537601
+uscire 867096
+como 19969
+cose 156628
+stupido 538062
+potrebbe 517179
+evitare 791123
+viaggio 201743
+segnalazioni 1947431
+segui 594943
+tag 3052
+essere 98920
+prossime 2143993
+nello 384669
+fiume 556117
+lt 33834
+tempio 1176231
+gt 23923
+donna 52733
+cede 79679
+polizia 490056
+agente 368678
+orion 95304
+15 295
+catene 1575280
+importante 154896
+usate 666251
+comprese 2149850
+stessi 811945
+l'app 1474467
+andate 515568
+prove 3381
+pagano 839336
+luogo 529945
+lasciate 1334247
+stare 15781
+attimo 933662
+finire 631333
+cane 18190
+buon 192962
+assurda 2060301
+numerosi 953942
+tg3 433279
+circa 13638
+viareggio 1349442
+nervi 907640
+saltare 1325750
+micro 12178
+diversi 397099
+rapidamente 852059
+negli 287973
+usa 10413
+facciamo 857963
+qualcosa 270354
+semplicemente 294064
+comunicare 843034
+utili 403354
+scarpe 246795
+voglia 477021
+avrei 689486
+voluto 611256
+isola 283060
+tendenze 1032569
+vab 1252005
+andiamo 742435
+bar 1437
+colazione 456421
+ero 146002
+vai 67299
+liscio 1435358
+sapere 311690
+l' 68302
+oddio 493551
+spara 961285
+emergenza 1017748
+salvo 85236
+l'iphone 1161476
+gatto 280297
+secondi 187957
+spero 310029
+06 2658
+pre 9276
+finora 1718405
+cinque 276476
+unico 137036
+santa 21114
+maria 38649
+vado 343902
+piccoli 463630
+or 32
+fe 42772
+so 59
+brutto 301345
+fumare 1467949
+sabato 263073
+colpa 640955
+natura 152480
+fermo 1027624
+tanti 285328
+contro 129944
+studio 3041
+tw 58553
+corpo 200269
+cascata 1398022
+tira 237247
+par 7252
+buoi 2001673
+emma 50178
+marrone 527559
+fame 8843
+noto 194039
+sola 106284
+chiudere 1240369
+occhio 685636
+noooo 115656
+sbaglio 931487
+ragazza 233844
+avesse 1465283
+37 2983
+lungo 353028
+sa 11714
+pericolosi 2076155
+dispiace 447499
+lanciato 1502964
+volta 98166
+br 17458
+bombe 202753
+piu 138907
+valle 160991
+verso 58457
+potrebbero 1130962
+presidente 143832
+noi 85276
+li 23475
+pijama 757014
+diavolo 423020
+mal 30703
+star 1605
+stellata 561409
+edificio 312352
+siam 195172
+esserci 900313
+quarto 125500
+l'edizione 1801756
+straordinaria 1103322
+albe 377454
+problema 114260
+lontano 602032
+nn 35238
+patrimonio 441299
+storico 356524
+the 2
+same 204
+old 296
+story 448
+verr 829980
+quotidiano 757405
+state 364
+intanto 1232251
+treviso 634986
+molte 591646
+chiamate 1461223
+richiesta 393605
+fotogallery 2064468
+italiani 194459
+veloci 910147
+1h 30142
+corto 212271
+bei 29815
+ricordi 301375
+confermato 1524593
+chiaro 523774
+italiana 125758
+stai 226221
+fatemi 2092368
+figlio 326350
+beb 296075
+latina 17372
+fossi 737469
+dentro 106167
+minore 439525
+dovrebbero 1133416
+volevo 602105
+porta 96232
+distruzione 1988700
+tragedia 562139
+fortissimo 318729
+bassano 1786898
+tromba 705024
+d'aria 1475121
+gallipoli 354269
+sua 69628
+escalation 38176
+becco 1842292
+corso 157752
+benissimo 595146
+100 374
+punti 79956
+fratello 327194
+breakingnews 367487
+facebook 5745
+orlando 26512
+collegamenti 1019845
+telefoni 843459
+vanno 617362
+prego 119317
+primo 68914
+vuoi 293674
+jeans 6902
+maglietta 1329187
+schifo 398996
+peggio 750258
+okay 3903
+alcun 1027358
+me 73
+son 1134
+quadri 701479
+aglio 586995
+olio 257599
+peperoncino 764354
+sud 118724
+bitti 630037
+mr 18118
+utilit 1087816
+possiamo 487485
+h 4127
+lodi 240252
+cago 240015
+davvero 161978
+canton 62230
+ticino 669043
+rsi 297204
+radio 1747
+svizzera 535249
+chiaramente 1831139
+replica 9542
+caff 366492
+birra 497083
+posizione 378445
+consona 1230514
+beppe 808689
+grillo 527617
+terrore 1107707
+oooh 53182
+han 49320
+ignora 1297498
+bah 56875
+sani 346247
+rombo 1753483
+sottofondo 657511
+ce 21230
+pagare 815570
+soli 179702
+ansia 1035995
+incredibile 295733
+ogni 180563
+porti 641226
+quelli 260633
+amano 486752
+d'estate 811327
+amino 13181
+varie 270965
+napoletano 741450
+mira 106234
+ovest 1108982
+sui 80220
+lungomare 1202798
+pericoloso 1441542
+nanna 244392
+immobile 72944
+diffusione 1437254
+pur 78419
+rip 10252
+te 11505
+remoto 442891
+ri 41688
+flagella 194248
+bambini 205843
+letta 1054165
+milioni 392853
+link 607
+sarde 1088567
+cerca 122814
+marty 99889
+mosso 597618
+alto 40300
+vedete 775600
+occhi 284019
+devo 156625
+f 3447
+brutta 709139
+buona 256474
+vivo 19813
+0 223
+stesso 267182
+punto 82253
+normale 254107
+eva 39740
+segue 84225
+pista 163159
+anarchico 2151338
+minima 125034
+metto 564133
+computer 704
+bare 8468
+fila 174470
+viale 469946
+edizione 331065
+seconda 186109
+camper 24613
+popolazione 1983104
+paga 318700
+scotto 837798
+propria 212810
+prevenzione 1960879
+invece 329842
+buttare 1819050
+tav 345702
+sicurezza 246580
+terr 305001
+economia 310139
+agricola 706667
+sentite 1826503
+locale 27872
+grappa 213405
+faccio 367510
+presente 144336
+falchi 1460888
+antica 378419
+vissuto 1387910
+dell 19485
+posso 156122
+capire 335064
+stima 863677
+finch 83359
+frega 1228160
+quindi 340299
+passano 2085219
+tornado 12700
+temporale 787347
+presso 302568
+num 37942
+0783 513073
+84513 1729053
+aspettando 1095977
+metta 244044
+info 1174
+sappiamo 1795026
+scrivere 450701
+difficile 90531
+dio 89618
+pensavo 1017330
+successo 296722
+pisa 195964
+confronto 379195
+far 428
+24 418
+strano 535044
+credo 84898
+revere 73804
+mn 26620
+parziale 2033828
+registrato 416559
+36km 373106
+fuuuuu 1906158
+prendere 523490
+alzo 1057875
+cio 178698
+sogno 304584
+nuovi 256205
+gola 419998
+bibione 1573524
+certi 431776
+tanta 246638
+molta 989886
+evidente 753125
+torna 299677
+tommaso 1050674
+tranquillo 441212
+dunque 928060
+muchi 1050648
+dubbio 787326
+vestita 1236952
+agita 490309
+addosso 1402508
+maledetto 1074318
+est 16463
+cremona 957027
+pescara 695994
+dite 310037
+facile 69923
+scoperto 685090
+ottimi 1274851
+reazione 1861446
+inquietante 1617091
+pesante 1038415
+cattedrale 1955262
+stile 93122
+vola 440417
+porca 626793
+troia 425545
+tsunami 20110
+piani 667745
+bassi 683701
+norma 150783
+beh 177654
+acc 47171
+comunque 350615
+colto 2108977
+temo 786248
+certo 198577
+andando 420765
+puttane 1141730
+sembrano 931265
+importanti 570026
+dan 17400
+harmon 202664
+oh 2512
+funziona 376119
+impossibile 391671
+riprendere 2082469
+facci 1881073
+venire 271725
+berlusconi 328657
+piacevole 844185
+tranquilli 1992705
+uccide 1328974
+risulta 1733581
+daje 419180
+forl 1500790
+cronaca 347148
+continui 1254327
+cresce 884337
+quali 144529
+alta 92524
+destinati 1058167
+salire 1293268
+campagne 175574
+chiedo 717621
+scusa 393793
+conta 164108
+aggiornare 1339542
+preferito 495863
+' 55
+tardi 732200
+vada 238138
+2012 144
+52 3635
+ml 10016
+pianura 2097508
+emiliana 983600
+stasera 607648
+bianche 824395
+cattivo 640246
+quanti 303603
+mangiato 1687515
+fagioli 456796
+sera 55032
+ricerche 821836
+poteva 771895
+vogliono 959273
+farmi 682532
+risponde 853418
+senti 283495
+occorre 1732510
+aposto 1427710
+fretta 1028428
+distanza 263426
+messi 90179
+brindisi 755764
+sfiga 1996528
+valpolicella 2066586
+porco 443968
+aggiornamento 345279
+schede 612785
+presentare 1445057
+comuni 573776
+ikea 77361
+registra 471360
+pensato 718711
+prossima 563552
+detto 177772
+seguito 422153
+vuole 339081
+vicini 638950
+mestre 298355
+sperare 1974422
+scrivania 2083880
+davanti 399736
+giornalista 1015965
+tiene 70693
+nun 32311
+camino 108495
+domande 587765
+inutili 1357803
+marina 22482
+agostino 863506
+santo 126819
+cielo 124981
+impotenza 1959543
+umana 717349
+60 1175
+l'hotel 460197
+continuano 2089447
+parlare 354071
+tutela 878848
+territorio 481832
+servono 1207103
+brasiliana 1408523
+rimasto 636775
+solara 417955
+vizio 148355
+genitori 982119
+dolore 457354
+riflessione 1516149
+sali 317823
+appartamento 403604
+mettere 440054
+preferiti 279811
+mappe 601736
+pc 6193
+morire 342419
+tiscali 434459
+tarantino 235289
+castel 371704
+'' 70880
+sic 21234
+seduta 1780297
+tetra 122870
+schiena 1329203
+aspetta 961009
+animi 739463
+prodotto 265742
+share 659
+ufficialmente 1092981
+suoi 281661
+figli 210386
+47 3821
+virtuale 451299
+sardo 918130
+nostra 170984
+pagina 73729
+fosse 189967
+rabbia 938827
+voci 343658
+chiuse 1986780
+sole 5948
+simo 385665
+passare 587401
+miseria 639149
+connessi 1994499
+arrivato 694999
+momenti 578949
+stia 1083130
+ferma 739131
+recente 330583
+costruzione 688566
+speciali 374077
+balotelli 709767
+on 17
+piedi 349447
+pff 202278
+figo 312179
+ufficiale 147273
+quotidiani 1767382
+online 251
+netto 294214
+cant 3308
+panico 500416
+bel 59298
+dritto 1535576
+g 3577
+stiamo 734411
+decisamente 862271
+prendo 916755
+odio 224798
+sottile 1243318
+sopra 265598
+raffaele 1173063
+bigi 1661493
+disposizione 595795
+gratuitamente 502851
+b10 367295
+scatta 2020593
+off 184
+indicazioni 1781783
+trovata 807442
+disperse 41004
+ca 323
+prendendo 2018023
+nooooo 149051
+inizio 322244
+spiegare 1295498
+speciale 220574
+anke 291422
+sensazione 1834459
+orribile 1518833
+adige 1068018
+istante 1381510
+salita 576617
+quarta 354461
+lm 87503
+lati 294226
+durata 630659
+sentono 2138062
+informa 157547
+ceramica 601231
+arrivano 1042593
+bevo 961129
+ultima 93230
+ceres 254444
+7o 412890
+hey 4340
+sn 60736
+efficace 244135
+ff 36416
+01 2118
+definitivamente 431004
+abbastanza 604008
+critica 227686
+anziani 1519981
+informare 1941927
+lol 1403
+ringrazio 705020
+manchi 630078
+ritardo 631341
+63 5205
+ballo 283096
+terrorismo 787273
+mmh 354472
+preferisco 583962
+petto 739990
+spese 699853
+crude 12589
+melissa 52861
+rt 42265
+fede 314177
+andata 617766
+iniziato 1050944
+normalmente 752771
+appunto 1006477
+stop 709
+minori 452413
+maroni 1993909
+asti 490181
+scusate 611530
+geodude 958079
+mega 17530
+sedia 670606
+colpo 560991
+brenta 1914663
+signora 406212
+partire 443211
+immediatamente 943262
+saprei 1966938
+padre 87436
+esseri 1551496
+umani 864812
+1700 20202
+udine 960109
+bonifacio 571750
+junior 6129
+volete 526069
+mancava 1792322
+59 4818
+stomaco 2133617
+complimenti 123509
+copertura 1400150
+aggiornata 1618023
+ric 97521
+mse 504580
+presto 69491
+51 3541
+segnala 1974412
+tragica 2182505
+l'unica 663565
+ato 180597
+cagando 631620
+am 116
+sarei 1050241
+tipi 166186
+erro 241361
+sismo 1510146
+studiare 1106428
+persa 796337
+veneto 357504
+lombardia 788321
+chiama 240976
+capita 20210
+ritorna 950171
+pessima 1221979
+ditemi 2164422
+passer 43924
+jesolo 1145159
+calma 420192
+apparente 1957711
+continuo 108648
+tifosi 430383
+sb 49786
+ste 97191
+scusi 1321485
+signor 438777
+permette 472231
+impresa 550683
+maggio 97869
+ubriaco 1359827
+alcune 481937
+cabina 574342
+enel 1100558
+traffico 722849
+fine 1003
+gioco 140235
+darmi 1935346
+mano 73571
+provinciale 943744
+fanpage 131623
+stanco 1216855
+coglioni 730852
+mali 131434
+vengono 579035
+infarto 812084
+en 2243
+chile 33023
+hubo 643715
+er 9768
+tua 98000
+redazione 1230550
+cagliari 660769
+pensare 629934
+pls 16259
+scritto 117580
+zac 79471
+scrivo 1058188
+vedo 313798
+fotografie 222602
+instagram 26636
+vigili 1868437
+mezzi 1014474
+pronti 781546
+ultimo 111142
+13 384
+gustosa 1847778
+record 918
+cinesi 888931
+chiusi 1224743
+musei 1093448
+3500 19496
+25 391
+frana 1684768
+67 4523
+139 13299
+3160 137511
+campane 878419
+now 117
+mah 40525
+diga 300490
+fu 28078
+cortile 1242241
+voleva 1024477
+legge 290684
+stabilit 1628545
+tg1 829399
+103 6246
+riuscito 993535
+quante 567475
+tragedie 1024986
+luca 173043
+destino 188329
+l'ha 391694
+reso 211466
+eroe 999796
+scende 1389979
+serata 331943
+scappa 1757601
+bomba 164204
+weekend 1250
+interessante 202734
+buongiorno 959784
+giocare 406464
+met 1598
+provoca 739018
+metri 211812
+worldwide 3384
+prende 463004
+avanti 220525
+vs 1735
+figlia 545956
+smart 2915
+scrive 162322
+sindaco 797851
+posada 280784
+lasciare 628750
+suo 125831
+farci 868691
+arco 176172
+sparse 28405
+busta 135058
+5am 49126
+vere 222253
+problemi 293596
+oro 99673
+impressionante 726731
+h5 216127
+america 10957
+parlato 703498
+avermi 1517223
+tolto 1953017
+dieci 616980
+vogliamo 833802
+smettere 1266474
+piacere 331625
+successiva 1006640
+crostata 498749
+nutella 110688
+scena 198971
+alfano 1433123
+sala 104373
+operativa 1739787
+vestito 683668
+sicuro 407800
+torri 548824
+malpensa 996110
+cantare 464775
+attenzione 923126
+21 506
+giornalisti 1513088
+vera 36549
+alti 477973
+aspetto 530940
+to 4
+lass 61668
+eventuali 1036542
+riescono 2166106
+politici 643339
+madre 69948
+retta 1123284
+audio 1971
+infinita 714885
+fiorello 1247452
+belle 32854
+mie 115009
+tassa 965183
+fb 36685
+vacca 812158
+preparare 1382404
+tenda 604813
+arriver 475625
+caldo 293606
+min 3309
+tremendo 255291
+azzz 891246
+mln 72496
+tregua 1412332
+503 19641
+leggendo 1141168
+vien 239637
+carrara 403288
+andr 517329
+fermer 684121
+grandi 185016
+accanto 1119465
+russa 557885
+urgente 550331
+salvare 727089
+angelino 2126690
+pubblico 472709
+maranello 1052092
+paio 689865
+speranza 469554
+roba 368038
+tokyo 49153
+cara 46521
+l'italia 1133427
+chiam 1445313
+collega 488995
+palazzi 543429
+cuffie 1092934
+ufficio 402496
+zuckerberg 303792
+sposato 2096122
+linea 96354
+elettrica 780859
+alimenta 1702450
+cani 277600
+mins 6400
+incredibilmente 1719537
+passi 300094
+storia 133800
+leo 53863
+tavolo 660806
+toscana 327953
+stanza 51184
+36 2121
+tano 522324
+addio 383592
+diverse 4855
+metro 11453
+bassa 595661
+intorno 704380
+dramma 632578
+ue 108264
+viene 149462
+bolzano 1042228
+tot 33101
+peppino 1127144
+camilla 183789
+pensi 567568
+saputo 1404999
+xd 56214
+chiesto 883770
+potente 458238
+striscia 1815907
+dando 177412
+passata 383118
+4e 71159
+compreso 905080
+piangendo 1946770
+otro 104614
+inferiore 939398
+saranno 579097
+previsioni 888845
+duro 153556
+belin 1232430
+tempo 19099
+datto 1976169
+colleghi 1499356
+shock 5477
+disco 16799
+mattino 764798
+livorno 814177
+distrutto 1871079
+surreale 2046703
+regge 1129952
+l'uomo 628321
+gallo 95407
+mare 23198
+rompe 384354
+bottiglie 1680557
+3g 25664
+luna 66448
+clima 289823
+feroce 1949766
+completamente 223915
+goro 478374
+aumenta 718090
+moroso 774367
+pietro 380228
+terme 188514
+sorti 278078
+pdl 389516
+preparato 1957195
+miete 1977550
+forma 53588
+liquida 1452349
+bs 33983
+precedenti 664899
+riassunto 1143101
+piango 1496150
+soprattutto 381904
+pesaro 1740858
+dormir 222832
+attende 1067879
+divertente 300844
+amo 45713
+fatta 366656
+muri 526416
+pubblica 711380
+renzi 2016061
+pagliacci 1449017
+prendono 1798121
+boia 1542348
+favore 251374
+potenza 460953
+cercare 665620
+agitate 89658
+precisi 1863026
+pronto 60894
+fuga 302224
+131 12090
+129 11916
+127 7840
+35 1701
+125 4894
+resta 279110
+specifico 1098783
+800 4747
+statale 1494083
+389 30444
+galleria 143892
+267 18572
+270 11731
+300 2185
+950 22214
+ponticello 1311613
+050 58598
+38 2842
+250 3372
+disp 114136
+libreria 417025
+follow 1068
+villa 10462
+bonin 910449
+avuto 490893
+giornate 1091348
+ascolta 664974
+massimo 250148
+minkia 874711
+figa 443710
+orco 1614257
+zone 2911
+vicine 1598970
+cesena 1633416
+l'altro 723136
+test 804
+andato 638271
+principali 614239
+provincie 764085
+rischio 664267
+700 6406
+nazionale 300066
+simona 375595
+chiunque 957289
+attrezzature 1282725
+0789 425292
+23786 1893779
+omg 11182
+immensa 1891278
+moglie 391911
+esco 505353
+strana 464337
+d'italia 811240
+vive 100491
+puglia 487089
+tantissimo 855883
+aggiornati 1989303
+another 252
+quake 26945
+inevitabile 2051473
+contare 1935340
+arrivare 636598
+200 1533
+risorse 620235
+uff 231409
+sal 75683
+timore 1298304
+mese 249023
+caz 219377
+smurfs 160217
+maggy 576810
+quanta 153410
+ultime 287184
+bollettino 1929350
+caro 131092
+gatti 361881
+sognare 824736
+dico 286434
+staff 903
+enorme 252039
+2009 200
+mandi 170104
+tante 199603
+colpisce 1608037
+attacco 614388
+vostro 182922
+pazzo 450717
+intento 425318
+decidi 1203596
+wtf 15723
+sinceramente 442254
+emozioni 586434
+tipo 90966
+terzo 474164
+nono 130457
+taverna 191233
+cwc 867884
+scuola 226329
+fragile 14733
+l'idea 722668
+daaaa 706981
+potere 476351
+vodka 20304
+sfigato 1247929
+0532 368641
+segnalare 2185548
+bossi 1375768
+continue 934
+piccole 596989
+casale 770661
+ragazzo 396695
+crisi 320769
+internet 894
+ra 35705
+vaffanculo 662290
+costruire 770791
+uk 4645
+tempesta 782566
+secolo 493310
+allarme 1852035
+rosso 189400
+piacerebbe 943400
+incide 1138736
+casi 123711
+xo 32092
+torino 173338
+giacca 1188284
+tengo 88197
+sms 20834
+shit 2346
+op 11579
+sulle 244750
+24h 68717
+vedi 275617
+spettacolo 313239
+gravit 2052807
+2737 146573
+documentare 1935979
+comincia 1019966
+messa 308849
+nazionali 1427770
+lecco 1978186
+status 1843
+catastrofe 994273
+intero 627645
+singola 1142063
+cris 137790
+liebing 790336
+rotta 979978
+cornice 86509
+laura 42044
+stimo 828413
+post 290
+letteralmente 1887884
+350 6014
+unit 1422
+arrivo 322853
+migliore 226339
+amica 365926
+cifre 1328364
+lui 71318
+care 398
+carta 144613
+2013 286
+senso 212165
+donne 91089
+bestia 322210
+404 11885
+cagare 590847
+aspetti 1135239
+positive 1597
+borse 195175
+aziende 595145
+agricole 332664
+guerra 87760
+bona 36890
+fari 478625
+days 257
+significa 207772
+ballano 1573133
+mille 116503
+messo 297062
+qu 65353
+raccontare 2184030
+l'avete 1786448
+camion 310486
+mosca 420016
+4a 57624
+umbria 350942
+sec 6627
+troppa 1618657
+cominciare 1425237
+405 18784
+live 388
+primavera 143546
+uguale 745693
+franco 108747
+calcetto 1255848
+sicuramente 455093
+poche 288974
+infatti 399625
+possano 1562122
+regole 430224
+dicendo 840961
+troll 17538
+pena 98686
+assistente 1192387
+capo 70245
+agenti 1254970
+riservata 1317910
+finiti 1475521
+vf 129133
+riprende 1895953
+terreno 390909
+interessi 1522329
+morendo 1433161
+dose 5375
+dii 485000
+torni 1478705
+caga 484289
+cerco 376263
+violento 617270
+povera 550454
+nostro 203517
+scarica 381994
+hop 7660
+reclama 489749
+risposte 453221
+serio 179815
+riccione 1080861
+balsamo 753761
+cervelli 1211156
+crede 524673
+riviera 99489
+sapevo 904814
+americano 161076
+elementare 1451696
+re 3418
+perdere 487983
+tu 14385
+servir 384769
+pratiche 1701509
+signori 847199
+dagli 445202
+alberi 1048950
+cinq 290109
+uova 1092982
+zabaione 1881197
+grossa 655777
+notturno 1230745
+abb 241518
+10sec 256590
+3500km 1968931
+popolo 450825
+insieme 269376
+veneziano 1025382
+uomini 318158
+mette 358135
+barbara 52326
+finir 370455
+500 1726
+chimica 708105
+violenta 677078
+riposo 1251518
+rubare 1779270
+madonna 57390
+soffitto 1676485
+bianco 178132
+bisogno 382182
+tein 380718
+d'acqua 854466
+please 430
+comunicato 1276213
+st 8732
+evidentemente 1024825
+403 20760
+esordio 2052143
+90 1606
+cke 381991
+marino 180407
+filippo 657247
+periodo 402857
+negativo 600676
+dir 25778
+zia 259495
+certe 759139
+chiedere 832665
+attivo 803602
+737 33204
+altrove 1631849
+azzzz 1883861
+palla 527055
+possono 252462
+attendere 2119897
+allah 54905
+tarik 281330
+r 3228
+tedeschi 893855
+bimba 755406
+briciole 1917006
+assistenza 563572
+malati 1642913
+disabili 661430
+arrivati 1291793
+508 20416
+pray 5190
+cortesia 589303
+toi 66333
+vibra 397809
+vetro 507000
+ele 70187
+trovate 447758
+penso 311518
+preso 230048
+marito 726339
+liguria 496304
+pieno 407684
+internazionale 364276
+visita 123696
+nonna 328463
+vederti 1891970
+do 47
+opere 308472
+ferri 666582
+troppe 1436966
+l'altra 1019733
+ql 147547
+m 1538
+piange 1418759
+drammatico 1747151
+dormi 782833
+abitare 1726195
+ski 6559
+diverso 667257
+nausea 17842
+crescente 1901530
+ahi 89932
+uuuh 500514
+ene 139666
+netta 1002161
+offline 10872
+pochino 1812217
+isolate 24069
+imperia 608482
+cercando 566591
+ascoltando 288117
+slipknot 89032
+cacca 1625971
+luci 281132
+nuovamente 1631925
+gr1 1287857
+aprire 669194
+regia 185379
+prezzo 157873
+wn 91696
+immigrati 1186637
+imposto 1492536
+preda 1151080
+pensate 750039
+oned 455945
+ahahah 104160
+statue 12227
+cadute 2191707
+gambe 696691
+adria 534113
+ro 35251
+entit 1001890
+bn 23151
+mb 16460
+diamine 158559
+doveva 1156990
+all 43
+centri 695719
+raccolta 428743
+quei 484086
+palermo 216967
+oso 70015
+segnali 2096819
+crepes 61660
+ironia 690871
+porte 122341
+genere 267717
+fermi 398935
+treno 476651
+cancellate 2193317
+cronologia 1921584
+browser 3213
+felpa 2123005
+chiusura 793222
+3o 205033
+alleluia 266580
+messina 278015
+conte 158654
+sapeva 1753995
+sosta 1391140
+probabile 1497266
+2700 38056
+papa 39282
+prega 960606
+denuncia 548382
+quartieri 2065897
+1350 39079
+cala 207274
+aftershock 136801
+friuli 1046881
+dd 30847
+504 20831
+today 292
+avevamo 2014656
+possibili 617806
+polemica 1291077
+tocca 739952
+dann 117734
+notevole 1468978
+ke 22801
+suono 512290
+accompagna 2176105
+city 486
+nnt 380238
+qst 339902
+anno 90646
+successe 1225851
+lega 333229
+hopes 4417
+mick 90299
+simile 97784
+sp 16975
+let 381
+'s 20
+twist 7597
+drama 4922
+queen 7613
+grido 1424033
+vedono 1249040
+soldi 300194
+partiti 1229254
+tornato 814682
+not 35
+bad 484
+varese 882229
+net 2128
+riguarda 740572
+balli 760935
+carino 350075
+lenta 426396
+manca 430063
+poveri 764742
+sensibile 1233792
+completare 1599387
+na 7407
+cn 37465
+ciaooo 1425236
+amadeus 323227
+risate 569648
+ipotesi 2132776
+rovina 1769458
+69 4328
+simpatia 908694
+danna 414390
+porto 131585
+tolle 206213
+415 18353
+finestra 404850
+potete 421263
+mirko 448210
+concordo 397682
+prese 289158
+diversa 817864
+domanda 411371
+condizioni 886924
+sviluppo 437202
+tale 6811
+pale 10727
+lavanderia 1295955
+gratuito 130713
+41 3379
+perle 240770
+struttura 423372
+madagascar 127811
+31 928
+modulo 106243
+offrono 1826479
+top 306
+dichiarato 2060331
+mc 33961
+carro 154620
+saluta 964199
+460 20045
+animale 234511
+acqua 185842
+ovunque 880633
+terreni 1862014
+giustizia 841987
+pia 141715
+illusione 1387272
+soccorso 1307759
+incidenti 707918
+stradali 1328155
+amm 290764
+jan 24435
+timido 2077589
+raggio 1173258
+ss 14998
+66 4034
+londra 711474
+colpito 1595660
+probabilmente 961032
+frane 1423088
+salis 742692
+tantissimi 1801287
+germania 407934
+riferisce 1945017
+tratto 269064
+immenso 975599
+26 645
+waze 545811
+situazioni 2160721
+farmacie 967054
+aperti 1329682
+ecc 107968
+paris 17635
+usare 382361
+app 2747
+ricevere 1121985
+parata 1133436
+maledetta 1928247
+veri 114229
+bagna 864703
+cauda 265087
+immagino 1927022
+coda 87565
+sugo 567994
+dexter 85607
+six 1111
+feet 1205
+lula 305124
+comunicazioni 2149851
+procedura 575752
+percentuale 1844602
+sassari 1696800
+dovrebbe 563787
+coscienza 1382959
+gestire 702189
+dettaglio 493250
+pelosi 159569
+nicola 175809
+cartina 1456738
+rossa 286669
+privati 583264
+enti 373729
+pubblici 1358398
+v 3585
+choc 69029
+staystrong 1448711
+dover 89729
+aspettare 1259518
+mesi 126296
+stupenda 236444
+incubo 1428076
+evento 122673
+sugli 552579
+riunione 1883962
+velocemente 1220964
+fredda 1199644
+contatti 695327
+manutenzione 1501563
+infinito 431666
+smeralda 2068651
+interessanti 773794
+nigeria 67677
+idioti 686781
+materiali 829712
+capi 307643
+credere 562525
+medio 116174
+mostrato 1655899
+doloroso 1364376
+trova 241737
+lato 257321
+positivo 371281
+girare 890382
+casino 3907
+nemi 788134
+shi 62430
+baja 82841
+cervo 774278
+damn 3866
+alberghi 459029
+possa 336589
+ministro 547044
+lavora 957424
+gratuita 219878
+corrente 352877
+precari 1612408
+innocenti 1201049
+bambina 440034
+venti 221298
+donizetti 2180019
+macchine 534097
+contributo 667209
+aiuta 1178043
+fondamentale 745321
+interni 906355
+vespa 143581
+colombe 959931
+soru 873846
+lorenzo 181063
+help 192
+us 140
+cleveland 40708
+ehi 708459
+sos 86758
+politica 196058
+naufragio 2109056
+avellino 1612804
+piangere 523184
+lia 109835
+auguro 825318
+h13 992179
+giovanni 135569
+ii 7854
+corsi 342681
+abusive 16161
+ot 23126
+loc 48810
+contra 50155
+murata 1028433
+, 0
+damage 1775
+ottenere 761477
+verificare 1222549
+vengo 442976
+conoscenza 884336
+ns 36670
+nato 114831
+modo 99410
+eventi 263427
+cancellare 933900
+minime 622761
+capital 2168
+consumo 373280
+province 7599
+succedere 2046702
+assurdo 1259736
+spezza 967069
+pasti 283457
+offrire 1583603
+alloggio 1444674
+lista 109813
+creato 456587
+k 5364
+hastag 810108
+saperlo 1909673
+serie 45753
+reti 405242
+calcio 170397
+squadre 1218058
+antimafia 1442115
+silvio 305168
+hotel 695
+mercure 348348
+barriere 558679
+pressi 993777
+mannu 1588604
+l'acqua 833403
+caccia 462487
+quota 24663
+871 51091
+vie 32451
+nomi 290110
+gira 243409
+voce 86461
+riesci 1638000
+uniti 824175
+chiuso 651379
+avrebbe 1048405
+finestre 821671
+line 382
+d'un 48405
+buio 661332
+puntata 235964
+vid 7638
+dedicata 480955
+fonti 846101
+xfactor 244660
+isole 761688
+ridotto 1315529
+agire 2183081
+voler 636361
+mancanza 1269162
+306 19330
+372 28805
+tgr 897284
+ulteriori 1023064
+sicura 1132325
+moduli 167711
+dario 286362
+stupi 744202
+cc 16112
+diluvio 1860259
+240 7750
+mm 2191
+62 4912
+prevenire 2180132
+76 4841
+lasci 1921057
+imprese 716840
+rv 28279
+cristian 222129
+stronzo 864996
+tuo 107257
+account 907
+segni 1460251
+scene 1812
+f35 618981
+combattere 1492512
+vostra 390668
+perdita 772176
+vite 178581
+umane 999034
+lara 90495
+comi 349699
+furono 1812709
+8 236
+cittadino 1158730
+patrizia 1117974
+corona 56692
+messaggi 481557
+marras 654861
+anto 402211
+segnalo 2150012
+confusione 1846124
+solu 241851
+antico 429104
+elemento 437584
+dimarzio 479594
+procura 484763
+costo 192656
+1944 12677
+globalist 133450
+bravi 304329
+orgoglio 1679557
+ideale 302159
+lotta 53361
+85 3838
+kap 267642
+maggiori 529946
+cono 615376
+chiss 2078842
+braccio 780925
+neri 427315
+illuminazione 1392899
+rimuovere 1456131
+controllo 383508
+priorit 360150
+cretini 2002315
+padrone 503376
+clinica 390471
+veterinaria 1066221
+continuate 1257216
+orrore 1997111
+faremo 2119948
+splendide 510971
+giunta 1501166
+comunale 860131
+organizzare 1656936
+interventi 1059654
+attivare 1325962
+marzo 65317
+1995 2854
+catania 370993
+pianto 872998
+considerazione 1855910
+anzi 592756
+dietro 460792
+nobile 392762
+scandalo 971834
+mettete 1779750
+afferma 1838516
+pala 93247
+esclusiva 742629
+tace 881591
+cause 860
+farla 1316803
+coloro 922070
+potranno 1663612
+proprie 635678
+mario 25928
+tozzi 1390876
+dolce 80155
+salvate 2022633
+fax 7300
+bisogna 598972
+relevant 2636
+compagno 1391939
+mineo 1804321
+coi 238502
+canali 537837
+im 1857
+cultura 130097
+enzo 148926
+boschi 1884387
+manda 143948
+network 966
+blog 468
+collo 658192
+aprile 119330
+romania 78728
+32 1770
+l'avis 530802
+vestiti 692520
+latte 39431
+polvere 951245
+243 18606
+amico 230458
+vivendo 992763
+2o 179688
+hahn 239673
+mandato 344269
+nova 36229
+volare 446966
+seguendo 1567776
+friendfeed 238772
+social 748
+web 497
+penne 89140
+rimane 729166
+repubblica 870871
+lazio 349615
+americani 690253
+chilometri 732876
+linee 524565
+usati 713598
+eveline 1067345
+otto 135074
+follower 17417
+benvenuti 719198
+parola 278800
+migliori 218277
+creando 988545
+mort 95101
+amigo 63201
+imaginario 1373760
+bacio 343695
+server 1545
+propri 465180
+cari 147336
+pomeriggio 755950
+romani 334454
+urbino 1372914
+new 94
+e2 83935
+sezioni 1374412
+index 3398
+take 176
+web2 54206
+vince 77223
+italiane 364541
+twit 75787
+riguardo 608522
+todos 57650
+que 6456
+conozco 559528
+ver 17887
+'97 61648
+reali 132892
+ottima 364035
+actualidad 548762
+33967 815123
+noticia 231635
+fullo 1745044
+dati 159718
+org 6347
+php 5969
+page 313
+current 584
+sub 6829
+detail 2411
+id 3816
+versione 130085
+sana 70294
+search 450
+q 11006
+ngi 1006908
+forum 1816
+view 477
+single 622
+1073 80697
+179 16817
+1500 7554
+anna 36235
+blogosfere 1071383
+giappone 1533979
+kobe 48630
+magn 580362
+croce 364275
+nuez 1509355
+rico 53119
+gruppo 195802
+group 397
+gid 89022
+home 186
+lanciare 1075760
+giorgio 193337
+pronta 386168
+squadra 413587
+operatori 1325464
+also 89
+gem 11364
+mensa 215446
+vigore 1184023
+butta 295423
+pienamente 987027
+vivi 223089
+2000 1027
+giovane 452411
+lascia 611443
+54467 1160240
+54435 2102662
+48 2507
+54601 410760
+54618 2090453
+inserito 351228
+destinazione 1361833
+valencia 105508
+lancio 569366
+scopre 1505569
+md 27811
+iar 246723
+difficili 2083054
+normali 1368310
+alita 1127446
+tenshi 522443
+viel 132024
+spass 437607
+mit 17533
+commentare 631205
+veda 257760
+cazzate 768000
+brendan 148843
+261 19628
+commovente 692056
+pastore 647271
+padroni 1908506
+citate 1281006
+alba 63605
+interi 711752
+1915 16834
+storie 184548
+racconto 709368
+salvato 1383891
+partecipa 1486181
+categories 3860
+puo 391634
+partecipare 918547
+pubblicare 2048028
+vostre 590649
+ow 43817
+ly 36183
+generale 216974
+flickr 24393
+youtube 6048
+etc 2605
+hashtag 48148
+nl 38615
+retweet 63180
+sharon 59067
+blogspot 45068
+caspita 2117021
+wiki 9836
+condividere 1036279
+pbwiki 1095830
+blackwell 236757
+partenza 547139
+cibo 484385
+central 2132
+at 25
+near 582
+and 3
+some 85
+dead 1632
+visione 416836
+film 667
+tana 330725
+rosa 60008
+prepara 332937
+atti 474854
+rdc 413440
+ringrazia 1528942
+sollen 469881
+sie 60800
+es 7269
+richtig 117151
+lassen 211769
+stronzate 1746719
+evviva 1726230
+fisso 1144959
+onna 264128
+immagine 192337
+bit 456
+stronzi 1901105
+avviso 1579038
+6801 147049
+slide 5303
+novit 1288848
+ospedale 840265
+totalmente 226344
+testimoni 1317653
+esistono 879486
+liked 2067
+dallo 459797
+scorso 612748
+oo 44946
+autostrada 414560
+incontrato 1581764
+colonne 373269
+180 6133
+34 2568
+definito 1605651
+idiota 186492
+voti 271575
+postato 574886
+centrale 221742
+54 4088
+stretta 1076223
+pirateria 912898
+curiosit 2190177
+articolo 213434
+cnr 189093
+universit 484089
+ragione 286021
+l'intervista 1533589
+tecnico 301661
+diretto 426663
+partendo 1845138
+direzione 991367
+postat 556566
+vorrebbe 1524287
+servire 1404690
+semplice 227274
+marco 71309
+travaglio 1534059
+questione 416833
+lin 60160
+inviare 682391
+27 675
+invita 355872
+a24 1076034
+controlli 1239003
+telecamere 2052910
+crona 1283949
+meltemi 1253902
+udu 728774
+allo 130585
+organizzazione 1348600
+68201 1897219
+stream 3752
+common 913
+697 48904
+appello 990264
+donate 8931
+qualunque 780510
+rh 108554
+qualsiasi 378245
+lancia 285850
+lontani 2129734
+siena 223282
+apre 493745
+mero 132013
+mortos 1027637
+por 11365
+sobe 346460
+deepa 459859
+antonella 342648
+cinelli 879108
+venezuela 107911
+riport 1940139
+belli 153870
+gianni 221686
+morandi 874799
+apena 991750
+plurk 264878
+messaggio 181795
+fini 174753
+dl 44747
+european 20214
+mediterranean 69178
+seismological 366754
+centre 2732
+1980 5152
+turba 1084730
+japan 16055
+iris 33710
+edu 43450
+morello 346241
+tranquille 387059
+peek 14254
+bbc 41614
+44 3087
+557 40022
+48722 1056312
+leana 1371143
+hosea 775188
+prossimo 409437
+sicilia 451261
+calabria 310284
+garg 340985
+assolutamente 431542
+235 14825
+fallimento 1901543
+prepa 313622
+televisivo 1054745
+spazio 343911
+sospeso 1436004
+matrix 9251
+andrea 64870
+art 716
+blogger 7681
+medici 362873
+conosce 970388
+is 10
+gd 44943
+xdd 387839
+portale 407925
+rpp 481753
+proposito 474891
+pubblicato 420094
+sql 22073
+alpha 12111
+code 799
+warning 4438
+google 5151
+sorella 573470
+comunica 1324083
+pavimento 1408866
+gaming 4384
+postcount 368356
+356 25849
+sigaretta 1989452
+hulk 54025
+statistiche 997230
+migliorare 980832
+submitted 3450
+poter 360347
+business 220
+digitale 98985
+analogica 1723621
+mente 165392
+promuovere 1600456
+bont 926228
+decreto 675832
+supporto 232008
+conforto 1253447
+campi 437454
+base 1262
+roio 1782344
+molise 1289818
+lunedi 1938332
+sost 1832356
+richieste 738729
+abiti 823126
+medicine 3324
+generi 727486
+macheist 2067896
+bundle 11413
+lamenta 2098875
+vah 516581
+sentimenti 1460930
+l'arrivo 2126041
+lasciato 986606
+wow 4180
+cum 3868
+altfel 1424926
+putea 540107
+afla 1070522
+concorrente 1437250
+serp 230034
+telecamera 1132980
+nascosta 1678501
+rischi 1384182
+venne 1132186
+vergognati 1931901
+crea 146439
+altissimo 545561
+hamster 36368
+nemesis 43764
+sai 71049
+ganbatte 827686
+erfolg 1568664
+ehm 161954
+acceso 330733
+lavor 1742941
+rendi 1324655
+says 328
+aquila 419086
+diventa 495685
+publish 6361
+funzionano 2032405
+prost 338806
+assoluto 467603
+penale 1307502
+pd 56625
+possibilit 740512
+compara 507633
+nocturno 692945
+immediato 554308
+europee 1196216
+dovresti 1461581
+francia 415638
+5000 9373
+domestici 1684227
+279 20492
+287 20653
+291 21465
+cri 155916
+frazioni 1494752
+precise 7456
+map 1512
+size 617
+noresize 2126828
+ricordo 332925
+siate 1742416
+brivido 1269615
+corre 224400
+click 870
+globalize 268188
+guidi 1884431
+extracted 15778
+into 101
+proper 2288
+helpers 34329
+salve 81052
+augurio 1720516
+regio 235721
+partecipanti 1407954
+vivono 2072676
+rete 178905
+romano 125722
+tenuto 825996
+57 4787
+trovo 479217
+53 4492
+cnt 68020
+rm 30356
+data 335
+event 613
+twitpic 267558
+diigo 477335
+snipurl 2023288
+aggiorna 1275978
+mig 82839
+dispensa 1015692
+vatic 1305511
+eheh 268877
+nick 16533
+attiva 1066787
+azione 481683
+wordpress 13927
+tenuta 971246
+torneo 273325
+regioni 1664610
+8330 97413
+approva 1073148
+napolitano 480719
+millennio 1467967
+minnesota 29431
+lynx 68306
+minneapolis 54604
+presale 62330
+most 122
+viewed 3939
+filmato 472795
+113 7324
+soggetto 823858
+doppelte 1515701
+gratulation 1180720
+commenti 127570
+dibattito 1417231
+esatto 1065186
+cai 105505
+em 5733
+singoli 728533
+interessati 1575313
+ottawa 59774
+gf 31269
+sbagliato 809737
+ospiti 554388
+risi 761225
+libero 137084
+sc 19050
+errata 89715
+corrige 796909
+angolo 680599
+pittsburg 215884
+tribunale 1321239
+conflitto 1494004
+lan 38998
+shore 8845
+acque 769239
+multimedia 9735
+cas 68956
+college 1287
+motivi 1005844
+interessato 860142
+1000 3082
+intervista 217463
+watch 712
+soltanto 675133
+erano 400096
+avranno 2170669
+miglior 384417
+dich 91489
+gut 12867
+chiude 1109139
+immerso 2088017
+anticipo 531082
+controlla 1519180
+traccia 697321
+uni 30052
+grafico 401784
+hbk 198002
+taker 52770
+crazy 2330
+sasso 817616
+stava 656843
+colonna 339214
+mobile 1322
+summit 9988
+pin 6124
+batte 333668
+gr 24665
+mettono 1586302
+permanente 187316
+m12 113938
+fm 32696
+97 4981
+piero 334259
+pro 3983
+club 1586
+sportivi 1267650
+prevede 1500489
+tumblr 23677
+cinese 396948
+fece 1050359
+seguire 525724
+addictive 16264
+pakistan 33963
+scontri 1293794
+swat 66528
+dodici 1969347
+tasca 721851
+ist 19595
+ja 24291
+alles 76793
+falscher 1374647
+alarm 5830
+primera 99914
+imagen 122280
+asp 27726
+newsid 693242
+titoli 567375
+setting 1692
+up 61
+nintendo 27769
+ds 22343
+orchestra 13800
+tanz 326284
+den 9597
+miyamoto 629069
+und 10254
+poca 283123
+fortunati 2073242
+amaro 414104
+internacional 176069
+confirma 492663
+viigo 1940177
+gna 151276
+tr 29536
+piemonte 670989
+cucine 1461904
+tir 195499
+campania 470274
+verde 68964
+porter 40926
+buone 800925
+huh 10641
+visite 79569
+trend 4374
+combinato 1995119
+bruno 72492
+concorrenti 2135712
+39 3132
+ping 20373
+228 16164
+viva 51780
+ign 103194
+6587 287842
+jpeg 29678
+nbsp 47348
+beni 238896
+from 29
+wu 68723
+ming 85008
+segreto 418391
+reading 632
+similare 561518
+collina 680248
+partecipate 669711
+el 5959
+magazine 2601
+3a 48959
+9222 259552
+9236 342172
+riccardo 558994
+motorino 1141175
+ricordare 835990
+medaglia 2066512
+panorama 30565
+prc 178498
+085 77384
+italian 16373
+calore 700764
+borgo 491607
+conclu 655338
+spera 914371
+mirac 1930062
+mapp 502212
+bi 18492
+pieni 1075041
+poteri 2178565
+sull 177158
+consi 351931
+ernesto 298571
+sferra 1940151
+terminate 16808
+nazione 1398349
+modifica 167256
+portata 985979
+nasca 1422487
+critiche 1291287
+cin 117043
+elicottero 1472379
+45 1926
+dif 92398
+grida 2185435
+mom 2181
+card 684
+gelmini 2194176
+whoa 31880
+can 41
+iorio 1586773
+strutture 1176983
+mura 269051
+caracalla 1800651
+nro 197186
+chega 454732
+death 959
+toll 8776
+raises 8353
+naturalmente 653780
+controllare 1101182
+340 16859
+feedburner 150287
+rendo 1510138
+disponibile 103968
+agriturismo 184055
+appartamenti 388282
+serre 594079
+get 86
+outta 20664
+my 44
+zip 4308
+om 23415
+vista 13203
+l'ora 628787
+tuoi 212668
+twits 133053
+beautiful 627
+area 311
+of 5
+scontro 1182662
+moto 39952
+comitato 1695182
+elettorale 1145143
+galli 352976
+collegato 1674309
+misericordia 518096
+leonardo 125112
+alerta 588434
+magnitud 1633962
+center 1004
+wired 12374
+archivio 169523
+aspx 32639
+semina 1148449
+vasta 831481
+comp 15935
+amore 91584
+dalai 248210
+lama 75408
+pensieri 625935
+sapore 1178860
+battesimo 1761100
+soft 2056
+air 737
+passeggiata 790486
+vari 156480
+site 249
+273 20515
+283 21045
+275 14409
+278 20553
+good 112
+morning 884
+everyone 570
+78f 1354254
+blue 1394
+fox 13504
+incontrare 1544812
+realmente 157026
+alessandro 306374
+potresti 827115
+rispondere 1185743
+buuuu 1682614
+basilica 81888
+california 9274
+francesco 197427
+soso 276919
+lost 855
+sesto 548411
+llega 217800
+2006 460
+gallerie 221032
+diario 196849
+publica 221316
+portal 8601
+parlamento 1122470
+senato 1985048
+merito 656212
+jesi 779075
+hot 694
+gossip 15428
+alternative 2158
+music 336
+suggestiva 2090301
+1921 18148
+1805 39444
+58 4660
+occasione 279195
+245 15828
+33 2395
+norme 485328
+tecnologia 209840
+giallo 205227
+chiara 347864
+societa 1435388
+costume 6467
+culturale 713205
+indonesia 41853
+trenta 495128
+identi 379158
+gemelli 712683
+arresto 963236
+cardiaco 1976815
+73 4873
+nuo 414335
+fiat 41844
+filiale 562528
+vendita 152420
+vendi 983909
+1126 76968
+totale 201755
+mill 10104
+sport 3411
+universita 1239506
+russia 35617
+esteri 1924049
+greco 250854
+estratto 522900
+estratti 2083070
+197 18529
+codici 891805
+segnalazione 1741906
+avvocato 1414478
+vito 209888
+folle 325296
+cristiano 148259
+ulti 225021
+valutazione 802051
+asca 1956468
+apr 31068
+lecce 624742
+clemente 283731
+289 19432
+recupero 754259
+xx 14236
+settembre 130163
+290 16210
+forze 968635
+india 9240
+fuochi 1079168
+d'artificio 1196029
+olanda 2074688
+rotterdam 193898
+verita 878949
+carabinieri 594282
+colpi 1097949
+uil 499386
+mugello 1065597
+cit 62267
+interviene 1563849
+commissione 1135906
+convegno 967176
+330 12602
+avut 532716
+damit 165960
+campagna 356637
+mezzanotte 1338516
+an 39
+artistico 770316
+polso 2193446
+livello 288611
+virgilio 790072
+go 162
+addthis 438906
+milan 73860
+ruf 368521
+guten 301249
+appetit 196301
+artificio 1999006
+1900 9615
+christina 49538
+croll 1399843
+friends 476
+condolences 29198
+victims 4564
+pman 1350209
+gaita 535961
+georgie 242019
+open 436
+spotify 126139
+track 1142
+elisabetta 909460
+troverai 1512008
+09 2240
+ascoltato 1069180
+daniele 321224
+manuel 86657
+uns 67947
+chatten 462842
+abend 395985
+lg 25578
+fiorella 1304474
+ch 14258
+aha 51109
+vanessa 52315
+inc 11194
+giuliano 795558
+tilt 16401
+sociale 156322
+fondamenta 2117064
+morali 2045979
+effettuare 986342
+attr 68539
+mafalda 1341956
+dv 65338
+faranno 1940680
+lila 177417
+hi 6652
+galera 181152
+commosso 1703513
+recuperate 70151
+davide 377239
+diceva 1236040
+rassegna 1075626
+abr 42296
+utilizzando 772829
+sabbia 836632
+gio 159608
+egrave 1245680
+entra 181280
+inter 27534
+ex 6242
+giocatore 710514
+fiorentina 530226
+yahoo 12283
+vts 426111
+presa 272248
+mata 96208
+extra 1214
+globo 286546
+mundo 42992
+para 9144
+75k 120182
+spa 6358
+223 16576
+252 16543
+mir 56347
+cresta 676228
+run 459
+oroscopo 1169964
+cms 37427
+pk 35940
+caserta 1026696
+omicidio 1401356
+alex 27610
+renzo 578396
+georgia 20377
+massimiliano 1283494
+musci 521752
+fiumicino 995339
+monta 272416
+fat 1888
+press 1599
+noti 404357
+fumo 526274
+rugby 15013
+quotidiana 1101828
+nazi 44054
+impianti 911502
+montagna 478710
+pol 73186
+studentessa 1696815
+gazzetta 1251491
+b2 72181
+blitz 35448
+sue 13567
+nautico 1251061
+neti 169625
+preliminar 994532
+sedi 952942
+sant 164482
+angelo 109158
+zero 4831
+mobilit 2159897
+you 18
+tube 4033
+prato 579058
+raso 1111911
+50000 54534
+arresti 1359485
+onore 527054
+chiami 1389351
+informati 294511
+80000 119385
+massacro 1664592
+130 6381
+dormitorio 1125746
+uccidere 917166
+ontem 598850
+conheci 2021815
+eddie 53478
+lili 190514
+chin 14043
+inferno 61952
+zapping 131412
+appare 658903
+lume 270604
+gocce 1708651
+cristallo 849656
+collezione 353271
+collane 2051407
+attesa 605428
+erre 482011
+10765 619982
+campo 111796
+compagnia 573830
+ricorda 502872
+sirene 593216
+architetto 1077378
+avr 32086
+lenti 1096298
+contatto 519457
+hello 8088
+boston 19704
+aso 158076
+album 1191
+litfiba 1811116
+urlo 1541627
+brividi 519843
+freddi 1138393
+vede 288725
+dossier 62549
+31415 861774
+l'ombra 2188664
+realizzato 475426
+200km 172483
+elenco 254362
+soll 161358
+ich 25506
+mich 67498
+morgen 162060
+um 9629
+die 2086
+pizza 5964
+z 9279
+salami 62990
+prosciutto 66581
+oder 46590
+hack 10509
+ostia 222838
+senigallia 1805375
+curiosi 1789043
+operazioni 1572727
+ostacoli 2117123
+96 4704
+posa 482585
+mandate 12580
+medico 208721
+raggiunto 1995872
+spacca 528727
+prive 231617
+calda 646234
+effetto 461665
+aumentando 1780188
+abitanti 1832732
+a14 688099
+misa 246627
+mezzogiorno 1930647
+piana 804189
+serra 212136
+treni 949374
+black 536
+out 56
+importanza 1554431
+andava 1198441
+ete 190406
+pistola 441918
+coppa 344574
+ultr 721149
+sereno 757129
+richiedere 1572282
+naturale 216134
+enormi 1952913
+dappertutto 1919865
+stadio 462111
+mancano 1131485
+dall 128827
+divertimento 370453
+olimpico 944457
+dovere 1763689
+diventano 1756517
+mortali 1608082
+sicuri 1088123
+potrete 1088275
+comprare 233773
+stivali 762863
+ricci 175759
+foglia 1611908
+devastate 82722
+ascoli 1907235
+privo 800802
+considerato 1416031
+luoghi 637088
+scatti 1135606
+pesi 1225629
+ondata 2015403
+inviato 258089
+categorie 150487
+rifiuti 878331
+vasari 1429073
+gazebo 44149
+montagne 216783
+oggetti 760692
+5510 118537
+2670 131757
+481 35421
+670 31600
+superba 256586
+negozi 496656
+tunnel 9683
+insegna 928978
+waoh 1257057
+prevista 1201839
+citare 2143873
+fasi 934952
+getta 327336
+vivere 336363
+torrente 714258
+altezza 294230
+nino 133599
+franchi 542648
+ronco 501869
+gas 1498
+andati 1498977
+course 366
+prosegue 1719572
+491 36594
+abita 979229
+salga 468742
+delega 1439847
+onda 130372
+galata 1491848
+cantina 132965
+591 42450
+msg 21141
+vuol 639033
+191 17943
+mess 4887
+391 30894
+doria 655855
+parchi 1558680
+picnic 11590
+liberi 580607
+sistemi 306104
+blackout 30450
+441 29273
+circolazione 1993199
+2011 163
+gentile 92146
+sentir 283873
+241 17997
+mercato 260333
+orientale 365178
+051 67824
+uscita 298639
+a12 335151
+entrambe 1152958
+scenario 6771
+esplode 1762667
+sampdoria 1120943
+1970 6074
+ripreso 1461958
+foce 821445
+poste 136819
+1933 14875
+cambiano 1621493
+diffuse 32622
+desideri 1069519
+cambi 1472698
+mestiere 1448684
+cambiato 858041
+servito 2033859
+mostra 189120
+fotografica 641020
+federico 355481
+nodo 778020
+freccia 1842345
+binari 1799067
+frazione 841228
+f2 47750
+luglio 146279
+esce 544344
+9764 365249
+29 749
+rouge 43842
+doc 11172
+vittoria 435373
+lizza 1930640
+scadenza 1814854
+politiche 1058052
+costante 1211160
+splendido 307984
+cercate 1453349
+incredibili 989191
+ahahahah 175817
+cardinale 992320
+negozio 438761
+chiedi 1853726
+attivit 1782745
+sbloccare 2037924
+carte 28633
+cipo 1467643
+maac 1799657
+a7 209779
+antonio 38695
+campanella 792325
+pensione 534768
+martino 429020
+177 17245
+797 52488
+homepage 9859
+savona 1238407
+carpooling 115413
+malala 1266228
+nota 94485
+teli 860687
+portare 726168
+parametri 1454720
+europei 1007372
+angeli 401923
+piazzale 1150211
+kennedy 60035
+barroso 1187879
+motogp 258023
+formula1 395370
+previ 485813
+decisione 1044791
+biondo 1455723
+guardar 451317
+paesaggio 1235238
+guardare 359585
+futuro 122445
+sarno 1456484
+arno 380504
+approfondire 1848294
+radar 10465
+principio 233148
+massima 797299
+riga 238218
+mezzo 128035
+adriatico 1652353
+calci 934338
+pulite 1605705
+genoa 154395
+fantastico 135504
+2014 7569
+rischia 2008937
+diventare 576262
+metropolitana 802094
+ge 33280
+tendenza 1396563
+cambio 154657
+piacciono 603551
+genio 208047
+2400 25197
+urbani 1512781
+manifestazione 702818
+iniziative 909169
+zza 936469
+olmo 1546510
+sino 150320
+tosta 1141897
+espresso 19128
+cardinal 30973
+liveblog 166997
+118 7232
+349 25803
+348 26573
+672 44079
+7494 293244
+gara 233387
+u16 202513
+programma 142748
+carlini 1535973
+militari 856135
+spinge 2112039
+salvataggio 1962695
+77 4852
+alimentari 1059190
+ferrero 440505
+coni 669304
+salvini 1431563
+esperti 920134
+mejo 453737
+mediterranea 810472
+miss 1859
+fletcher 156382
+tasi 1702058
+ottobre 130756
+tenga 246804
+dipartimento 2160579
+invia 1022790
+team 332
+bravo 39977
+vieni 553543
+premi 245644
+risultato 797231
+musso 428253
+miliardi 1021992
+comico 502381
+interessa 762213
+imu 454284
+tari 264790
+orari 523983
+vecchie 982970
+spendere 1454075
+prossimi 1053504
+colombo 191115
+tappeto 1715921
+salotto 1172680
+nobili 1212362
+devono 842872
+trendy 14204
+allestimento 2065094
+racconta 705511
+attraverso 402094
+socialmedia 174796
+miti 719694
+satellite 4339
+editoriale 1237944
+esempio 365990
+lavori 494308
+disponibili 278228
+2010 181
+scirocco 397938
+parecchio 1476614
+misure 790277
+apertura 332258
+sospensione 1908538
+scemo 894256
+adepti 2010120
+120 3246
+errori 566347
+comunicazione 398221
+fastweb 1229654
+nb 60463
+48h 218605
+lav 169749
+fissa 1112845
+sori 237296
+nera 342140
+faber 204590
+novembre 50214
+autostrade 1559456
+dici 436436
+ridicoli 1720076
+'50 143917
+patto 898478
+idee 170860
+ordine 365245
+corte 199476
+ligure 793232
+carmen 62248
+diego 24482
+mcdonald 94728
+basso 144330
+ascoltare 590224
+pulizia 744935
+ricarica 1679065
+bancario 1002146
+postale 416260
+distanze 1822699
+buenos 96029
+aires 122892
+dx 51873
+colori 232755
+18r 1333262
+veronica 87873
+spiaggia 403770
+accessi 1089714
+don 7627
+lite 26219
+maalox 521600
+concreto 711208
+ditte 2160580
+Max Document length: 141
+WARNING:tensorflow:From C:/Users/aless/Documents/University of Illinois at Chicago/Spring 2019/Project/train.py:82: VocabularyProcessor.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.text) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+WARNING:tensorflow:From C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\tensorflow\contrib\learn\python\learn\preprocessing\text.py:154: CategoricalVocabulary.__init__ (from tensorflow.contrib.learn.python.learn.preprocessing.categorical_vocabulary) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tensorflow/transform or tf.data.
+Vocabulary Size: 1
+Train/Dev split: 5014/557
+2019-02-28 19:16:02.330676: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+WARNING:tensorflow:From C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\main_pre_trained_embeddings.py:470: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+Writing to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1551402962
+
+2019-02-28T19:16:04.001341: step 1, loss 2.45009, accuracy 0.515625, precision 0.5714285714285714, recall 0.24242424242424243
+2019-02-28T19:16:04.403266: step 2, loss 4.00205, accuracy 0.734375, precision 0.0, recall nan
+2019-02-28T19:16:04.782268: step 3, loss 3.87374, accuracy 0.6875, precision 0.0, recall 0.0
+2019-02-28T19:16:05.183645: step 4, loss 2.73513, accuracy 0.703125, precision 0.05, recall 1.0
+2019-02-28T19:16:05.531227: step 5, loss 2.23513, accuracy 0.5625, precision 0.625, recall 0.16666666666666666
+2019-02-28T19:16:05.866841: step 6, loss 2.09575, accuracy 0.53125, precision 0.7, recall 0.3684210526315789
+2019-02-28T19:16:06.225296: step 7, loss 2.15878, accuracy 0.484375, precision 0.42105263157894735, recall 0.26666666666666666
+2019-02-28T19:16:06.648703: step 8, loss 2.28583, accuracy 0.640625, precision 0.43478260869565216, recall 0.5
+2019-02-28T19:16:07.157344: step 9, loss 1.67989, accuracy 0.703125, precision 0.3, recall 0.5454545454545454
+2019-02-28T19:16:07.687925: step 10, loss 2.23167, accuracy 0.578125, precision 0.21052631578947367, recall 0.25
+2019-02-28T19:16:08.144703: step 11, loss 2.14894, accuracy 0.59375, precision 0.21052631578947367, recall 0.26666666666666666
+2019-02-28T19:16:08.525654: step 12, loss 1.32507, accuracy 0.71875, precision 0.29411764705882354, recall 0.45454545454545453
+2019-02-28T19:16:08.889878: step 13, loss 1.58131, accuracy 0.640625, precision 0.19047619047619047, recall 0.4
+2019-02-28T19:16:09.226489: step 14, loss 1.53067, accuracy 0.609375, precision 0.4444444444444444, recall 0.34782608695652173
+2019-02-28T19:16:09.558603: step 15, loss 1.30948, accuracy 0.671875, precision 0.6666666666666666, recall 0.38461538461538464
+2019-02-28T19:16:09.890107: step 16, loss 1.24361, accuracy 0.65625, precision 0.5454545454545454, recall 0.5
+2019-02-28T19:16:10.235694: step 17, loss 1.29154, accuracy 0.734375, precision 0.65, recall 0.5652173913043478
+2019-02-28T19:16:10.564813: step 18, loss 1.49968, accuracy 0.65625, precision 0.35294117647058826, recall 0.35294117647058826
+2019-02-28T19:16:10.899920: step 19, loss 1.12321, accuracy 0.703125, precision 0.52, recall 0.65
+2019-02-28T19:16:11.230543: step 20, loss 1.17437, accuracy 0.765625, precision 0.7368421052631579, recall 0.5833333333333334
+2019-02-28T19:16:11.556672: step 21, loss 1.53761, accuracy 0.6875, precision 0.4, recall 0.35294117647058826
+2019-02-28T19:16:11.890166: step 22, loss 1.20684, accuracy 0.6875, precision 0.2777777777777778, recall 0.4166666666666667
+2019-02-28T19:16:12.238217: step 23, loss 1.5783, accuracy 0.640625, precision 0.34615384615384615, recall 0.6
+2019-02-28T19:16:12.564345: step 24, loss 1.15857, accuracy 0.65625, precision 0.2777777777777778, recall 0.35714285714285715
+2019-02-28T19:16:12.902442: step 25, loss 1.31739, accuracy 0.625, precision 0.38461538461538464, recall 0.5555555555555556
+2019-02-28T19:16:13.246521: step 26, loss 1.27069, accuracy 0.625, precision 0.55, recall 0.4230769230769231
+2019-02-28T19:16:13.634485: step 27, loss 1.28381, accuracy 0.6875, precision 0.6153846153846154, recall 0.34782608695652173
+2019-02-28T19:16:14.137142: step 28, loss 1.2545, accuracy 0.71875, precision 0.8125, recall 0.4642857142857143
+2019-02-28T19:16:14.579969: step 29, loss 0.968552, accuracy 0.765625, precision 0.5, recall 0.4666666666666667
+2019-02-28T19:16:15.021341: step 30, loss 1.12404, accuracy 0.6875, precision 0.5238095238095238, recall 0.5238095238095238
+2019-02-28T19:16:15.463668: step 31, loss 1.34804, accuracy 0.703125, precision 0.38461538461538464, recall 0.7692307692307693
+2019-02-28T19:16:15.882551: step 32, loss 1.60492, accuracy 0.71875, precision 0.42857142857142855, recall 0.8571428571428571
+2019-02-28T19:16:16.329361: step 33, loss 1.00392, accuracy 0.703125, precision 0.38095238095238093, recall 0.5714285714285714
+2019-02-28T19:16:16.729306: step 34, loss 0.881367, accuracy 0.703125, precision 0.4444444444444444, recall 0.47058823529411764
+2019-02-28T19:16:17.132149: step 35, loss 0.784513, accuracy 0.703125, precision 0.6, recall 0.5217391304347826
+2019-02-28T19:16:17.522109: step 36, loss 0.890468, accuracy 0.703125, precision 0.6111111111111112, recall 0.4782608695652174
+2019-02-28T19:16:17.935514: step 37, loss 1.10131, accuracy 0.609375, precision 0.5769230769230769, recall 0.5172413793103449
+2019-02-28T19:16:18.370261: step 38, loss 1.14331, accuracy 0.6875, precision 0.6111111111111112, recall 0.4583333333333333
+2019-02-28T19:16:18.761808: step 39, loss 1.34194, accuracy 0.609375, precision 0.5833333333333334, recall 0.4827586206896552
+2019-02-28T19:16:19.185673: step 40, loss 0.869569, accuracy 0.734375, precision 0.5, recall 0.5294117647058824
+2019-02-28T19:16:19.567548: step 41, loss 0.832752, accuracy 0.734375, precision 0.5, recall 0.47058823529411764
+2019-02-28T19:16:19.956779: step 42, loss 1.04058, accuracy 0.65625, precision 0.3181818181818182, recall 0.5
+2019-02-28T19:16:20.365686: step 43, loss 1.20681, accuracy 0.65625, precision 0.2916666666666667, recall 0.5833333333333334
+2019-02-28T19:16:20.742688: step 44, loss 1.19194, accuracy 0.671875, precision 0.38095238095238093, recall 0.5
+2019-02-28T19:16:21.152633: step 45, loss 0.750028, accuracy 0.71875, precision 0.5909090909090909, recall 0.5909090909090909
+2019-02-28T19:16:21.574826: step 46, loss 1.3921, accuracy 0.53125, precision 0.4, recall 0.2222222222222222
+2019-02-28T19:16:21.964253: step 47, loss 1.04191, accuracy 0.6875, precision 0.7727272727272727, recall 0.53125
+2019-02-28T19:16:22.370653: step 48, loss 0.732192, accuracy 0.75, precision 0.6296296296296297, recall 0.7391304347826086
+2019-02-28T19:16:22.744167: step 49, loss 0.794618, accuracy 0.75, precision 0.6666666666666666, recall 0.6666666666666666
+2019-02-28T19:16:23.133127: step 50, loss 0.654497, accuracy 0.78125, precision 0.5714285714285714, recall 0.7058823529411765
+2019-02-28T19:16:23.508124: step 51, loss 0.813319, accuracy 0.703125, precision 0.6, recall 0.625
+2019-02-28T19:16:23.876479: step 52, loss 0.833773, accuracy 0.734375, precision 0.5416666666666666, recall 0.6842105263157895
+2019-02-28T19:16:24.273417: step 53, loss 0.619741, accuracy 0.734375, precision 0.42857142857142855, recall 0.6428571428571429
+2019-02-28T19:16:24.648415: step 54, loss 1.0324, accuracy 0.734375, precision 0.6666666666666666, recall 0.5833333333333334
+2019-02-28T19:16:25.015437: step 55, loss 1.00252, accuracy 0.609375, precision 0.6363636363636364, recall 0.45161290322580644
+2019-02-28T19:16:25.375884: step 56, loss 1.09286, accuracy 0.71875, precision 0.5294117647058824, recall 0.47368421052631576
+2019-02-28T19:16:25.748113: step 57, loss 0.791883, accuracy 0.75, precision 0.5263157894736842, recall 0.5882352941176471
+2019-02-28T19:16:26.120123: step 58, loss 0.768927, accuracy 0.734375, precision 0.6363636363636364, recall 0.6086956521739131
+2019-02-28T19:16:26.483174: step 59, loss 0.972985, accuracy 0.703125, precision 0.2631578947368421, recall 0.5
+2019-02-28T19:16:26.844209: step 60, loss 0.775864, accuracy 0.796875, precision 0.47058823529411764, recall 0.6666666666666666
+2019-02-28T19:16:27.212226: step 61, loss 0.881857, accuracy 0.6875, precision 0.3888888888888889, recall 0.4375
+2019-02-28T19:16:27.673991: step 62, loss 0.673177, accuracy 0.78125, precision 0.2727272727272727, recall 0.3333333333333333
+2019-02-28T19:16:28.063948: step 63, loss 0.672443, accuracy 0.796875, precision 0.6818181818181818, recall 0.7142857142857143
+2019-02-28T19:16:28.471858: step 64, loss 0.704529, accuracy 0.734375, precision 0.5294117647058824, recall 0.5
+2019-02-28T19:16:28.842865: step 65, loss 0.899551, accuracy 0.6875, precision 0.42105263157894735, recall 0.47058823529411764
+2019-02-28T19:16:29.206991: step 66, loss 0.368621, accuracy 0.875, precision 0.8461538461538461, recall 0.6470588235294118
+2019-02-28T19:16:29.566031: step 67, loss 0.785613, accuracy 0.703125, precision 0.42857142857142855, recall 0.5625
+2019-02-28T19:16:29.921124: step 68, loss 0.914168, accuracy 0.65625, precision 0.5263157894736842, recall 0.43478260869565216
+2019-02-28T19:16:30.294140: step 69, loss 0.551293, accuracy 0.78125, precision 0.7647058823529411, recall 0.5652173913043478
+2019-02-28T19:16:30.630108: step 70, loss 0.870767, accuracy 0.671875, precision 0.34615384615384615, recall 0.6923076923076923
+2019-02-28T19:16:30.977200: step 71, loss 0.679591, accuracy 0.75, precision 0.4, recall 0.46153846153846156
+2019-02-28T19:16:31.407906: step 72, loss 0.766674, accuracy 0.671875, precision 0.4583333333333333, recall 0.5789473684210527
+2019-02-28T19:16:31.790909: step 73, loss 0.616488, accuracy 0.84375, precision 0.631578947368421, recall 0.8
+2019-02-28T19:16:32.173891: step 74, loss 0.463977, accuracy 0.78125, precision 0.38461538461538464, recall 0.45454545454545453
+2019-02-28T19:16:32.553873: step 75, loss 0.7695, accuracy 0.71875, precision 0.55, recall 0.55
+2019-02-28T19:16:32.923031: step 76, loss 0.487366, accuracy 0.78125, precision 0.6666666666666666, recall 0.6
+2019-02-28T19:16:33.293044: step 77, loss 0.637207, accuracy 0.734375, precision 0.5333333333333333, recall 0.4444444444444444
+2019-02-28T19:16:33.653081: step 78, loss 0.620595, accuracy 0.78125, precision 0.6842105263157895, recall 0.6190476190476191
+2019-02-28T19:16:33.814649: step 79, loss 0.341728, accuracy 0.954545, precision 0.75, recall 1.0
+2019-02-28T19:16:34.191177: step 80, loss 0.568014, accuracy 0.734375, precision 0.5555555555555556, recall 0.5263157894736842
+2019-02-28T19:16:34.560694: step 81, loss 0.751483, accuracy 0.78125, precision 0.3888888888888889, recall 0.7
+2019-02-28T19:16:34.910760: step 82, loss 0.527985, accuracy 0.796875, precision 0.3684210526315789, recall 0.875
+2019-02-28T19:16:35.246859: step 83, loss 0.373712, accuracy 0.84375, precision 0.6428571428571429, recall 0.6428571428571429
+2019-02-28T19:16:35.613879: step 84, loss 0.419214, accuracy 0.84375, precision 0.6428571428571429, recall 0.6428571428571429
+2019-02-28T19:16:35.998850: step 85, loss 0.753308, accuracy 0.765625, precision 0.7222222222222222, recall 0.5652173913043478
+2019-02-28T19:16:36.379832: step 86, loss 0.567578, accuracy 0.828125, precision 0.6875, recall 0.6470588235294118
+2019-02-28T19:16:36.745927: step 87, loss 0.400845, accuracy 0.84375, precision 0.6875, recall 0.6875
+2019-02-28T19:16:37.116932: step 88, loss 0.736141, accuracy 0.796875, precision 0.5625, recall 0.6
+2019-02-28T19:16:37.484948: step 89, loss 0.320529, accuracy 0.875, precision 0.9230769230769231, recall 0.631578947368421
+2019-02-28T19:16:37.860946: step 90, loss 0.589607, accuracy 0.796875, precision 0.64, recall 0.8
+2019-02-28T19:16:38.254890: step 91, loss 0.735396, accuracy 0.703125, precision 0.3333333333333333, recall 0.7272727272727273
+2019-02-28T19:16:38.634873: step 92, loss 0.537724, accuracy 0.828125, precision 0.5555555555555556, recall 0.7692307692307693
+2019-02-28T19:16:38.999926: step 93, loss 0.695865, accuracy 0.75, precision 0.5217391304347826, recall 0.7058823529411765
+2019-02-28T19:16:39.361026: step 94, loss 0.400088, accuracy 0.765625, precision 0.5384615384615384, recall 0.4375
+2019-02-28T19:16:39.719069: step 95, loss 0.407684, accuracy 0.828125, precision 0.875, recall 0.6086956521739131
+2019-02-28T19:16:40.108941: step 96, loss 0.558031, accuracy 0.75, precision 0.5294117647058824, recall 0.5294117647058824
+2019-02-28T19:16:40.460999: step 97, loss 0.514914, accuracy 0.734375, precision 0.45454545454545453, recall 0.6666666666666666
+2019-02-28T19:16:40.829494: step 98, loss 0.40972, accuracy 0.765625, precision 0.6470588235294118, recall 0.55
+2019-02-28T19:16:41.180545: step 99, loss 0.559854, accuracy 0.8125, precision 0.6521739130434783, recall 0.7894736842105263
+2019-02-28T19:16:41.537743: step 100, loss 0.556554, accuracy 0.78125, precision 0.6296296296296297, recall 0.8095238095238095
+2019-02-28T19:16:41.911763: step 101, loss 0.439957, accuracy 0.8125, precision 0.6190476190476191, recall 0.7647058823529411
+2019-02-28T19:16:42.285762: step 102, loss 0.74359, accuracy 0.703125, precision 0.5, recall 0.5263157894736842
+2019-02-28T19:16:42.629852: step 103, loss 0.521994, accuracy 0.8125, precision 0.7142857142857143, recall 0.5555555555555556
+2019-02-28T19:16:42.976923: step 104, loss 0.681596, accuracy 0.71875, precision 0.5789473684210527, recall 0.5238095238095238
+2019-02-28T19:16:43.323995: step 105, loss 0.311124, accuracy 0.84375, precision 0.6842105263157895, recall 0.7647058823529411
+2019-02-28T19:16:43.675058: step 106, loss 0.512683, accuracy 0.8125, precision 0.7368421052631579, recall 0.6666666666666666
+2019-02-28T19:16:44.028114: step 107, loss 0.611162, accuracy 0.78125, precision 0.6190476190476191, recall 0.6842105263157895
+2019-02-28T19:16:44.386159: step 108, loss 0.259971, accuracy 0.90625, precision 0.9166666666666666, recall 0.8461538461538461
+2019-02-28T19:16:44.740719: step 109, loss 0.572453, accuracy 0.765625, precision 0.6, recall 0.5
+2019-02-28T19:16:45.084800: step 110, loss 0.605621, accuracy 0.8125, precision 0.6842105263157895, recall 0.6842105263157895
+2019-02-28T19:16:45.428256: step 111, loss 0.305535, accuracy 0.890625, precision 0.75, recall 0.8
+2019-02-28T19:16:45.788491: step 112, loss 0.265174, accuracy 0.859375, precision 0.5333333333333333, recall 0.8
+2019-02-28T19:16:46.157916: step 113, loss 0.492769, accuracy 0.8125, precision 0.5, recall 0.75
+2019-02-28T19:16:46.521945: step 114, loss 0.40631, accuracy 0.828125, precision 0.5, recall 0.7272727272727273
+2019-02-28T19:16:46.874025: step 115, loss 0.464395, accuracy 0.796875, precision 0.47058823529411764, recall 0.6666666666666666
+2019-02-28T19:16:47.227091: step 116, loss 0.512266, accuracy 0.78125, precision 0.42857142857142855, recall 0.8181818181818182
+2019-02-28T19:16:47.581807: step 117, loss 0.6619, accuracy 0.75, precision 0.5625, recall 0.9
+2019-02-28T19:16:47.932390: step 118, loss 0.744659, accuracy 0.75, precision 0.8571428571428571, recall 0.5806451612903226
+2019-02-28T19:16:48.314368: step 119, loss 0.516729, accuracy 0.765625, precision 0.7368421052631579, recall 0.5833333333333334
+2019-02-28T19:16:48.662438: step 120, loss 0.561191, accuracy 0.765625, precision 0.7916666666666666, recall 0.6551724137931034
+2019-02-28T19:16:49.036953: step 121, loss 0.703073, accuracy 0.75, precision 0.7272727272727273, recall 0.6153846153846154
+2019-02-28T19:16:49.384025: step 122, loss 0.559364, accuracy 0.796875, precision 0.75, recall 0.6521739130434783
+2019-02-28T19:16:49.737082: step 123, loss 0.408431, accuracy 0.8125, precision 0.7619047619047619, recall 0.6956521739130435
+2019-02-28T19:16:50.087145: step 124, loss 0.552516, accuracy 0.8125, precision 0.625, recall 0.8333333333333334
+2019-02-28T19:16:50.431741: step 125, loss 0.370483, accuracy 0.921875, precision 0.8125, recall 0.8666666666666667
+2019-02-28T19:16:50.778817: step 126, loss 0.325421, accuracy 0.859375, precision 0.7, recall 0.8235294117647058
+2019-02-28T19:16:51.154808: step 127, loss 0.429573, accuracy 0.828125, precision 0.6, recall 0.8
+2019-02-28T19:16:51.499884: step 128, loss 0.309906, accuracy 0.875, precision 0.6666666666666666, recall 0.8571428571428571
+2019-02-28T19:16:51.849327: step 129, loss 0.553999, accuracy 0.75, precision 0.42857142857142855, recall 0.6923076923076923
+2019-02-28T19:16:52.211628: step 130, loss 0.658465, accuracy 0.734375, precision 0.5238095238095238, recall 0.6111111111111112
+2019-02-28T19:16:52.552226: step 131, loss 0.447564, accuracy 0.8125, precision 0.6521739130434783, recall 0.7894736842105263
+2019-02-28T19:16:52.894603: step 132, loss 0.504379, accuracy 0.8125, precision 0.8, recall 0.5714285714285714
+2019-02-28T19:16:53.238711: step 133, loss 0.564349, accuracy 0.796875, precision 0.7222222222222222, recall 0.6190476190476191
+2019-02-28T19:16:53.582679: step 134, loss 0.579126, accuracy 0.734375, precision 0.6153846153846154, recall 0.6956521739130435
+2019-02-28T19:16:53.928751: step 135, loss 0.603596, accuracy 0.765625, precision 0.6086956521739131, recall 0.7
+2019-02-28T19:16:54.298762: step 136, loss 0.444655, accuracy 0.8125, precision 0.7368421052631579, recall 0.6666666666666666
+2019-02-28T19:16:54.651881: step 137, loss 0.248323, accuracy 0.921875, precision 0.9090909090909091, recall 0.8695652173913043
+2019-02-28T19:16:55.007929: step 138, loss 0.368501, accuracy 0.828125, precision 0.65, recall 0.7647058823529411
+2019-02-28T19:16:55.361982: step 139, loss 0.380334, accuracy 0.8125, precision 0.6521739130434783, recall 0.7894736842105263
+2019-02-28T19:16:55.707060: step 140, loss 0.335074, accuracy 0.890625, precision 0.7058823529411765, recall 0.8571428571428571
+2019-02-28T19:16:56.058152: step 141, loss 0.432487, accuracy 0.84375, precision 0.7272727272727273, recall 0.8
+2019-02-28T19:16:56.430665: step 142, loss 0.381401, accuracy 0.859375, precision 0.7058823529411765, recall 0.75
+2019-02-28T19:16:56.780776: step 143, loss 0.558682, accuracy 0.78125, precision 0.7142857142857143, recall 0.7692307692307693
+2019-02-28T19:16:57.133834: step 144, loss 0.667898, accuracy 0.71875, precision 0.5789473684210527, recall 0.5238095238095238
+2019-02-28T19:16:57.485893: step 145, loss 0.523693, accuracy 0.75, precision 0.6153846153846154, recall 0.42105263157894735
+2019-02-28T19:16:57.829895: step 146, loss 0.575184, accuracy 0.75, precision 0.6, recall 0.6
+2019-02-28T19:16:58.184480: step 147, loss 0.371581, accuracy 0.859375, precision 0.75, recall 0.7058823529411765
+2019-02-28T19:16:58.593898: step 148, loss 0.201719, accuracy 0.921875, precision 0.8, recall 0.8571428571428571
+2019-02-28T19:16:59.027737: step 149, loss 0.422397, accuracy 0.796875, precision 0.47619047619047616, recall 0.8333333333333334
+2019-02-28T19:16:59.434648: step 150, loss 0.435863, accuracy 0.84375, precision 0.6190476190476191, recall 0.8666666666666667
+2019-02-28T19:16:59.866458: step 151, loss 0.371078, accuracy 0.796875, precision 0.5625, recall 0.6
+2019-02-28T19:17:00.267856: step 152, loss 0.420607, accuracy 0.828125, precision 0.35714285714285715, recall 0.7142857142857143
+2019-02-28T19:17:00.629401: step 153, loss 0.324728, accuracy 0.890625, precision 0.8235294117647058, recall 0.7777777777777778
+2019-02-28T19:17:00.971497: step 154, loss 0.569761, accuracy 0.78125, precision 0.5384615384615384, recall 0.875
+2019-02-28T19:17:01.303608: step 155, loss 0.436278, accuracy 0.8125, precision 0.5833333333333334, recall 0.875
+2019-02-28T19:17:01.641727: step 156, loss 0.49002, accuracy 0.796875, precision 0.6666666666666666, recall 0.7619047619047619
+2019-02-28T19:17:01.969847: step 157, loss 0.235259, accuracy 0.859375, precision 0.9047619047619048, recall 0.7307692307692307
+2019-02-28T19:17:02.151364: step 158, loss 0.530943, accuracy 0.727273, precision 0.5714285714285714, recall 0.5714285714285714
+2019-02-28T19:17:02.540834: step 159, loss 0.52271, accuracy 0.765625, precision 0.8333333333333334, recall 0.5555555555555556
+2019-02-28T19:17:02.883921: step 160, loss 0.341301, accuracy 0.84375, precision 1.0, recall 0.6551724137931034
+2019-02-28T19:17:03.235006: step 161, loss 0.233322, accuracy 0.875, precision 0.9444444444444444, recall 0.7083333333333334
+2019-02-28T19:17:03.577095: step 162, loss 0.286419, accuracy 0.859375, precision 0.875, recall 0.6666666666666666
+2019-02-28T19:17:03.931167: step 163, loss 0.490922, accuracy 0.8125, precision 0.6818181818181818, recall 0.75
+2019-02-28T19:17:04.326620: step 164, loss 0.241764, accuracy 0.90625, precision 0.7777777777777778, recall 0.875
+2019-02-28T19:17:04.700619: step 165, loss 0.469488, accuracy 0.8125, precision 0.5263157894736842, recall 0.7692307692307693
+2019-02-28T19:17:05.055672: step 166, loss 0.414608, accuracy 0.8125, precision 0.55, recall 0.7857142857142857
+2019-02-28T19:17:05.399750: step 167, loss 0.357037, accuracy 0.84375, precision 0.5263157894736842, recall 0.9090909090909091
+2019-02-28T19:17:05.733369: step 168, loss 0.364338, accuracy 0.859375, precision 0.5909090909090909, recall 1.0
+2019-02-28T19:17:06.072462: step 169, loss 0.392612, accuracy 0.875, precision 0.7391304347826086, recall 0.8947368421052632
+2019-02-28T19:17:06.430889: step 170, loss 0.296863, accuracy 0.875, precision 0.75, recall 0.8333333333333334
+2019-02-28T19:17:06.780952: step 171, loss 0.271719, accuracy 0.859375, precision 0.6470588235294118, recall 0.7857142857142857
+2019-02-28T19:17:07.123037: step 172, loss 0.365232, accuracy 0.84375, precision 0.875, recall 0.6363636363636364
+2019-02-28T19:17:07.466120: step 173, loss 0.276048, accuracy 0.859375, precision 0.9, recall 0.72
+2019-02-28T19:17:07.807219: step 174, loss 0.299423, accuracy 0.875, precision 0.875, recall 0.7
+2019-02-28T19:17:08.156473: step 175, loss 0.33342, accuracy 0.890625, precision 0.6, recall 0.6666666666666666
+2019-02-28T19:17:08.492593: step 176, loss 0.204342, accuracy 0.875, precision 0.75, recall 0.8333333333333334
+2019-02-28T19:17:08.822728: step 177, loss 0.440501, accuracy 0.8125, precision 0.6086956521739131, recall 0.8235294117647058
+2019-02-28T19:17:09.176765: step 178, loss 0.355483, accuracy 0.796875, precision 0.6153846153846154, recall 0.5
+2019-02-28T19:17:09.547773: step 179, loss 0.236461, accuracy 0.875, precision 0.6, recall 1.0
+2019-02-28T19:17:09.911800: step 180, loss 0.365312, accuracy 0.90625, precision 0.6875, recall 0.9166666666666666
+2019-02-28T19:17:10.285800: step 181, loss 0.182863, accuracy 0.921875, precision 0.8461538461538461, recall 0.7857142857142857
+2019-02-28T19:17:10.622901: step 182, loss 0.284393, accuracy 0.875, precision 0.6363636363636364, recall 1.0
+2019-02-28T19:17:10.972970: step 183, loss 0.307568, accuracy 0.859375, precision 0.65, recall 0.8666666666666667
+2019-02-28T19:17:11.307606: step 184, loss 0.267129, accuracy 0.921875, precision 0.8666666666666667, recall 0.8125
+2019-02-28T19:17:11.652684: step 185, loss 0.358801, accuracy 0.84375, precision 0.6875, recall 0.6875
+2019-02-28T19:17:11.987789: step 186, loss 0.313755, accuracy 0.859375, precision 0.7857142857142857, recall 0.88
+2019-02-28T19:17:12.355853: step 187, loss 0.250477, accuracy 0.859375, precision 0.9090909090909091, recall 0.7407407407407407
+2019-02-28T19:17:12.690957: step 188, loss 0.406626, accuracy 0.828125, precision 0.6086956521739131, recall 0.875
+2019-02-28T19:17:13.027058: step 189, loss 0.226096, accuracy 0.9375, precision 0.8571428571428571, recall 0.9473684210526315
+2019-02-28T19:17:13.346228: step 190, loss 0.339507, accuracy 0.875, precision 0.8333333333333334, recall 0.75
+2019-02-28T19:17:13.681846: step 191, loss 0.352116, accuracy 0.8125, precision 0.65, recall 0.7222222222222222
+2019-02-28T19:17:14.025925: step 192, loss 0.281794, accuracy 0.875, precision 0.75, recall 0.6428571428571429
+2019-02-28T19:17:14.393964: step 193, loss 0.249775, accuracy 0.890625, precision 0.8695652173913043, recall 0.8333333333333334
+2019-02-28T19:17:14.731131: step 194, loss 0.291969, accuracy 0.890625, precision 0.8181818181818182, recall 0.8571428571428571
+2019-02-28T19:17:15.103647: step 195, loss 0.317934, accuracy 0.875, precision 0.85, recall 0.7727272727272727
+2019-02-28T19:17:15.462780: step 196, loss 0.2959, accuracy 0.859375, precision 0.75, recall 0.7894736842105263
+2019-02-28T19:17:15.798881: step 197, loss 0.244971, accuracy 0.90625, precision 0.8125, recall 0.8125
+2019-02-28T19:17:16.152956: step 198, loss 0.267226, accuracy 0.890625, precision 0.7647058823529411, recall 0.8125
+2019-02-28T19:17:16.510022: step 199, loss 0.314416, accuracy 0.890625, precision 0.76, recall 0.95
+2019-02-28T19:17:16.851108: step 200, loss 0.223261, accuracy 0.859375, precision 0.75, recall 0.8571428571428571
+2019-02-28T19:17:17.178242: step 201, loss 0.446314, accuracy 0.84375, precision 0.7142857142857143, recall 0.7894736842105263
+2019-02-28T19:17:17.523797: step 202, loss 0.286019, accuracy 0.859375, precision 0.8571428571428571, recall 0.75
+2019-02-28T19:17:17.854915: step 203, loss 0.160618, accuracy 0.9375, precision 0.875, recall 0.875
+2019-02-28T19:17:18.204979: step 204, loss 0.511646, accuracy 0.796875, precision 0.6190476190476191, recall 0.7222222222222222
+2019-02-28T19:17:18.535100: step 205, loss 0.328837, accuracy 0.859375, precision 0.75, recall 0.7894736842105263
+2019-02-28T19:17:18.866786: step 206, loss 0.360493, accuracy 0.875, precision 0.7, recall 0.875
+2019-02-28T19:17:19.198946: step 207, loss 0.293652, accuracy 0.859375, precision 0.6842105263157895, recall 0.8125
+2019-02-28T19:17:19.557485: step 208, loss 0.278355, accuracy 0.9375, precision 0.8947368421052632, recall 0.8947368421052632
+2019-02-28T19:17:19.932664: step 209, loss 0.306293, accuracy 0.90625, precision 0.7894736842105263, recall 0.8823529411764706
+2019-02-28T19:17:20.293701: step 210, loss 0.268957, accuracy 0.90625, precision 0.8, recall 0.8
+2019-02-28T19:17:20.652740: step 211, loss 0.334628, accuracy 0.84375, precision 0.68, recall 0.8947368421052632
+2019-02-28T19:17:20.996819: step 212, loss 0.203698, accuracy 0.921875, precision 0.9285714285714286, recall 0.896551724137931
+2019-02-28T19:17:21.349387: step 213, loss 0.401756, accuracy 0.78125, precision 0.8421052631578947, recall 0.5925925925925926
+2019-02-28T19:17:21.697456: step 214, loss 0.40505, accuracy 0.78125, precision 0.6956521739130435, recall 0.6956521739130435
+2019-02-28T19:17:22.062745: step 215, loss 0.401784, accuracy 0.890625, precision 0.875, recall 0.84
+2019-02-28T19:17:22.449737: step 216, loss 0.28134, accuracy 0.859375, precision 0.5714285714285714, recall 0.7272727272727273
+2019-02-28T19:17:22.799801: step 217, loss 0.294145, accuracy 0.90625, precision 0.6666666666666666, recall 0.9090909090909091
+2019-02-28T19:17:23.159859: step 218, loss 0.228359, accuracy 0.953125, precision 0.9130434782608695, recall 0.9545454545454546
+2019-02-28T19:17:23.513919: step 219, loss 0.249095, accuracy 0.890625, precision 0.75, recall 0.6923076923076923
+2019-02-28T19:17:23.861404: step 220, loss 0.190546, accuracy 0.9375, precision 0.8, recall 0.9230769230769231
+2019-02-28T19:17:24.246375: step 221, loss 0.226768, accuracy 0.875, precision 0.6666666666666666, recall 0.9333333333333333
+2019-02-28T19:17:24.635853: step 222, loss 0.224063, accuracy 0.875, precision 0.6818181818181818, recall 0.9375
+2019-02-28T19:17:25.034788: step 223, loss 0.275499, accuracy 0.875, precision 0.7222222222222222, recall 0.8125
+2019-02-28T19:17:25.408789: step 224, loss 0.327264, accuracy 0.875, precision 0.75, recall 0.9
+2019-02-28T19:17:25.794757: step 225, loss 0.265325, accuracy 0.84375, precision 0.6842105263157895, recall 0.7647058823529411
+2019-02-28T19:17:26.172200: step 226, loss 0.299138, accuracy 0.890625, precision 0.7727272727272727, recall 0.8947368421052632
+2019-02-28T19:17:26.549708: step 227, loss 0.319635, accuracy 0.84375, precision 0.7391304347826086, recall 0.8095238095238095
+2019-02-28T19:17:26.957616: step 228, loss 0.247582, accuracy 0.90625, precision 0.8260869565217391, recall 0.9047619047619048
+2019-02-28T19:17:27.326640: step 229, loss 0.532216, accuracy 0.828125, precision 0.8823529411764706, recall 0.625
+2019-02-28T19:17:27.698676: step 230, loss 0.316083, accuracy 0.859375, precision 0.875, recall 0.6666666666666666
+2019-02-28T19:17:28.108120: step 231, loss 0.320118, accuracy 0.8125, precision 0.8, recall 0.7407407407407407
+2019-02-28T19:17:28.482630: step 232, loss 0.235592, accuracy 0.875, precision 0.7058823529411765, recall 0.8
+2019-02-28T19:17:28.828234: step 233, loss 0.231562, accuracy 0.890625, precision 0.8, recall 0.8421052631578947
+2019-02-28T19:17:29.154363: step 234, loss 0.39124, accuracy 0.8125, precision 0.5909090909090909, recall 0.8125
+2019-02-28T19:17:29.488315: step 235, loss 0.428809, accuracy 0.84375, precision 0.6666666666666666, recall 0.8888888888888888
+2019-02-28T19:17:29.836900: step 236, loss 0.216108, accuracy 0.90625, precision 0.8666666666666667, recall 0.7647058823529411
+2019-02-28T19:17:30.020352: step 237, loss 0.254189, accuracy 0.863636, precision 0.625, recall 1.0
+2019-02-28T19:17:30.426266: step 238, loss 0.119982, accuracy 0.96875, precision 0.8823529411764706, recall 1.0
+2019-02-28T19:17:30.790951: step 239, loss 0.0976233, accuracy 0.984375, precision 0.9285714285714286, recall 1.0
+2019-02-28T19:17:31.146062: step 240, loss 0.0884039, accuracy 0.984375, precision 1.0, recall 0.9473684210526315
+2019-02-28T19:17:31.495136: step 241, loss 0.219987, accuracy 0.890625, precision 0.9, recall 0.782608695652174
+2019-02-28T19:17:31.845717: step 242, loss 0.22569, accuracy 0.890625, precision 0.8125, recall 0.7647058823529411
+2019-02-28T19:17:32.221719: step 243, loss 0.219605, accuracy 0.953125, precision 0.9473684210526315, recall 0.9
+2019-02-28T19:17:32.571785: step 244, loss 0.151266, accuracy 0.921875, precision 0.8695652173913043, recall 0.9090909090909091
+2019-02-28T19:17:32.916872: step 245, loss 0.150156, accuracy 0.9375, precision 0.8181818181818182, recall 1.0
+2019-02-28T19:17:33.262947: step 246, loss 0.172185, accuracy 0.953125, precision 0.9545454545454546, recall 0.9130434782608695
+2019-02-28T19:17:33.615006: step 247, loss 0.287715, accuracy 0.9375, precision 0.8823529411764706, recall 0.8823529411764706
+2019-02-28T19:17:33.962077: step 248, loss 0.17256, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:17:34.325615: step 249, loss 0.153145, accuracy 0.9375, precision 0.9375, recall 0.8333333333333334
+2019-02-28T19:17:34.682664: step 250, loss 0.164617, accuracy 0.953125, precision 0.8636363636363636, recall 1.0
+
+Evaluation:
+[[124  42]
+ [ 20 371]]
+2019-02-28T19:17:35.559875: step 250, loss 0.292506, accuracy 0.888689, precision 0.7469879518072289, recall 0.8611111111111112
+
+Saved model checkpoint to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1551402962\checkpoints\model-250
+
+2019-02-28T19:17:36.056055: step 251, loss 0.218933, accuracy 0.921875, precision 0.9545454545454546, recall 0.84
+2019-02-28T19:17:36.406154: step 252, loss 0.200238, accuracy 0.90625, precision 0.8333333333333334, recall 0.8333333333333334
+2019-02-28T19:17:36.741377: step 253, loss 0.243902, accuracy 0.921875, precision 0.7368421052631579, recall 1.0
+2019-02-28T19:17:37.076489: step 254, loss 0.18335, accuracy 0.90625, precision 0.8695652173913043, recall 0.8695652173913043
+2019-02-28T19:17:37.413015: step 255, loss 0.264506, accuracy 0.890625, precision 0.75, recall 0.9473684210526315
+2019-02-28T19:17:37.752619: step 256, loss 0.241581, accuracy 0.90625, precision 0.8125, recall 0.8125
+2019-02-28T19:17:38.123643: step 257, loss 0.144268, accuracy 0.953125, precision 0.9090909090909091, recall 0.9523809523809523
+2019-02-28T19:17:38.522108: step 258, loss 0.154031, accuracy 0.921875, precision 0.85, recall 0.8947368421052632
+2019-02-28T19:17:38.855217: step 259, loss 0.263016, accuracy 0.875, precision 0.8461538461538461, recall 0.6470588235294118
+2019-02-28T19:17:39.188326: step 260, loss 0.23112, accuracy 0.90625, precision 0.85, recall 0.85
+2019-02-28T19:17:39.511463: step 261, loss 0.265306, accuracy 0.890625, precision 0.8, recall 0.8421052631578947
+2019-02-28T19:17:39.842577: step 262, loss 0.39403, accuracy 0.875, precision 0.7894736842105263, recall 0.7894736842105263
+2019-02-28T19:17:40.195633: step 263, loss 0.241174, accuracy 0.890625, precision 0.7058823529411765, recall 0.8571428571428571
+2019-02-28T19:17:40.556801: step 264, loss 0.185107, accuracy 0.96875, precision 0.9, recall 1.0
+2019-02-28T19:17:40.885921: step 265, loss 0.284224, accuracy 0.828125, precision 0.6842105263157895, recall 0.7222222222222222
+2019-02-28T19:17:41.231004: step 266, loss 0.27669, accuracy 0.859375, precision 0.7083333333333334, recall 0.8947368421052632
+2019-02-28T19:17:41.587736: step 267, loss 0.162198, accuracy 0.9375, precision 0.8333333333333334, recall 0.8333333333333334
+2019-02-28T19:17:41.941324: step 268, loss 0.316303, accuracy 0.84375, precision 0.8, recall 0.7272727272727273
+2019-02-28T19:17:42.311334: step 269, loss 0.262926, accuracy 0.859375, precision 0.6666666666666666, recall 0.875
+2019-02-28T19:17:42.658406: step 270, loss 0.328392, accuracy 0.84375, precision 0.8125, recall 0.65
+2019-02-28T19:17:43.007794: step 271, loss 0.192529, accuracy 0.9375, precision 0.8, recall 1.0
+2019-02-28T19:17:43.355717: step 272, loss 0.168944, accuracy 0.953125, precision 0.9130434782608695, recall 0.9545454545454546
+2019-02-28T19:17:43.716264: step 273, loss 0.194074, accuracy 0.9375, precision 0.8666666666666667, recall 0.8666666666666667
+2019-02-28T19:17:44.070318: step 274, loss 0.152701, accuracy 0.953125, precision 0.8235294117647058, recall 1.0
+2019-02-28T19:17:44.423392: step 275, loss 0.192969, accuracy 0.921875, precision 0.8, recall 0.9411764705882353
+2019-02-28T19:17:44.768502: step 276, loss 0.167323, accuracy 0.921875, precision 0.8260869565217391, recall 0.95
+2019-02-28T19:17:45.112563: step 277, loss 0.140579, accuracy 0.921875, precision 0.7727272727272727, recall 1.0
+2019-02-28T19:17:45.456921: step 278, loss 0.248337, accuracy 0.9375, precision 0.9411764705882353, recall 0.8421052631578947
+2019-02-28T19:17:45.800725: step 279, loss 0.190474, accuracy 0.9375, precision 0.8888888888888888, recall 0.96
+2019-02-28T19:17:46.174685: step 280, loss 0.282199, accuracy 0.90625, precision 0.8260869565217391, recall 0.9047619047619048
+2019-02-28T19:17:46.514795: step 281, loss 0.229328, accuracy 0.890625, precision 0.7727272727272727, recall 0.8947368421052632
+2019-02-28T19:17:46.857899: step 282, loss 0.192025, accuracy 0.953125, precision 0.9047619047619048, recall 0.95
+2019-02-28T19:17:47.195008: step 283, loss 0.210343, accuracy 0.90625, precision 0.95, recall 0.7916666666666666
+2019-02-28T19:17:47.530123: step 284, loss 0.248404, accuracy 0.890625, precision 0.8235294117647058, recall 0.7777777777777778
+2019-02-28T19:17:47.873205: step 285, loss 0.149197, accuracy 0.953125, precision 0.875, recall 0.9333333333333333
+2019-02-28T19:17:48.212376: step 286, loss 0.122062, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:17:48.596373: step 287, loss 0.197724, accuracy 0.9375, precision 0.9047619047619048, recall 0.9047619047619048
+2019-02-28T19:17:48.964480: step 288, loss 0.258928, accuracy 0.890625, precision 0.8695652173913043, recall 0.8333333333333334
+2019-02-28T19:17:49.341494: step 289, loss 0.0915708, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:17:49.685580: step 290, loss 0.223429, accuracy 0.90625, precision 0.7916666666666666, recall 0.95
+2019-02-28T19:17:50.042798: step 291, loss 0.158469, accuracy 0.90625, precision 0.7619047619047619, recall 0.9411764705882353
+2019-02-28T19:17:50.372949: step 292, loss 0.150675, accuracy 0.953125, precision 0.8235294117647058, recall 1.0
+2019-02-28T19:17:50.740932: step 293, loss 0.135859, accuracy 0.953125, precision 0.8571428571428571, recall 0.9230769230769231
+2019-02-28T19:17:51.100969: step 294, loss 0.187273, accuracy 0.9375, precision 0.85, recall 0.9444444444444444
+2019-02-28T19:17:51.434087: step 295, loss 0.166753, accuracy 0.9375, precision 0.8947368421052632, recall 0.8947368421052632
+2019-02-28T19:17:51.757243: step 296, loss 0.281492, accuracy 0.859375, precision 0.7916666666666666, recall 0.8260869565217391
+2019-02-28T19:17:52.119783: step 297, loss 0.182409, accuracy 0.875, precision 0.7894736842105263, recall 0.7894736842105263
+2019-02-28T19:17:52.460870: step 298, loss 0.168412, accuracy 0.9375, precision 0.875, recall 0.875
+2019-02-28T19:17:52.809937: step 299, loss 0.180679, accuracy 0.953125, precision 0.8947368421052632, recall 0.9444444444444444
+2019-02-28T19:17:53.150536: step 300, loss 0.310598, accuracy 0.875, precision 0.8421052631578947, recall 0.7619047619047619
+2019-02-28T19:17:53.494615: step 301, loss 0.127815, accuracy 0.9375, precision 1.0, recall 0.7894736842105263
+2019-02-28T19:17:53.842684: step 302, loss 0.239354, accuracy 0.90625, precision 0.7222222222222222, recall 0.9285714285714286
+2019-02-28T19:17:54.192280: step 303, loss 0.219067, accuracy 0.90625, precision 0.8, recall 0.8888888888888888
+2019-02-28T19:17:54.534365: step 304, loss 0.141692, accuracy 0.96875, precision 0.875, recall 1.0
+2019-02-28T19:17:54.876450: step 305, loss 0.364613, accuracy 0.875, precision 0.7222222222222222, recall 0.8125
+2019-02-28T19:17:55.210556: step 306, loss 0.210653, accuracy 0.890625, precision 0.6666666666666666, recall 1.0
+2019-02-28T19:17:55.558632: step 307, loss 0.317406, accuracy 0.875, precision 0.7222222222222222, recall 0.8125
+2019-02-28T19:17:55.903250: step 308, loss 0.092969, accuracy 0.96875, precision 0.8888888888888888, recall 1.0
+2019-02-28T19:17:56.255673: step 309, loss 0.254943, accuracy 0.921875, precision 1.0, recall 0.7916666666666666
+2019-02-28T19:17:56.591774: step 310, loss 0.272628, accuracy 0.875, precision 0.7037037037037037, recall 1.0
+2019-02-28T19:17:56.918905: step 311, loss 0.170267, accuracy 0.90625, precision 0.8, recall 0.8888888888888888
+2019-02-28T19:17:57.252033: step 312, loss 0.18632, accuracy 0.90625, precision 0.8181818181818182, recall 0.9
+2019-02-28T19:17:57.575168: step 313, loss 0.235338, accuracy 0.921875, precision 0.8636363636363636, recall 0.9047619047619048
+2019-02-28T19:17:57.918760: step 314, loss 0.321518, accuracy 0.90625, precision 0.8947368421052632, recall 0.8095238095238095
+2019-02-28T19:17:58.260852: step 315, loss 0.159649, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:17:58.412447: step 316, loss 0.258079, accuracy 0.909091, precision 0.75, recall 1.0
+2019-02-28T19:17:58.773481: step 317, loss 0.137758, accuracy 0.953125, precision 0.92, recall 0.9583333333333334
+2019-02-28T19:17:59.117939: step 318, loss 0.135592, accuracy 0.9375, precision 0.9130434782608695, recall 0.9130434782608695
+2019-02-28T19:17:59.498452: step 319, loss 0.248499, accuracy 0.890625, precision 0.9444444444444444, recall 0.7391304347826086
+2019-02-28T19:17:59.895397: step 320, loss 0.104851, accuracy 0.96875, precision 0.9090909090909091, recall 1.0
+2019-02-28T19:18:00.270801: step 321, loss 0.142429, accuracy 0.921875, precision 0.875, recall 0.9130434782608695
+2019-02-28T19:18:00.632833: step 322, loss 0.121963, accuracy 0.921875, precision 0.8888888888888888, recall 0.8421052631578947
+2019-02-28T19:18:01.030768: step 323, loss 0.17907, accuracy 0.921875, precision 0.8421052631578947, recall 0.8888888888888888
+2019-02-28T19:18:01.401207: step 324, loss 0.168785, accuracy 0.9375, precision 0.9090909090909091, recall 0.9090909090909091
+2019-02-28T19:18:01.740320: step 325, loss 0.0860321, accuracy 0.984375, precision 1.0, recall 0.9523809523809523
+2019-02-28T19:18:02.114320: step 326, loss 0.118584, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:18:02.486326: step 327, loss 0.164853, accuracy 0.921875, precision 0.8260869565217391, recall 0.95
+2019-02-28T19:18:02.859694: step 328, loss 0.191222, accuracy 0.90625, precision 0.7894736842105263, recall 0.8823529411764706
+2019-02-28T19:18:03.231700: step 329, loss 0.121505, accuracy 0.953125, precision 0.8947368421052632, recall 0.9444444444444444
+2019-02-28T19:18:03.615888: step 330, loss 0.212153, accuracy 0.921875, precision 0.9523809523809523, recall 0.8333333333333334
+2019-02-28T19:18:04.011029: step 331, loss 0.166611, accuracy 0.953125, precision 0.896551724137931, recall 1.0
+2019-02-28T19:18:04.379048: step 332, loss 0.150579, accuracy 0.921875, precision 0.8823529411764706, recall 0.8333333333333334
+2019-02-28T19:18:04.754058: step 333, loss 0.199523, accuracy 0.90625, precision 0.9, recall 0.8181818181818182
+2019-02-28T19:18:05.124068: step 334, loss 0.1925, accuracy 0.9375, precision 1.0, recall 0.7894736842105263
+2019-02-28T19:18:05.487098: step 335, loss 0.127214, accuracy 0.96875, precision 0.9615384615384616, recall 0.9615384615384616
+2019-02-28T19:18:05.872070: step 336, loss 0.392891, accuracy 0.890625, precision 0.7368421052631579, recall 0.875
+2019-02-28T19:18:06.250222: step 337, loss 0.145357, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:18:06.619128: step 338, loss 0.247734, accuracy 0.921875, precision 0.84, recall 0.9545454545454546
+2019-02-28T19:18:06.988142: step 339, loss 0.174487, accuracy 0.953125, precision 0.8823529411764706, recall 0.9375
+2019-02-28T19:18:07.350728: step 340, loss 0.0901611, accuracy 0.96875, precision 1.0, recall 0.8888888888888888
+2019-02-28T19:18:07.710765: step 341, loss 0.198765, accuracy 0.921875, precision 0.875, recall 0.8235294117647058
+2019-02-28T19:18:08.090534: step 342, loss 0.114338, accuracy 0.96875, precision 0.9523809523809523, recall 0.9523809523809523
+2019-02-28T19:18:08.459793: step 343, loss 0.155996, accuracy 0.953125, precision 1.0, recall 0.8421052631578947
+2019-02-28T19:18:08.831799: step 344, loss 0.136221, accuracy 0.9375, precision 0.8571428571428571, recall 0.9473684210526315
+2019-02-28T19:18:09.210541: step 345, loss 0.187964, accuracy 0.9375, precision 0.75, recall 0.9
+2019-02-28T19:18:09.587983: step 346, loss 0.0954047, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:18:09.978941: step 347, loss 0.157716, accuracy 0.953125, precision 0.92, recall 0.9583333333333334
+2019-02-28T19:18:10.376877: step 348, loss 0.174081, accuracy 0.921875, precision 0.8181818181818182, recall 0.9473684210526315
+2019-02-28T19:18:10.746399: step 349, loss 0.215301, accuracy 0.90625, precision 0.7142857142857143, recall 0.8333333333333334
+2019-02-28T19:18:11.110934: step 350, loss 0.199862, accuracy 0.921875, precision 0.8181818181818182, recall 0.9473684210526315
+2019-02-28T19:18:11.479265: step 351, loss 0.115282, accuracy 0.953125, precision 0.9333333333333333, recall 0.875
+2019-02-28T19:18:11.829829: step 352, loss 0.124208, accuracy 0.953125, precision 0.95, recall 0.9047619047619048
+2019-02-28T19:18:12.171980: step 353, loss 0.1516, accuracy 0.953125, precision 0.9, recall 0.9473684210526315
+2019-02-28T19:18:12.525037: step 354, loss 0.223347, accuracy 0.9375, precision 0.9473684210526315, recall 0.8571428571428571
+2019-02-28T19:18:12.860141: step 355, loss 0.193035, accuracy 0.875, precision 0.8, recall 0.8695652173913043
+2019-02-28T19:18:13.205218: step 356, loss 0.140322, accuracy 0.96875, precision 0.9285714285714286, recall 0.9285714285714286
+2019-02-28T19:18:13.570249: step 357, loss 0.105406, accuracy 0.953125, precision 0.9166666666666666, recall 0.8461538461538461
+2019-02-28T19:18:13.942286: step 358, loss 0.201674, accuracy 0.921875, precision 0.7894736842105263, recall 0.9375
+2019-02-28T19:18:14.337237: step 359, loss 0.242666, accuracy 0.90625, precision 0.8333333333333334, recall 0.8333333333333334
+2019-02-28T19:18:14.694349: step 360, loss 0.289188, accuracy 0.875, precision 0.6666666666666666, recall 0.9333333333333333
+2019-02-28T19:18:15.049400: step 361, loss 0.192222, accuracy 0.9375, precision 0.8636363636363636, recall 0.95
+2019-02-28T19:18:15.396471: step 362, loss 0.181729, accuracy 0.9375, precision 0.8888888888888888, recall 0.8888888888888888
+2019-02-28T19:18:15.758524: step 363, loss 0.131998, accuracy 0.953125, precision 0.8947368421052632, recall 0.9444444444444444
+2019-02-28T19:18:16.129532: step 364, loss 0.184218, accuracy 0.9375, precision 0.95, recall 0.8636363636363636
+2019-02-28T19:18:16.480608: step 365, loss 0.139875, accuracy 0.953125, precision 0.9166666666666666, recall 0.8461538461538461
+2019-02-28T19:18:16.830885: step 366, loss 0.152632, accuracy 0.953125, precision 0.9, recall 0.8181818181818182
+2019-02-28T19:18:17.167982: step 367, loss 0.131252, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:18:17.521039: step 368, loss 0.207741, accuracy 0.9375, precision 0.875, recall 0.875
+2019-02-28T19:18:17.862126: step 369, loss 0.0755636, accuracy 0.984375, precision 0.9333333333333333, recall 1.0
+2019-02-28T19:18:18.225160: step 370, loss 0.215514, accuracy 0.921875, precision 0.8148148148148148, recall 1.0
+2019-02-28T19:18:18.572086: step 371, loss 0.11098, accuracy 0.9375, precision 0.8125, recall 0.9285714285714286
+2019-02-28T19:18:18.919832: step 372, loss 0.354765, accuracy 0.890625, precision 0.7727272727272727, recall 0.8947368421052632
+2019-02-28T19:18:19.254928: step 373, loss 0.097769, accuracy 0.953125, precision 0.95, recall 0.9047619047619048
+2019-02-28T19:18:19.595039: step 374, loss 0.165615, accuracy 0.921875, precision 0.875, recall 0.8235294117647058
+2019-02-28T19:18:19.947607: step 375, loss 0.190163, accuracy 0.90625, precision 0.8, recall 0.9523809523809523
+2019-02-28T19:18:20.297164: step 376, loss 0.151098, accuracy 0.953125, precision 0.9444444444444444, recall 0.8947368421052632
+2019-02-28T19:18:20.639640: step 377, loss 0.13227, accuracy 0.9375, precision 0.8125, recall 0.9285714285714286
+2019-02-28T19:18:20.972267: step 378, loss 0.250284, accuracy 0.890625, precision 0.88, recall 0.8461538461538461
+2019-02-28T19:18:21.298671: step 379, loss 0.046687, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:18:21.658868: step 380, loss 0.17314, accuracy 0.9375, precision 0.92, recall 0.92
+2019-02-28T19:18:22.014430: step 381, loss 0.143529, accuracy 0.953125, precision 1.0, recall 0.7857142857142857
+2019-02-28T19:18:22.357514: step 382, loss 0.213416, accuracy 0.890625, precision 0.6875, recall 0.8461538461538461
+2019-02-28T19:18:22.702591: step 383, loss 0.167233, accuracy 0.921875, precision 0.8636363636363636, recall 0.9047619047619048
+2019-02-28T19:18:23.058999: step 384, loss 0.122123, accuracy 0.984375, precision 0.9545454545454546, recall 1.0
+2019-02-28T19:18:23.404110: step 385, loss 0.1886, accuracy 0.9375, precision 0.8125, recall 0.9285714285714286
+2019-02-28T19:18:23.751182: step 386, loss 0.346686, accuracy 0.875, precision 0.6666666666666666, recall 1.0
+2019-02-28T19:18:24.117205: step 387, loss 0.242889, accuracy 0.921875, precision 0.8, recall 0.8571428571428571
+2019-02-28T19:18:24.452730: step 388, loss 0.235714, accuracy 0.890625, precision 0.631578947368421, recall 1.0
+2019-02-28T19:18:24.795816: step 389, loss 0.147254, accuracy 0.9375, precision 0.9166666666666666, recall 0.9166666666666666
+2019-02-28T19:18:25.131918: step 390, loss 0.141415, accuracy 0.96875, precision 1.0, recall 0.9166666666666666
+2019-02-28T19:18:25.496941: step 391, loss 0.188213, accuracy 0.96875, precision 1.0, recall 0.9130434782608695
+2019-02-28T19:18:25.917060: step 392, loss 0.141711, accuracy 0.96875, precision 0.9583333333333334, recall 0.9583333333333334
+2019-02-28T19:18:26.286441: step 393, loss 0.329223, accuracy 0.90625, precision 0.9130434782608695, recall 0.84
+2019-02-28T19:18:26.656453: step 394, loss 0.385015, accuracy 0.84375, precision 0.8, recall 0.7272727272727273
+2019-02-28T19:18:26.832987: step 395, loss 0.196538, accuracy 0.954545, precision 0.8333333333333334, recall 1.0
+2019-02-28T19:18:27.204993: step 396, loss 0.125665, accuracy 0.96875, precision 0.9047619047619048, recall 1.0
+2019-02-28T19:18:27.568027: step 397, loss 0.127093, accuracy 0.953125, precision 0.8947368421052632, recall 0.9444444444444444
+2019-02-28T19:18:27.937990: step 398, loss 0.140577, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:18:28.334439: step 399, loss 0.129684, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:18:28.724397: step 400, loss 0.0902049, accuracy 0.953125, precision 0.9411764705882353, recall 0.8888888888888888
+2019-02-28T19:18:29.123214: step 401, loss 0.142736, accuracy 0.921875, precision 0.8125, recall 0.8666666666666667
+2019-02-28T19:18:29.516163: step 402, loss 0.152348, accuracy 0.9375, precision 0.8636363636363636, recall 0.95
+2019-02-28T19:18:29.912109: step 403, loss 0.181229, accuracy 0.9375, precision 0.9090909090909091, recall 0.9090909090909091
+2019-02-28T19:18:30.342455: step 404, loss 0.204758, accuracy 0.90625, precision 0.8095238095238095, recall 0.8947368421052632
+2019-02-28T19:18:30.744380: step 405, loss 0.122424, accuracy 0.953125, precision 0.9411764705882353, recall 0.8888888888888888
+2019-02-28T19:18:31.129350: step 406, loss 0.192447, accuracy 0.875, precision 0.782608695652174, recall 0.8571428571428571
+2019-02-28T19:18:31.524723: step 407, loss 0.17939, accuracy 0.90625, precision 0.8, recall 0.9523809523809523
+2019-02-28T19:18:31.966541: step 408, loss 0.145679, accuracy 0.9375, precision 0.8636363636363636, recall 0.95
+2019-02-28T19:18:32.377715: step 409, loss 0.0734142, accuracy 0.984375, precision 1.0, recall 0.9583333333333334
+2019-02-28T19:18:32.792862: step 410, loss 0.126772, accuracy 0.984375, precision 1.0, recall 0.9545454545454546
+2019-02-28T19:18:33.159889: step 411, loss 0.124468, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:18:33.520832: step 412, loss 0.105054, accuracy 0.96875, precision 0.9375, recall 0.9375
+2019-02-28T19:18:33.883865: step 413, loss 0.112749, accuracy 0.96875, precision 1.0, recall 0.9259259259259259
+2019-02-28T19:18:34.231937: step 414, loss 0.21012, accuracy 0.9375, precision 0.8421052631578947, recall 0.9411764705882353
+2019-02-28T19:18:34.593394: step 415, loss 0.0575704, accuracy 0.984375, precision 1.0, recall 0.9545454545454546
+2019-02-28T19:18:34.938666: step 416, loss 0.129368, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:18:35.277937: step 417, loss 0.270336, accuracy 0.890625, precision 0.9090909090909091, recall 0.8
+2019-02-28T19:18:35.621038: step 418, loss 0.125719, accuracy 0.9375, precision 0.7857142857142857, recall 0.9166666666666666
+2019-02-28T19:18:35.971102: step 419, loss 0.157697, accuracy 0.953125, precision 0.85, recall 1.0
+2019-02-28T19:18:36.359573: step 420, loss 0.106759, accuracy 0.96875, precision 0.9, recall 1.0
+2019-02-28T19:18:36.786479: step 421, loss 0.162875, accuracy 0.921875, precision 0.7727272727272727, recall 1.0
+2019-02-28T19:18:37.189623: step 422, loss 0.131305, accuracy 0.953125, precision 0.8666666666666667, recall 0.9285714285714286
+2019-02-28T19:18:37.603515: step 423, loss 0.190664, accuracy 0.90625, precision 0.7, recall 1.0
+2019-02-28T19:18:38.006904: step 424, loss 0.165879, accuracy 0.9375, precision 0.8666666666666667, recall 0.8666666666666667
+2019-02-28T19:18:38.391946: step 425, loss 0.142197, accuracy 0.953125, precision 0.8571428571428571, recall 0.9230769230769231
+2019-02-28T19:18:38.748014: step 426, loss 0.0840555, accuracy 0.984375, precision 0.96, recall 1.0
+2019-02-28T19:18:39.120032: step 427, loss 0.124021, accuracy 0.953125, precision 1.0, recall 0.8846153846153846
+2019-02-28T19:18:39.504005: step 428, loss 0.0873676, accuracy 0.96875, precision 1.0, recall 0.9230769230769231
+2019-02-28T19:18:39.913909: step 429, loss 0.1467, accuracy 0.953125, precision 0.9545454545454546, recall 0.9130434782608695
+2019-02-28T19:18:40.303017: step 430, loss 0.117155, accuracy 0.9375, precision 0.96, recall 0.8888888888888888
+2019-02-28T19:18:40.680011: step 431, loss 0.215745, accuracy 0.9375, precision 0.8947368421052632, recall 0.8947368421052632
+2019-02-28T19:18:41.049055: step 432, loss 0.14677, accuracy 0.9375, precision 0.8125, recall 0.9285714285714286
+2019-02-28T19:18:41.423063: step 433, loss 0.0846002, accuracy 0.984375, precision 1.0, recall 0.9285714285714286
+2019-02-28T19:18:41.791495: step 434, loss 0.220452, accuracy 0.890625, precision 0.782608695652174, recall 0.9
+2019-02-28T19:18:42.202399: step 435, loss 0.192148, accuracy 0.9375, precision 0.7777777777777778, recall 0.7777777777777778
+2019-02-28T19:18:42.590369: step 436, loss 0.136937, accuracy 0.953125, precision 0.8695652173913043, recall 1.0
+2019-02-28T19:18:42.963387: step 437, loss 0.0934271, accuracy 0.9375, precision 0.8235294117647058, recall 0.9333333333333333
+2019-02-28T19:18:43.330821: step 438, loss 0.1423, accuracy 0.90625, precision 0.6842105263157895, recall 1.0
+2019-02-28T19:18:43.706816: step 439, loss 0.188903, accuracy 0.9375, precision 0.9411764705882353, recall 0.8421052631578947
+2019-02-28T19:18:44.066853: step 440, loss 0.097213, accuracy 0.96875, precision 0.9411764705882353, recall 0.9411764705882353
+2019-02-28T19:18:44.444843: step 441, loss 0.134549, accuracy 0.96875, precision 0.9473684210526315, recall 0.9473684210526315
+2019-02-28T19:18:44.815051: step 442, loss 0.186869, accuracy 0.90625, precision 0.84, recall 0.9130434782608695
+2019-02-28T19:18:45.179075: step 443, loss 0.14663, accuracy 0.921875, precision 0.8421052631578947, recall 0.8888888888888888
+2019-02-28T19:18:45.539113: step 444, loss 0.0429471, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:18:45.902162: step 445, loss 0.0901637, accuracy 0.96875, precision 0.9, recall 1.0
+2019-02-28T19:18:46.265308: step 446, loss 0.123658, accuracy 0.96875, precision 1.0, recall 0.9333333333333333
+2019-02-28T19:18:46.617808: step 447, loss 0.190252, accuracy 0.921875, precision 0.9166666666666666, recall 0.7333333333333333
+2019-02-28T19:18:46.961893: step 448, loss 0.115222, accuracy 0.984375, precision 1.0, recall 0.9523809523809523
+2019-02-28T19:18:47.321930: step 449, loss 0.0848293, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:18:47.677979: step 450, loss 0.129132, accuracy 0.96875, precision 0.875, recall 1.0
+2019-02-28T19:18:48.038016: step 451, loss 0.119083, accuracy 0.9375, precision 0.8235294117647058, recall 0.9333333333333333
+2019-02-28T19:18:48.400054: step 452, loss 0.125322, accuracy 0.9375, precision 0.8695652173913043, recall 0.9523809523809523
+2019-02-28T19:18:48.752117: step 453, loss 0.205402, accuracy 0.875, precision 0.75, recall 0.8333333333333334
+2019-02-28T19:18:49.117141: step 454, loss 0.096511, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:18:49.507193: step 455, loss 0.157555, accuracy 0.890625, precision 0.7647058823529411, recall 0.8125
+2019-02-28T19:18:49.861265: step 456, loss 0.0592126, accuracy 0.984375, precision 0.9333333333333333, recall 1.0
+2019-02-28T19:18:50.222300: step 457, loss 0.137125, accuracy 0.9375, precision 0.8181818181818182, recall 1.0
+2019-02-28T19:18:50.628215: step 458, loss 0.127442, accuracy 0.953125, precision 1.0, recall 0.896551724137931
+2019-02-28T19:18:50.985264: step 459, loss 0.139976, accuracy 0.953125, precision 0.9444444444444444, recall 0.8947368421052632
+2019-02-28T19:18:51.313393: step 460, loss 0.0808242, accuracy 0.96875, precision 0.9047619047619048, recall 1.0
+2019-02-28T19:18:51.680715: step 461, loss 0.0835453, accuracy 0.96875, precision 1.0, recall 0.9090909090909091
+2019-02-28T19:18:52.016817: step 462, loss 0.182576, accuracy 0.921875, precision 0.75, recall 0.9230769230769231
+2019-02-28T19:18:52.353915: step 463, loss 0.0980216, accuracy 0.96875, precision 1.0, recall 0.8947368421052632
+2019-02-28T19:18:52.713952: step 464, loss 0.135516, accuracy 0.9375, precision 0.8095238095238095, recall 1.0
+2019-02-28T19:18:53.031616: step 465, loss 0.162006, accuracy 0.984375, precision 1.0, recall 0.9523809523809523
+2019-02-28T19:18:53.405616: step 466, loss 0.063556, accuracy 0.984375, precision 0.9285714285714286, recall 1.0
+2019-02-28T19:18:53.769073: step 467, loss 0.169464, accuracy 0.9375, precision 0.9, recall 0.9
+2019-02-28T19:18:54.114152: step 468, loss 0.161178, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:18:54.457239: step 469, loss 0.255076, accuracy 0.875, precision 0.7083333333333334, recall 0.9444444444444444
+2019-02-28T19:18:54.885116: step 470, loss 0.128945, accuracy 0.9375, precision 0.75, recall 0.9
+2019-02-28T19:18:55.271071: step 471, loss 0.160212, accuracy 0.9375, precision 0.8095238095238095, recall 1.0
+2019-02-28T19:18:55.671963: step 472, loss 0.196619, accuracy 0.90625, precision 0.8, recall 0.9523809523809523
+2019-02-28T19:18:56.056933: step 473, loss 0.10881, accuracy 0.984375, precision 0.95, recall 1.0
+2019-02-28T19:18:56.223874: step 474, loss 0.0760435, accuracy 0.954545, precision 0.8888888888888888, recall 1.0
+2019-02-28T19:18:56.589385: step 475, loss 0.13582, accuracy 0.9375, precision 0.9523809523809523, recall 0.8695652173913043
+2019-02-28T19:18:56.960399: step 476, loss 0.107994, accuracy 0.953125, precision 1.0, recall 0.896551724137931
+2019-02-28T19:18:57.321385: step 477, loss 0.142956, accuracy 0.921875, precision 0.9545454545454546, recall 0.84
+2019-02-28T19:18:57.739074: step 478, loss 0.0977262, accuracy 0.953125, precision 0.9545454545454546, recall 0.9130434782608695
+2019-02-28T19:18:58.157955: step 479, loss 0.134173, accuracy 0.9375, precision 0.9473684210526315, recall 0.8571428571428571
+2019-02-28T19:18:58.589915: step 480, loss 0.0916237, accuracy 0.953125, precision 0.8235294117647058, recall 1.0
+2019-02-28T19:18:59.067637: step 481, loss 0.13244, accuracy 0.9375, precision 0.8666666666666667, recall 0.8666666666666667
+2019-02-28T19:18:59.495493: step 482, loss 0.0980174, accuracy 0.984375, precision 0.9375, recall 1.0
+2019-02-28T19:18:59.911389: step 483, loss 0.0661117, accuracy 0.984375, precision 0.9473684210526315, recall 1.0
+2019-02-28T19:19:00.321292: step 484, loss 0.122356, accuracy 0.96875, precision 0.8181818181818182, recall 1.0
+2019-02-28T19:19:00.722221: step 485, loss 0.124687, accuracy 0.953125, precision 0.8571428571428571, recall 1.0
+2019-02-28T19:19:01.119159: step 486, loss 0.0702144, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:01.534050: step 487, loss 0.260825, accuracy 0.90625, precision 0.6842105263157895, recall 1.0
+2019-02-28T19:19:01.927006: step 488, loss 0.0656408, accuracy 0.984375, precision 0.9545454545454546, recall 1.0
+2019-02-28T19:19:02.313895: step 489, loss 0.104811, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:19:02.727794: step 490, loss 0.136892, accuracy 0.9375, precision 0.8666666666666667, recall 0.8666666666666667
+2019-02-28T19:19:03.129124: step 491, loss 0.0632116, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:03.530995: step 492, loss 0.131685, accuracy 0.9375, precision 0.9523809523809523, recall 0.8695652173913043
+2019-02-28T19:19:03.915967: step 493, loss 0.128502, accuracy 0.96875, precision 1.0, recall 0.9
+2019-02-28T19:19:04.317892: step 494, loss 0.0976922, accuracy 0.96875, precision 0.9375, recall 0.9375
+2019-02-28T19:19:04.697253: step 495, loss 0.111828, accuracy 0.96875, precision 0.9411764705882353, recall 0.9411764705882353
+2019-02-28T19:19:05.081071: step 496, loss 0.234051, accuracy 0.890625, precision 1.0, recall 0.72
+2019-02-28T19:19:05.464047: step 497, loss 0.0871888, accuracy 0.984375, precision 1.0, recall 0.9565217391304348
+2019-02-28T19:19:05.862981: step 498, loss 0.0645176, accuracy 0.984375, precision 1.0, recall 0.9545454545454546
+2019-02-28T19:19:06.240907: step 499, loss 0.148954, accuracy 0.96875, precision 0.9473684210526315, recall 0.9473684210526315
+2019-02-28T19:19:06.615904: step 500, loss 0.0483351, accuracy 1, precision 1.0, recall 1.0
+
+Evaluation:
+[[107  59]
+ [ 10 381]]
+2019-02-28T19:19:07.532993: step 500, loss 0.343942, accuracy 0.876122, precision 0.6445783132530121, recall 0.9145299145299145
+
+Saved model checkpoint to C:\Users\aless\Documents\University of Illinois at Chicago\Spring 2019\Project\runs\1551402962\checkpoints\model-500
+
+2019-02-28T19:19:08.101476: step 501, loss 0.104922, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:19:08.511381: step 502, loss 0.0759899, accuracy 0.984375, precision 0.9090909090909091, recall 1.0
+2019-02-28T19:19:08.905618: step 503, loss 0.210295, accuracy 0.921875, precision 0.8, recall 1.0
+2019-02-28T19:19:09.314525: step 504, loss 0.0379976, accuracy 0.984375, precision 0.9473684210526315, recall 1.0
+2019-02-28T19:19:09.703486: step 505, loss 0.139182, accuracy 0.96875, precision 0.9545454545454546, recall 0.9545454545454546
+2019-02-28T19:19:10.091805: step 506, loss 0.151516, accuracy 0.921875, precision 0.7222222222222222, recall 1.0
+2019-02-28T19:19:10.487325: step 507, loss 0.105017, accuracy 0.953125, precision 0.8666666666666667, recall 0.9285714285714286
+2019-02-28T19:19:10.876299: step 508, loss 0.143308, accuracy 0.953125, precision 0.9473684210526315, recall 0.9
+2019-02-28T19:19:11.292135: step 509, loss 0.0373029, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:11.704950: step 510, loss 0.156752, accuracy 0.90625, precision 0.9523809523809523, recall 0.8
+2019-02-28T19:19:12.121835: step 511, loss 0.0857913, accuracy 0.96875, precision 1.0, recall 0.875
+2019-02-28T19:19:12.517624: step 512, loss 0.0823521, accuracy 0.953125, precision 0.9523809523809523, recall 0.9090909090909091
+2019-02-28T19:19:12.926313: step 513, loss 0.106624, accuracy 0.953125, precision 1.0, recall 0.8636363636363636
+2019-02-28T19:19:13.354377: step 514, loss 0.0665666, accuracy 0.96875, precision 0.9, recall 1.0
+2019-02-28T19:19:13.753310: step 515, loss 0.188411, accuracy 0.9375, precision 1.0, recall 0.8095238095238095
+2019-02-28T19:19:14.138281: step 516, loss 0.0645178, accuracy 0.984375, precision 0.9523809523809523, recall 1.0
+2019-02-28T19:19:14.528246: step 517, loss 0.114936, accuracy 0.9375, precision 0.7777777777777778, recall 1.0
+2019-02-28T19:19:14.921740: step 518, loss 0.119814, accuracy 0.953125, precision 0.9130434782608695, recall 0.9545454545454546
+2019-02-28T19:19:15.348912: step 519, loss 0.140489, accuracy 0.9375, precision 0.8518518518518519, recall 1.0
+2019-02-28T19:19:15.762376: step 520, loss 0.0793911, accuracy 0.96875, precision 0.9047619047619048, recall 1.0
+2019-02-28T19:19:16.153998: step 521, loss 0.086713, accuracy 0.984375, precision 0.95, recall 1.0
+2019-02-28T19:19:16.572881: step 522, loss 0.113813, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:19:16.955858: step 523, loss 0.111064, accuracy 0.96875, precision 0.9333333333333333, recall 0.9333333333333333
+2019-02-28T19:19:17.353186: step 524, loss 0.061212, accuracy 0.984375, precision 1.0, recall 0.96
+2019-02-28T19:19:17.735173: step 525, loss 0.0576397, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:18.125130: step 526, loss 0.122654, accuracy 0.96875, precision 0.9523809523809523, recall 0.9523809523809523
+2019-02-28T19:19:18.504121: step 527, loss 0.220434, accuracy 0.890625, precision 0.9230769230769231, recall 0.8275862068965517
+2019-02-28T19:19:18.904056: step 528, loss 0.185306, accuracy 0.9375, precision 0.875, recall 0.9545454545454546
+2019-02-28T19:19:19.281049: step 529, loss 0.0906144, accuracy 0.96875, precision 1.0, recall 0.9230769230769231
+2019-02-28T19:19:19.676090: step 530, loss 0.0800163, accuracy 0.96875, precision 0.8888888888888888, recall 1.0
+2019-02-28T19:19:20.047183: step 531, loss 0.187349, accuracy 0.921875, precision 0.9047619047619048, recall 0.8636363636363636
+2019-02-28T19:19:20.428167: step 532, loss 0.183226, accuracy 0.90625, precision 0.8636363636363636, recall 0.8636363636363636
+2019-02-28T19:19:20.806678: step 533, loss 0.115061, accuracy 0.96875, precision 0.9565217391304348, recall 0.9565217391304348
+2019-02-28T19:19:21.188538: step 534, loss 0.107077, accuracy 0.96875, precision 0.9166666666666666, recall 0.9166666666666666
+2019-02-28T19:19:21.591991: step 535, loss 0.145917, accuracy 0.9375, precision 0.8947368421052632, recall 0.8947368421052632
+2019-02-28T19:19:21.982952: step 536, loss 0.0589228, accuracy 0.96875, precision 0.9444444444444444, recall 0.9444444444444444
+2019-02-28T19:19:22.381894: step 537, loss 0.123306, accuracy 0.953125, precision 0.9411764705882353, recall 0.8888888888888888
+2019-02-28T19:19:22.770837: step 538, loss 0.191251, accuracy 0.9375, precision 0.9, recall 0.9
+2019-02-28T19:19:23.201685: step 539, loss 0.0769262, accuracy 0.984375, precision 0.9411764705882353, recall 1.0
+2019-02-28T19:19:23.619792: step 540, loss 0.10087, accuracy 0.96875, precision 0.9523809523809523, recall 0.9523809523809523
+2019-02-28T19:19:24.011117: step 541, loss 0.213868, accuracy 0.953125, precision 0.8421052631578947, recall 1.0
+2019-02-28T19:19:24.458920: step 542, loss 0.0638852, accuracy 0.984375, precision 0.9285714285714286, recall 1.0
+2019-02-28T19:19:24.834915: step 543, loss 0.101607, accuracy 0.9375, precision 0.8095238095238095, recall 1.0
+2019-02-28T19:19:25.213048: step 544, loss 0.204552, accuracy 0.890625, precision 0.75, recall 0.8823529411764706
+2019-02-28T19:19:25.597020: step 545, loss 0.129761, accuracy 0.953125, precision 0.9583333333333334, recall 0.92
+2019-02-28T19:19:25.987975: step 546, loss 0.107819, accuracy 0.953125, precision 0.9166666666666666, recall 0.9565217391304348
+2019-02-28T19:19:26.371908: step 547, loss 0.109028, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:26.741921: step 548, loss 0.07121, accuracy 0.984375, precision 1.0, recall 0.9523809523809523
+2019-02-28T19:19:27.122900: step 549, loss 0.137941, accuracy 0.953125, precision 0.88, recall 1.0
+2019-02-28T19:19:27.503882: step 550, loss 0.123185, accuracy 0.96875, precision 1.0, recall 0.9166666666666666
+2019-02-28T19:19:27.874895: step 551, loss 0.104485, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:19:28.268846: step 552, loss 0.12683, accuracy 0.9375, precision 0.8823529411764706, recall 0.8823529411764706
+2019-02-28T19:19:28.437402: step 553, loss 0.0489066, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:28.830351: step 554, loss 0.105564, accuracy 0.96875, precision 1.0, recall 0.92
+2019-02-28T19:19:29.233276: step 555, loss 0.0958831, accuracy 0.984375, precision 0.95, recall 1.0
+2019-02-28T19:19:29.625229: step 556, loss 0.0459547, accuracy 0.984375, precision 1.0, recall 0.9545454545454546
+2019-02-28T19:19:29.999234: step 557, loss 0.0482923, accuracy 0.984375, precision 0.9230769230769231, recall 1.0
+2019-02-28T19:19:30.388704: step 558, loss 0.108915, accuracy 0.953125, precision 0.9047619047619048, recall 0.95
+2019-02-28T19:19:30.772678: step 559, loss 0.124858, accuracy 0.96875, precision 0.92, recall 1.0
+2019-02-28T19:19:31.157976: step 560, loss 0.18652, accuracy 0.9375, precision 0.7777777777777778, recall 1.0
+2019-02-28T19:19:31.547367: step 561, loss 0.105938, accuracy 0.96875, precision 0.9130434782608695, recall 1.0
+2019-02-28T19:19:31.923061: step 562, loss 0.0531784, accuracy 0.984375, precision 0.9473684210526315, recall 1.0
+2019-02-28T19:19:32.313684: step 563, loss 0.0808405, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:19:32.695888: step 564, loss 0.169685, accuracy 0.9375, precision 0.9047619047619048, recall 0.9047619047619048
+2019-02-28T19:19:33.077866: step 565, loss 0.090335, accuracy 0.953125, precision 0.8636363636363636, recall 1.0
+2019-02-28T19:19:33.493945: step 566, loss 0.158096, accuracy 0.9375, precision 1.0, recall 0.84
+2019-02-28T19:19:33.920807: step 567, loss 0.0428988, accuracy 0.984375, precision 1.0, recall 0.9642857142857143
+2019-02-28T19:19:34.335697: step 568, loss 0.113354, accuracy 0.953125, precision 0.96, recall 0.9230769230769231
+2019-02-28T19:19:34.747597: step 569, loss 0.135118, accuracy 0.953125, precision 0.8888888888888888, recall 0.9411764705882353
+2019-02-28T19:19:35.214152: step 570, loss 0.0961152, accuracy 0.96875, precision 1.0, recall 0.8666666666666667
+2019-02-28T19:19:35.706793: step 571, loss 0.185289, accuracy 0.953125, precision 0.9047619047619048, recall 0.95
+2019-02-28T19:19:36.275785: step 572, loss 0.177205, accuracy 0.9375, precision 0.85, recall 0.9444444444444444
+2019-02-28T19:19:36.809579: step 573, loss 0.0375126, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:37.242421: step 574, loss 0.056717, accuracy 0.984375, precision 0.9333333333333333, recall 1.0
+2019-02-28T19:19:37.638363: step 575, loss 0.0967312, accuracy 0.953125, precision 0.9545454545454546, recall 0.9130434782608695
+2019-02-28T19:19:38.082184: step 576, loss 0.0802757, accuracy 0.96875, precision 0.875, recall 1.0
+2019-02-28T19:19:38.472141: step 577, loss 0.146864, accuracy 0.921875, precision 0.8125, recall 0.8666666666666667
+2019-02-28T19:19:38.883115: step 578, loss 0.0765993, accuracy 0.984375, precision 0.9444444444444444, recall 1.0
+2019-02-28T19:19:39.285047: step 579, loss 0.0824248, accuracy 0.953125, precision 0.875, recall 1.0
+2019-02-28T19:19:39.684169: step 580, loss 0.0536718, accuracy 0.984375, precision 0.9523809523809523, recall 1.0
+2019-02-28T19:19:40.115029: step 581, loss 0.0810244, accuracy 0.96875, precision 0.8888888888888888, recall 1.0
+2019-02-28T19:19:40.547872: step 582, loss 0.0762694, accuracy 0.96875, precision 0.96, recall 0.96
+2019-02-28T19:19:40.986652: step 583, loss 0.140346, accuracy 0.9375, precision 0.9523809523809523, recall 0.8695652173913043
+2019-02-28T19:19:41.443430: step 584, loss 0.106749, accuracy 0.953125, precision 0.9285714285714286, recall 0.8666666666666667
+2019-02-28T19:19:41.877270: step 585, loss 0.0319289, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:42.310621: step 586, loss 0.0603967, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:19:42.711549: step 587, loss 0.0672337, accuracy 0.96875, precision 1.0, recall 0.9090909090909091
+2019-02-28T19:19:43.132426: step 588, loss 0.0851665, accuracy 0.984375, precision 1.0, recall 0.9523809523809523
+2019-02-28T19:19:43.567171: step 589, loss 0.105651, accuracy 0.96875, precision 0.9333333333333333, recall 0.9333333333333333
+2019-02-28T19:19:43.977093: step 590, loss 0.0976515, accuracy 0.984375, precision 0.9473684210526315, recall 1.0
+2019-02-28T19:19:44.387930: step 591, loss 0.056891, accuracy 0.984375, precision 0.9523809523809523, recall 1.0
+2019-02-28T19:19:44.778172: step 592, loss 0.11451, accuracy 0.921875, precision 0.8, recall 0.8571428571428571
+2019-02-28T19:19:45.184086: step 593, loss 0.117758, accuracy 0.96875, precision 0.9047619047619048, recall 1.0
+2019-02-28T19:19:45.604971: step 594, loss 0.107384, accuracy 0.96875, precision 0.9090909090909091, recall 1.0
+2019-02-28T19:19:45.997920: step 595, loss 0.0693091, accuracy 0.984375, precision 0.9375, recall 1.0
+2019-02-28T19:19:46.404841: step 596, loss 0.247999, accuracy 0.921875, precision 0.8695652173913043, recall 0.9090909090909091
+2019-02-28T19:19:46.802849: step 597, loss 0.0837343, accuracy 0.96875, precision 0.9523809523809523, recall 0.9523809523809523
+2019-02-28T19:19:47.200783: step 598, loss 0.0780942, accuracy 0.96875, precision 0.8947368421052632, recall 1.0
+2019-02-28T19:19:47.624003: step 599, loss 0.100608, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:19:48.037915: step 600, loss 0.0807407, accuracy 0.96875, precision 1.0, recall 0.9090909090909091
+2019-02-28T19:19:48.417898: step 601, loss 0.138418, accuracy 0.9375, precision 0.9047619047619048, recall 0.9047619047619048
+2019-02-28T19:19:48.789904: step 602, loss 0.0868452, accuracy 0.96875, precision 0.9629629629629629, recall 0.9629629629629629
+2019-02-28T19:19:49.161910: step 603, loss 0.0805556, accuracy 0.984375, precision 1.0, recall 0.9285714285714286
+2019-02-28T19:19:49.562351: step 604, loss 0.117755, accuracy 0.96875, precision 1.0, recall 0.8947368421052632
+2019-02-28T19:19:49.911774: step 605, loss 0.0508722, accuracy 0.984375, precision 0.9333333333333333, recall 1.0
+2019-02-28T19:19:50.321679: step 606, loss 0.104113, accuracy 0.96875, precision 0.92, recall 1.0
+2019-02-28T19:19:50.729137: step 607, loss 0.0342702, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:51.115174: step 608, loss 0.0835834, accuracy 0.984375, precision 1.0, recall 0.9411764705882353
+2019-02-28T19:19:51.487763: step 609, loss 0.0585734, accuracy 0.984375, precision 1.0, recall 0.9444444444444444
+2019-02-28T19:19:51.897238: step 610, loss 0.126168, accuracy 0.96875, precision 0.95, recall 0.95
+2019-02-28T19:19:52.282238: step 611, loss 0.306054, accuracy 0.875, precision 0.6111111111111112, recall 0.9166666666666666
+2019-02-28T19:19:52.664725: step 612, loss 0.122221, accuracy 0.9375, precision 0.8260869565217391, recall 1.0
+2019-02-28T19:19:53.060814: step 613, loss 0.0439982, accuracy 0.984375, precision 1.0, recall 0.95
+2019-02-28T19:19:53.443014: step 614, loss 0.0848734, accuracy 0.96875, precision 1.0, recall 0.9047619047619048
+2019-02-28T19:19:53.814021: step 615, loss 0.0581657, accuracy 0.984375, precision 1.0, recall 0.9444444444444444
+2019-02-28T19:19:54.180042: step 616, loss 0.0854568, accuracy 0.96875, precision 1.0, recall 0.875
+2019-02-28T19:19:54.562427: step 617, loss 0.165364, accuracy 0.953125, precision 0.95, recall 0.9047619047619048
+2019-02-28T19:19:54.926705: step 618, loss 0.225064, accuracy 0.921875, precision 0.8095238095238095, recall 0.9444444444444444
+2019-02-28T19:19:55.322802: step 619, loss 0.0461969, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:55.691831: step 620, loss 0.116006, accuracy 0.953125, precision 0.8421052631578947, recall 1.0
+2019-02-28T19:19:56.059378: step 621, loss 0.0531468, accuracy 0.984375, precision 0.9523809523809523, recall 1.0
+2019-02-28T19:19:56.426309: step 622, loss 0.104458, accuracy 0.953125, precision 0.88, recall 1.0
+2019-02-28T19:19:56.795812: step 623, loss 0.164152, accuracy 0.9375, precision 0.9473684210526315, recall 0.8571428571428571
+2019-02-28T19:19:57.182744: step 624, loss 0.0305709, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:19:57.545774: step 625, loss 0.0927718, accuracy 0.96875, precision 0.9285714285714286, recall 0.9285714285714286
+2019-02-28T19:19:57.892359: step 626, loss 0.09057, accuracy 0.953125, precision 0.9310344827586207, recall 0.9642857142857143
+2019-02-28T19:19:58.250401: step 627, loss 0.151476, accuracy 0.96875, precision 0.9583333333333334, recall 0.9583333333333334
+2019-02-28T19:19:58.619414: step 628, loss 0.0825179, accuracy 0.96875, precision 0.8823529411764706, recall 1.0
+2019-02-28T19:19:58.989456: step 629, loss 0.0382512, accuracy 0.984375, precision 0.9375, recall 1.0
+2019-02-28T19:19:59.344788: step 630, loss 0.164405, accuracy 0.9375, precision 0.8888888888888888, recall 0.8888888888888888
+2019-02-28T19:19:59.745245: step 631, loss 0.0744665, accuracy 0.984375, precision 0.9523809523809523, recall 1.0
+2019-02-28T19:19:59.902823: step 632, loss 0.101848, accuracy 0.954545, precision 0.9, recall 1.0
+2019-02-28T19:20:00.339706: step 633, loss 0.14105, accuracy 0.953125, precision 0.875, recall 0.9333333333333333
+2019-02-28T19:20:00.737642: step 634, loss 0.07538, accuracy 0.984375, precision 1.0, recall 0.9565217391304348
+2019-02-28T19:20:01.134581: step 635, loss 0.0515557, accuracy 0.984375, precision 0.9583333333333334, recall 1.0
+2019-02-28T19:20:01.507101: step 636, loss 0.106878, accuracy 0.953125, precision 0.9090909090909091, recall 0.9523809523809523
+2019-02-28T19:20:01.881103: step 637, loss 0.107609, accuracy 0.953125, precision 0.9473684210526315, recall 0.9
+2019-02-28T19:20:02.272057: step 638, loss 0.068581, accuracy 0.984375, precision 0.95, recall 1.0
+2019-02-28T19:20:02.655032: step 639, loss 0.0798493, accuracy 0.96875, precision 0.9166666666666666, recall 1.0
+2019-02-28T19:20:03.053966: step 640, loss 0.0834786, accuracy 0.96875, precision 1.0, recall 0.9090909090909091
+2019-02-28T19:20:03.491795: step 641, loss 0.0344028, accuracy 1, precision 1.0, recall 1.0
+2019-02-28T19:20:03.899705: step 642, loss 0.102109, accuracy 0.9375, precision 0.9523809523809523, recall 0.8695652173913043
+2019-02-28T19:20:04.307866: step 643, loss 0.0435537, accuracy 0.984375, precision 0.9565217391304348, recall 1.0
+2019-02-28T19:20:04.724860: step 644, loss 0.0498601, accuracy 0.984375, precision 0.9333333333333333, recall 1.0
+
+Process finished with exit code -1
