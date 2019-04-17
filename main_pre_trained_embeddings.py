@@ -20,8 +20,8 @@ CONFIDENCE_THRESHOLD = 0.9999
 # Embedding = "Bert"
 # Embedding = "ELMo"
 # Embedding = "Doc2Vec"
-Embedding = "word2vec"
-# Embedding = "GloVe"
+# Embedding = "word2vec"
+Embedding = "GloVe"
 # Embedding = "fastText"
 # import bert
 
@@ -185,7 +185,6 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
 class TextCNN(object):
 
     def initialize(self, x_text):
-
         if Embedding == "Bert":
             import bert_modeling
             import bert_optimization
@@ -227,7 +226,6 @@ class TextCNN(object):
             from gensim.models import KeyedVectors
 
         embeddings = []
-        x_text = []
         word2idx = {}
 
 
@@ -297,17 +295,19 @@ class TextCNN(object):
         self, sequence_length, num_classes, vocab_size,
         embedding_size, filter_sizes, num_filters, text, l2_reg_lambda=0.0, binary=True, italian=False):
         lang = 1 if italian else 0
+
+
         # Placeholders for input, output and dropout
-        self.n = tf.placeholder(tf.int32, name="n"+str(lang))
-        self.input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x"+str(lang))
-        self.unlabeled_training = tf.placeholder(tf.int32, [None, sequence_length], name="x_unlabeled"+str(lang))
-        self.y_unlabeled = tf.placeholder(tf.float32, [None, num_classes], name="y_unlabeled"+str(lang))
-        self.x_text = tf.placeholder(tf.string, [None, sequence_length], name="input_x"+str(lang))
-        self.input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y"+str(lang))
-        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob"+str(lang))
+        self.n = tf.placeholder(tf.int32, name="n")
+        self.input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x")
+        self.unlabeled_training = tf.placeholder(tf.int32, [None, sequence_length], name="x_unlabeled")
+        self.y_unlabeled = tf.placeholder(tf.float32, [None, num_classes], name="y_unlabeled")
+        self.x_text = tf.placeholder(tf.string, [None, sequence_length], name="input_x")
+        self.input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y")
+        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
         self.binary = binary
-        self.results = tf.Variable(tf.zeros([1, sequence_length], tf.int32), name="co_training"+str(lang))
-        self.results_y = tf.Variable(tf.zeros([1, 2], tf.float32), name="co_training"+str(lang))
+        self.results = tf.Variable(tf.zeros([1, sequence_length], tf.int32), name="co_training")
+        self.results_y = tf.Variable(tf.zeros([1, 2], tf.float32), name="co_training")
         # Keeping track of l2 regularization loss (optional)
         l2_loss = tf.constant(0.0)
 
@@ -316,7 +316,7 @@ class TextCNN(object):
 
 
         # Embedding layer
-        with tf.device('/gpu:0'), tf.name_scope("embedding"):
+        with tf.name_scope("embedding"):
             global weights
             global embeddings
             global Embedding

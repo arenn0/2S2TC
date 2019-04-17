@@ -1,7 +1,9 @@
 from googletrans import Translator
+import copy
 
-file = open("_", "r", encoding='utf8')
-file_write = open("_", "w", encoding='utf8')
+
+file = open("CrisisLexT26_output.txt", "r", encoding='utf8')
+file_write = open("CrisisLexT26_english_to_italian_output.txt", "w", encoding='utf8')
 # print("Hello")
 lines = []
 index = 0
@@ -15,7 +17,7 @@ for row in lines:
     newrow = ""
     try:
         # translate the 'text' column
-        translated = translator.translate(row, dest='en')
+        translated = translator.translate(row, dest='it')
         newrow = translated.text
     except Exception as e:
         print(str(e))
