@@ -14,14 +14,14 @@ TRAIN = True
 # CONFIDENCE_THRESHOLD = 0.99999 Good with 50 epochs
 # CONFIDENCE_THRESHOLD = 0.999999 Good with 1 epoch (too few added to labeled?)
 # CONFIDENCE_THRESHOLD = 0.999995 Not good with one epoch of training(too many, check classification)
-CONFIDENCE_THRESHOLD = 0.9999
+CONFIDENCE_THRESHOLD = 0.999
 
 
 # Embedding = "Bert"
 # Embedding = "ELMo"
 # Embedding = "Doc2Vec"
-# Embedding = "word2vec"
-Embedding = "GloVe"
+Embedding = "word2vec"
+# Embedding = "GloVe"
 # Embedding = "fastText"
 # import bert
 
@@ -350,8 +350,8 @@ class TextCNN(object):
 
                 model.train(documents, total_examples=len(documents), epochs=100)
                 self.W = model.wv.syn0
-                new = tf.concat([self.results, self.input_x], 0)
-                self.embedded_chars = tf.nn.embedding_lookup(self.W, new)
+                # new = tf.concat([self.results, self.input_x], 0)
+                self.embedded_chars = tf.nn.embedding_lookup(self.W, self.input_x)
                 # print("Hello", self.embedded_chars.shape)
                 self.embedded_chars_expanded = tf.expand_dims(self.embedded_chars, -1)
             elif Embedding == "ELMo":
@@ -382,7 +382,7 @@ class TextCNN(object):
                 self.embedded_chars_expanded = tf.expand_dims(self.embedded_chars, -1)
             elif Embedding == "Bert":
                 self.weights = np.array(self.weights)
-                self.W = tf.Variable(tf.constant(0.0, shape=[vocab_size, embedding_size]), dtype=np.float32, name="W"+str(lang),
+                self.W = tf.Variable(tf.constant(0.0, shape=[vocab_size, embedding_size]), dtype=np.float32, name="W",
                                      trainable=TRAIN)
                 self.embedding_placeholder = tf.placeholder(tf.float32, [vocab_size, embedding_size])
                 # max_seq = max([len(i.split()) for i in x_text])
@@ -390,11 +390,6 @@ class TextCNN(object):
                 # print("Hello", self.embedded_chars.shape)
                 self.embedded_chars_expanded = tf.expand_dims(self.embedded_chars, -1)
             else:
-                # global weights   !!!!!!!!
-                # if Embedding == "fastText" or Embedding == "GloVe":
-                # weights = []
-                # self.model = model
-                # self.weights = np.asarray(model.vectors, dtype=np.float32)
                 self.weights = np.array(self.weights)
                 vocab = set()
                 for i in x_text:
@@ -402,15 +397,13 @@ class TextCNN(object):
                         vocab.add(j)
                 # vocab_size = len(vocab)
                 vocab_size = self.weights.shape[0]
-                # print(weights.shape)
-                # glove_weights_initializer = tf.constant_initializer(self.weights)
-                #embedding_weights = tf.constant(weights,name='embedding_weights',shape=(vocab_size, embedding_size))
-                self.W = tf.Variable(tf.constant(0.0, shape=[vocab_size, embedding_size]), dtype=np.float32,  name="W" + str(lang), trainable=TRAIN)
+
+                self.W = tf.Variable(tf.constant(0.0, shape=[vocab_size, embedding_size]), dtype=np.float32,  name="W", trainable=TRAIN)
                 self.embedding_placeholder = tf.placeholder(tf.float32, [vocab_size, embedding_size])
 
-                new = tf.concat([self.results, self.input_x], 0)
+                # new = tf.concat([self.results, self.input_x], 0)
 
-                self.embedded_chars = tf.nn.embedding_lookup(self.W, new)
+                self.embedded_chars = tf.nn.embedding_lookup(self.W, self.input_x)
                 # print("Hello", self.embedded_chars.shape)
                 self.embedded_chars_expanded = tf.expand_dims(self.embedded_chars, -1)
             self.embedded_chars_unlabeled = tf.nn.embedding_lookup(self.W, self.unlabeled_training)
@@ -424,19 +417,17 @@ class TextCNN(object):
             with tf.name_scope("conv-maxpool-%s" % filter_size):
                 # Convolution Layer
                 filter_shape = [filter_size, embedding_size, 1, num_filters]
-                W = tf.Variable(tf.truncated_normal(filter_shape, stddev=0.1), name="W"+str(lang))
-                #print(W.shape)
-                #print(self.embedded_chars_expanded.shape)
-                b = tf.Variable(tf.constant(0.1, shape=[num_filters]), name="b"+str(lang))
-                conv = tf.nn.conv2d(self.embedded_chars_expanded, W, strides=[1, 1, 1, 1], padding="VALID", name="conv"+str(lang))
-                conv_unlabeled = tf.nn.conv2d(self.embedded_chars_expanded_unlabeled, W, strides=[1, 1, 1, 1], padding="VALID", name="conv"+str(lang))
+                W = tf.Variable(tf.truncated_normal(filter_shape, stddev=0.1), name="W")
+                b = tf.Variable(tf.constant(0.1, shape=[num_filters]), name="b")
+                conv = tf.nn.conv2d(self.embedded_chars_expanded, W, strides=[1, 1, 1, 1], padding="VALID", name="conv")
+                conv_unlabeled = tf.nn.conv2d(self.embedded_chars_expanded_unlabeled, W, strides=[1, 1, 1, 1], padding="VALID", name="conv")
                 # Apply nonlinearity
-                h = tf.nn.relu(tf.nn.bias_add(conv, b), name="relu"+str(lang))
-                h_unalabeled = tf.nn.relu(tf.nn.bias_add(conv_unlabeled, b), name="relu_unlabeled"+str(lang))
+                h = tf.nn.relu(tf.nn.bias_add(conv, b), name="relu")
+                h_unalabeled = tf.nn.relu(tf.nn.bias_add(conv_unlabeled, b), name="relu_unlabeled")
                 # print(sequence_length - filter_size + 1)
                 # Maxpooling over the outputs
-                pooled = tf.nn.max_pool(h, ksize=[1, sequence_length - filter_size + 1, 1, 1], strides=[1, 1, 1, 1], padding='VALID',name="pool"+str(lang))
-                pooled_unlabeled = tf.nn.max_pool(h_unalabeled, ksize=[1, sequence_length - filter_size + 1, 1, 1], strides=[1, 1, 1, 1], padding='VALID',name="pool"+str(lang))
+                pooled = tf.nn.max_pool(h, ksize=[1, sequence_length - filter_size + 1, 1, 1], strides=[1, 1, 1, 1], padding='VALID',name="pool")
+                pooled_unlabeled = tf.nn.max_pool(h_unalabeled, ksize=[1, sequence_length - filter_size + 1, 1, 1], strides=[1, 1, 1, 1], padding='VALID',name="pool")
                 pooled_outputs.append(pooled)
                 pooled_outputs_unlabeled.append(pooled_unlabeled)
 
@@ -453,18 +444,15 @@ class TextCNN(object):
 
         # Final (unnormalized) scores and predictions
         with tf.name_scope("output"):
-            W = tf.get_variable(
-                "W"+str(lang),
-                shape=[num_filters_total, num_classes],
-                initializer=tf.contrib.layers.xavier_initializer())
-            b = tf.Variable(tf.constant(0.1, shape=[num_classes]), name="b"+str(lang))
+            W = tf.get_variable("W",shape=[num_filters_total, num_classes])
+            b = tf.Variable(tf.constant(0.1, shape=[num_classes]), name="b")
             l2_loss += tf.nn.l2_loss(W)
             l2_loss += tf.nn.l2_loss(b)
-            self.scores = tf.nn.xw_plus_b(self.h_drop, W, b, name="scores"+str(lang))  # TODO scores give confidence
-            self.predictions = tf.argmax(self.scores, 1, name="predictions"+str(lang))
+            self.scores = tf.nn.xw_plus_b(self.h_drop, W, b, name="scores")  # TODO scores give confidence
+            self.predictions = tf.argmax(self.scores, 1, name="predictions")
 
-            self.scores_unlabeled = tf.nn.softmax(tf.nn.xw_plus_b(self.h_pool_flat_unlabeled, W, b, name="scores_unlabeled"+str(lang)))
-            self.predictions_unlabeled = tf.argmax(self.scores_unlabeled, 1, name="predictions"+str(lang))
+            self.scores_unlabeled = tf.nn.softmax(tf.nn.xw_plus_b(self.h_pool_flat_unlabeled, W, b, name="scores_unlabeled"))
+            self.predictions_unlabeled = tf.argmax(self.scores_unlabeled, 1, name="predictions")
 
             with tf.name_scope("co-training"):
                 maxs = tf.reduce_max(self.scores_unlabeled, reduction_indices=[1])
@@ -473,86 +461,40 @@ class TextCNN(object):
                 mask = tf.where(maxs > CONFIDENCE_THRESHOLD, ones, zeros)
                 # self.predictions_unlabeled = tf.argmax(self.scores_unlabeled, 1, name="predictions_unlabeled")
 
-                self.results = tf.concat([self.results, tf.boolean_mask(self.unlabeled_training, mask)], 0)
+                self.results = tf.boolean_mask(self.unlabeled_training, mask)
 
                 self.new_y = tf.boolean_mask(self.scores_unlabeled, mask)
-                self.predict2 = tf.argmax(self.new_y, 1, name="predictions_unlabeled"+str(lang))
-                self.predict = tf.one_hot(self.predict2, 2, dtype=tf.float32) # predicted labels above average
+                self.predict2 = tf.argmax(self.new_y, 1, name="predictions_unlabeled")
+                self.results_y = tf.one_hot(self.predict2, 2, dtype=tf.float32) # predicted labels above average
                 self.actual_unlabeled_labels = tf.boolean_mask(self.y_unlabeled, mask)
-                self.results_y = tf.concat([self.input_y, self.predict], 0)
                 # take filtered maxs
                 # argmax
                 # onehot
 
                 # self.y = tf.concat()
-                self.cross = self.results[1:]
                 self.next = tf.boolean_mask(self.unlabeled_training, tf.where(maxs > CONFIDENCE_THRESHOLD, zeros, ones))
                 self.next_y = tf.boolean_mask(self.y_unlabeled, tf.where(maxs > CONFIDENCE_THRESHOLD, zeros, ones))
                 self.maxs = maxs
         # Calculate mean cross-entropy loss
 
         with tf.name_scope("loss"):
-            losses = tf.nn.softmax_cross_entropy_with_logits(logits=self.scores[-self.n:], labels=self.input_y[-self.n:])
+            losses = tf.nn.softmax_cross_entropy_with_logits(logits=self.scores, labels=self.input_y)
             self.loss = tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
             # Accuracy
             with tf.name_scope("accuracy"):
-                correct_predictions = tf.equal(self.predictions[1:], tf.argmax(self.input_y, 1))
+                correct_predictions = tf.equal(self.predictions, tf.argmax(self.input_y, 1))
                 correct_predictions_unlabeled = tf.equal(self.predict2, tf.argmax(self.actual_unlabeled_labels, 1))
 
-                self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy"+str(lang))
-                self.accuracy_unlabeled = tf.reduce_mean(tf.cast(correct_predictions_unlabeled, "float"), name="accuracy"+str(lang))
+                self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
+                self.accuracy_unlabeled = tf.reduce_mean(tf.cast(correct_predictions_unlabeled, "float"), name="accuracy")
             with tf.name_scope("precision"):
-                # print(self.predictions.shape)
-                self.confusion = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[1:],
-                                                     num_classes=num_classes, name="confusion"+str(lang))
-                if self.binary:
-                    self.precision = self.confusion[0][0] / (self.confusion[0][0] + self.confusion[0][1])
-                else:
-                    self.precision = [self.confusion[i][i] / tf.reduce_sum(self.confusion, 1)[i] for i in
-                                      range(self.confusion.shape[0])]  # with tf.name_scope("f1"):
+                self.precision = tf.metrics.precision(tf.argmax(self.input_y, 1), self.predictions)
             with tf.name_scope("recall"):
-                self.confusion = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[1:],
-                                                     num_classes=num_classes,
-                                                     name="confusion"+str(lang))
-                if self.binary:
-                    self.recall = self.confusion[0][0] / (
-                            self.confusion[0][0] + self.confusion[1][0])  # with tf.name_scope("f1"):
-                else:
-                    self.recall = [self.confusion[i][i] / tf.reduce_sum(self.confusion, 0)[i] for i in
-                                   range(self.confusion.shape[0])]  # with tf.name_scope("f1"):
-            # Confusion
+                self.recall = tf.metrics.recall(tf.argmax(self.input_y, 1), self.predictions)
             with tf.name_scope("confusion"):
-                self.confusion = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[1:],
-                                                     num_classes=num_classes, name="confusion"+str(lang))
+                self.confusion = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions,
+                                                     num_classes=num_classes, name="confusion")
                 self.confusion_unlabeled = tf.confusion_matrix(tf.argmax(self.actual_unlabeled_labels, 1), self.predict2,
-                                                     num_classes=num_classes, name="confusion"+str(lang))
-
-            with tf.name_scope("loss_dev"):
-                losses_dev = tf.nn.softmax_cross_entropy_with_logits(logits=self.scores[-self.n:], labels=self.input_y)
-                self.loss_dev = tf.reduce_mean(losses_dev) + l2_reg_lambda * l2_loss
-                # Accuracy
-                with tf.name_scope("accuracy_dev"):
-                    correct_predictions_dev = tf.equal(self.predictions[-self.n:], tf.argmax(self.input_y, 1))
-                    self.accuracy_dev = tf.reduce_mean(tf.cast(correct_predictions_dev, "float"), name="accuracy")
-                with tf.name_scope("precision_dev"):
-                    self.confusion_dev = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[-self.n:],
-                                                         num_classes=num_classes, name="confusion"+str(lang))
-                    if self.binary:
-                        self.precision_dev = self.confusion_dev[0][0] / (self.confusion_dev[0][0] + self.confusion_dev[0][1])
-                    else:
-                        self.precision_dev = [self.confusion_dev[i][i] / tf.reduce_sum(self.confusion_dev, 1)[i] for i in
-                                          range(self.confusion_dev.shape[0])]  # with tf.name_scope("f1"):
-                with tf.name_scope("recall_dev"):
-                    self.confusion_dev = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[-self.n:],
-                                                         num_classes=num_classes,
-                                                         name="confusion"+str(lang))
-                    if self.binary:
-                        self.recall_dev = self.confusion_dev[0][0] / (
-                                self.confusion_dev[0][0] + self.confusion_dev[1][0])  # with tf.name_scope("f1"):
-                    else:
-                        self.recall_dev = [self.confusion_dev[i][i] / tf.reduce_sum(self.confusion_dev, 0)[i] for i in
-                                       range(self.confusion_dev.shape[0])]  # with tf.name_scope("f1"):
-                # Confusion
-                with tf.name_scope("confusion_dev"):
-                    self.confusion_dev = tf.confusion_matrix(tf.argmax(self.input_y, 1), self.predictions[-self.n:],
-                                                         num_classes=num_classes, name="confusion"+str(lang))
+                                                     num_classes=num_classes, name="confusion")
+            with tf.name_scope("f1"):
+                self.f1 = tf.contrib.metrics.f1_score(tf.argmax(self.input_y, 1), self.predictions)

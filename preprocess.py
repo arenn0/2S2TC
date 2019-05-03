@@ -121,9 +121,9 @@ def load_data_and_bin_labels(dir):
                         corpus.append(clean_str(line[0]))
                         # l.append(line[1])
                         if (ITALIAN and line[1] == "damage") or (not ITALIAN and line[1] == "Related and informative"):
-                            labels.append(0)
-                        else:
                             labels.append(1)
+                        else:
+                            labels.append(0)
 
     data = array(labels)
     encoded = to_categorical(data)
