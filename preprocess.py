@@ -6,7 +6,7 @@ from numpy import array
 
 # import train
 
-ITALIAN = False
+ITALIAN = True
 create_file = False
 
 def preprocess(dir, dir2, COLUMN_CATEGORY = 4, COLUMN_TWEET = 1):
@@ -113,8 +113,7 @@ def load_data_and_bin_labels(dir):
             lines = csv.reader(csvfile, delimiter=',')
             index = 0
             for line in lines:
-                if index == 0:
-                    index += 1
+                if line[0] == 'text' or line[0] == ' Tweet Text':
                     continue
                 if len(line) == 2:
                     if (ITALIAN and line[1] != 'not relevant') or (not ITALIAN and (line[1] !='Not related' and line[1] !='Not applicable') ):

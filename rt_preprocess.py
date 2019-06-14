@@ -7,16 +7,16 @@ import tensorflow as tf
 import nltk
 import numpy
 
-tf.flags.DEFINE_string("input_dir", "CrisisLexT26_preprocessed/", "input dir for preprocessing purposes")
-tf.flags.DEFINE_string("output_dir", "rt_like_data/english_expanded/", "output dir for preprocessing purposes")
-tf.flags.DEFINE_string("unlabeled_dir", "rt_like_data/unlabeled/", "unlabeled dir for preprocessing purposes")
-tf.flags.DEFINE_bool("italian", False, "English or Italian corpus")
+tf.flags.DEFINE_string("input_dir", "italian_preprocessed/", "input dir for preprocessing purposes")
+tf.flags.DEFINE_string("output_dir", "rt_like_data/italian_expanded/", "output dir for preprocessing purposes")
+tf.flags.DEFINE_string("unlabeled_dir", "rt_like_data/italian_unlabeled/", "unlabeled dir for preprocessing purposes")
+tf.flags.DEFINE_bool("italian", True, "English or Italian corpus")
 tf.flags.DEFINE_bool("use_unlabeled", True, "Use unlabeled data")
 tf.flags.DEFINE_float("percentage", 0.1, "Percentage of labeled data to use")
 
 def format_file(text):
     file = ""
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    tokenizer = nltk.data.load('tokenizers/punkt/italian.pickle')
     return '\n'.join(tokenizer.tokenize(text))
 
 FLAGS = tf.flags.FLAGS

@@ -8,7 +8,7 @@ word2idx = {}
 weights = []
 
 
-ITALIAN = False
+ITALIAN = True
 TRAIN = True
 # CONFIDENCE_THRESHOLD = 0.9999
 # CONFIDENCE_THRESHOLD = 0.99999 Good with 50 epochs

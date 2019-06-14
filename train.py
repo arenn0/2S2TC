@@ -11,13 +11,13 @@ import tensorflow as tf
 
 import preprocess
 
-ITALIAN = False
+ITALIAN = True
 BINARY = True
 PRETRAINEDEMBEDDING = True
 TRAIN = True
 
-CNN = False
-SVM= True
+CNN = True
+SVM= False
 NB = False
 # Parameters
 # ==================================================
